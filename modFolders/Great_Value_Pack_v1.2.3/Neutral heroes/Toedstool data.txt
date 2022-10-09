@@ -1,0 +1,27 @@
+Name
+Toedstool
+
+Class
+Mercenary
+
+Unit
+Mycell
+
+Skills
+Mastery
+Wild Communion
+Elementalism
+Swarming
+Legion
+Learning
+Toxicology
+Speaker
+Hex
+Recruitment
+Conflux
+Scouting
+Regeneration
+Terramancy
+Hydromancy
+Dizzy Tune
+Warding

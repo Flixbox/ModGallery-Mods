@@ -1,0 +1,8 @@
+Skin Name
+honey_Vinios
+
+Skin Pack Name
+honey_heroes
+
+Skin Pack Index
+6

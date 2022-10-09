@@ -1,0 +1,8 @@
+Skill Name
+Spring Steal
+
+Reference Name
+lake_SpringSteal
+
+Skill Description
+Enemies attacked by and around this hero won't benefit from the healing effects of Spring, additionally grants the hero venomous attacks.

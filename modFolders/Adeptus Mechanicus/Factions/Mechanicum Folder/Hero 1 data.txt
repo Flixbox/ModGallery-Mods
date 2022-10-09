@@ -1,0 +1,24 @@
+Name
+Khepra
+
+Unit
+Skitarii Ranger
+
+Skills
+Rallying
+Mastery
+Bloodlust
+Legion
+Leadership
+Recruitment
+Swarming
+Archery
+Tactics
+Fortune
+Royalty
+Recalcitrance
+Armorer
+Diplomacy
+Scouting
+Combat
+Healing

@@ -1,0 +1,27 @@
+Name
+Daiyousei
+
+Class
+Wild Fairy
+
+Unit
+Power
+
+Skills
+Swarming
+Logistics
+Oligarchy
+Legion
+Healing
+Toxicology
+Champion
+Archery
+Destruction
+Recalcitrance
+Mastery
+Armorer
+Fortune
+Scouting
+Midas Touch
+Royalty
+Dragonking

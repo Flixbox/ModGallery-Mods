@@ -1,0 +1,24 @@
+Name
+Exerior
+
+Unit
+Army Ant
+
+Skills
+Colony Call
+Swarming
+Recalcitrance
+Legion
+Royalty
+Recruitment
+Midas Touch
+Leadership
+Mastery
+Bodyguards
+Offense
+Combat
+Terramancy
+Armorer
+Oligarchy
+Engineering
+Bloodlust

@@ -1,0 +1,53 @@
+Names
+Cannon
+Ribauldequin
+
+Gold cost for base unit
+2000
+
+Weekly Growth
+1
+
+Rare Resource Cost
+2S
+
+Balance modifier
+100
+100
+
+Abilities
+Ranged
+Long Ranged
+Bulletprojectile
+Windup
+Slow
+Sturdy
+Fester
+Critical Strike
+Knockback
+
+Abilities for upgrade
+Ranged
+Kartacz
+Windup
+Slow
+Sturdy
+Fester
+Critical Strike
+Blaster
+
+Use sound effects from X unit
+Hand-cannoneer
+
+Attack type
+0
+
+Living
+0
+
+Link
+Serf
+
+Unit groups
+
+

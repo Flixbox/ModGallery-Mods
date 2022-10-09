@@ -1,0 +1,27 @@
+Name
+Clownpiece
+
+Class
+Wild Fairy
+
+Unit
+Makairy
+
+Skills
+Watcher
+Destruction
+Combat
+Pyromancy
+Warding
+Toxicology
+Summoning
+Bloodlust
+Bloodwarping
+Demonology
+Necromancy
+Regeneration
+Potency
+Legion
+Oligarchy
+Mercurial
+Dizzy Tune

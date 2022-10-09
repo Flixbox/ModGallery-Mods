@@ -1,0 +1,8 @@
+Skill Name
+Rabble Rouser
+
+Reference Name
+mDSMP_RabbleSkill
+
+Skill Description
+Occasionally summons mobs of weak units behind the enemy lines.

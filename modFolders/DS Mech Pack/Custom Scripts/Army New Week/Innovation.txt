@@ -1,0 +1,27 @@
+checkskillrank("mDSMP_Innovation")
+if (skillrank > 0)
+{
+	//log_clear("innotest")
+	//log_write("innotest", mDSMP_innoValue)
+
+	if (mDSMP_innoTarget = undefined)
+	{
+		pickunitfromgroup("mDSMP_Machinery", random(1))
+		mDSMP_innoTarget = foundunit
+		//log_write("innotest", mDSMP_innoTarget)
+	}
+	
+	unit_get_data(mDSMP_innoTarget, 7)
+	//log_write("innotest", "costs")
+	//log_write("innotest", result)
+	if (result <= mDSMP_innoValue)
+	{
+		cost = result
+		amount = floor(mDSMP_innoValue/cost)
+		addunit_number(mDSMP_innoTarget, amount)
+		mDSMP_innoValue -= (cost * amount)
+		//log_write("innotest", "adding")
+		//log_write("innotest", mDSMP_innoValue)
+	}
+
+}

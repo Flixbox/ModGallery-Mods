@@ -1,0 +1,11 @@
+Set Display Name
+Sylress
+
+Set Reference Name
+colony_Thunder
+
+Set Description
+Whenever the user casts an Air spell, allied ranged units get a +20% damage boost. Ranged units also gain petrifying attacks permanently.
+
+Set Threshold (number of artifacts equipped to achieve set bonus)
+2

@@ -1,0 +1,27 @@
+Name
+Redael
+
+Class
+Hivekeeper
+
+Unit
+Wasp Soldier
+
+Skills
+honey_Courage
+honey_Pride
+Armorer
+Offense
+Scouting
+Combat
+Recalcitrance
+Bloodlust
+Oligarchy
+Aeromancy
+Recruitment
+Leadership
+Fortune
+Mastery
+Engineering
+Warding
+Bodyguards

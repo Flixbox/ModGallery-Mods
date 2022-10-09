@@ -1,0 +1,4 @@
+if checkbuilding("mDwGreed_Gulag")
+{
+	addresource(0, 250)
+}

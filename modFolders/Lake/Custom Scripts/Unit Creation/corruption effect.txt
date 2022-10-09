@@ -1,0 +1,5 @@
+checkability("lake_corrupt")
+if hasability
+{
+alarm_set("lake_corruptiondestruct",3)
+}

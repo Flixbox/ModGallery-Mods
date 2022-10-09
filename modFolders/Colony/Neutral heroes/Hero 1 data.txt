@@ -1,0 +1,27 @@
+Name
+Solere
+
+Class
+Antmonarch
+
+Unit
+Fire Ant
+
+Skills
+Colony Call
+Offense
+Recalcitrance
+Legion
+Royalty
+Destruction
+Midas Touch
+Leadership
+Mastery
+Bodyguards
+Bloodlust
+Combat
+Pyromancy
+Armorer
+Oligarchy
+Engineering
+Recruitment

@@ -1,0 +1,27 @@
+Name
+Necordi
+
+Class
+Antscholar
+
+Unit
+Zombie Ant
+
+Skills
+Pheromones
+Recalcitrance
+Summoning
+Hydromancy
+Necromancy
+Toxicology
+Warding
+Champion
+Plunder
+Bloodlust
+Swarming
+Dizzy Tune
+Hex
+Offense
+Bodyguards
+Logistics
+Leadership

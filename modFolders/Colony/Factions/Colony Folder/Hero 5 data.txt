@@ -1,0 +1,24 @@
+Name
+Pheidel
+
+Unit
+Bigheaded Ant
+
+Skills
+Pheromones
+Warding
+Creation
+Terramancy
+Planning
+Armorer
+Mysticism
+Potency
+Diplomacy
+Mastery
+Recalcitrance
+Wisdom
+Sorcery
+Estates
+Elementalism
+Leadership
+Engineering

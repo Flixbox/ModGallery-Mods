@@ -1,0 +1,24 @@
+Name
+Nisra
+
+Unit
+Fire Ant
+
+Skills
+Pheromones
+Mastery
+Mysticism
+Pyromancy
+Bloodwarping
+Offense
+Regeneration
+Learning
+Destruction
+Champion
+Swarming
+Summoning
+Demonology
+Warding
+Tactics
+Bloodlust
+Bodyguards

@@ -1,0 +1,6 @@
+checkskillrank("lake_FireImmune")
+if ishero
+if skillrank > 0
+{
+alarm_set("SummerimmuneCircle", 1)
+}

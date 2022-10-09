@@ -1,0 +1,8 @@
+Skin Name
+honey_Bumbler
+
+Skin Pack Name
+honey_heroes
+
+Skin Pack Index
+7

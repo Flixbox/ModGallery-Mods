@@ -1,0 +1,63 @@
+FACTION NAME
+Pokemane
+
+FACTION UNITS ALTERNATES
+2
+3
+5
+
+HERO NAMES (fighter first, caster second)
+Pokebattler
+Trainer
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Bug Forest
+Daycare Center
+Volcanic Vent
+Hydro Plant
+Pokecenter
+Lighthouse
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Grass
+
+TOWN NAMES (write as many as required)
+Pallet Town
+Pewter City
+Cerulean City
+Vermillion City
+Saffron City
+Lavender Town
+Celadon City
+Fuschia City
+Veridian City
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Arcane
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Water
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME:
+Pokemane
+
+LORE MAIN RACE:
+Pokemon
+
+LORE HISTORY:
+Pokemans
+
+LORE CULTURE:
+Catch 'Em All
+
+LORE HERO FIGHTER:
+Why so much lore?
+
+LORE HERO CASTER:
+No more lore... please

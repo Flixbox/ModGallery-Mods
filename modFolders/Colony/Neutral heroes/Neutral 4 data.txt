@@ -1,0 +1,27 @@
+Name
+Saurey
+
+Class
+Antmonarch
+
+Unit
+Dino Ant
+
+Skills
+Colony Call
+Champion
+Recalcitrance
+Combat
+Bloodwarping
+Tactics
+Dragonking
+Midas Touch
+Fortune
+Devour
+Leadership
+Armorer
+Plunder
+Logistics
+Oligarchy
+Destruction
+Warding

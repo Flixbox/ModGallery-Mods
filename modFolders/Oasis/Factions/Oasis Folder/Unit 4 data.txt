@@ -1,0 +1,49 @@
+Names (first basic, then the upgrade)
+Dire Jackal
+Blood Jackal
+
+Gold cost for base unit (also decides basic strength of unit)
+580
+
+Weekly Growth
+2
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+1O
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+80
+70
+
+Abilities for base unit
+Small
+Good
+Good
+Immortal
+Lash
+Insensate
+Blood Aura
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Small
+Bad
+Immortal
+Lash
+Insensate
+Blood Aura
+Bodyguards
+Infest Half
+
+Use sound effects from X unit
+Cerberus
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Blade Ritual
+
+Unit groups

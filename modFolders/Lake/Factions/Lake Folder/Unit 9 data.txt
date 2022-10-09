@@ -1,0 +1,47 @@
+Names (first basic, then the upgrade)
+Makairy
+Lucifairy
+
+Gold cost for base unit (also decides basic strength of unit)
+2600
+
+Weekly Growth
+1
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+1S
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+70
+100
+
+Abilities for base unit
+Flying
+Double Summoning
+Immortal
+lake_pivot
+Shrink
+Hover
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Flying
+Rapid Summoning
+Immortal
+Shrink
+Long Ranged
+lake_devoursoul
+Hover
+
+Use sound effects from X unit
+Incarnation
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+3
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Makaiflower
+
+Unit groups

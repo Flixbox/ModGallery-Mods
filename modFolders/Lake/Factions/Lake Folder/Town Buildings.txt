@@ -1,0 +1,99 @@
+type: Plaza
+image: lakeplazalvl1
+x: 223
+y: 172
+
+type: Architect
+image: lakearchitect
+x: 112
+y: 192
+
+type: Dwelling 1
+image: lakepowerdwelling
+x: 214
+y: 86
+
+type: Dwelling 2
+image: lakeluxurycocoon
+x: 242
+y: 64
+
+type: Market
+image: lakemarketplace
+x: 74
+y: 184
+
+type: Tavern
+image: laketavern
+x: 312
+y: 189
+
+type: Fort
+image: auto
+x: 80
+y: 59
+
+type: Hospital
+image: lakeinfirmary
+x: 273
+y: 73
+
+type: Dwelling 3
+image: lakeschoolofeverything
+x: 302
+y: 101
+
+type: Guild of Mages
+image: lakemageguild
+x: 153
+y: 196
+
+type: Archives of Magic
+image: lakeiforgothesecondmagebuild
+x: 187
+y: 190
+
+type: Dwelling 4
+image: laket4dwelling
+x: 176
+y: 33
+
+type: Dwelling 5
+image: lakeplaguebreach
+x: 34
+y: 172
+
+type: Engineer
+image: auto
+x: 64
+y: 160
+
+type: Dwelling 6
+image: lakeominousportal
+x: 37
+y: 122
+
+type: Archmage Tribunal
+image: lakearchtribunal
+x: 26
+y: 85
+
+type: Faction Mechanic 1
+image: lakeseasonclock
+x: 154
+y: 134
+
+type: Antique Shop
+image: auto
+x: 13
+y: 202
+
+type: Faction Mechanic 2
+image: lakesecondbuilding
+x: 283
+y: 156
+
+type: Mercenary Hall
+image: auto
+x: 300
+y: 197

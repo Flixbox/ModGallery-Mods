@@ -1,0 +1,7 @@
+if spellname = "mDwGreed_Rubedo"
+{
+	with(spell_target_list)
+	{
+		golden = (golden)|(ishero = 0)
+	}
+}

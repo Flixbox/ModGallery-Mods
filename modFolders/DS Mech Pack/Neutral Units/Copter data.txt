@@ -1,0 +1,35 @@
+Names
+Iron Butterfly
+
+Reference Name
+mDSMP_Copter
+
+Gold cost for base unit
+700
+
+Balance modifier
+100
+
+Abilities
+Flying
+Sturdy
+Sturdy
+Charge
+Retaliation
+Mechanical
+
+Use sound effects from X unit
+Cannoneer
+
+Attack type
+0
+
+Living
+0
+
+Link
+mDSMP_Mechanic
+
+Unit groups
+Mountain King
+

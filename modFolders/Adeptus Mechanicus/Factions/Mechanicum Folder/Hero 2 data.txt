@@ -1,0 +1,24 @@
+Name
+Kephra2
+
+Unit
+Skitarii Ranger
+
+Skills
+Tactics
+Rallying
+Legion
+Bloodlust
+Leadership
+Mastery
+Swarming
+Elementalism
+Fortune
+Recruitment
+Royalty
+Archery
+Armorer
+Destruction
+Recalcitrance
+Scouting
+Healing

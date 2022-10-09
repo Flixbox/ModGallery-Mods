@@ -1,0 +1,4 @@
+if checkbuilding("orchard_effect")
+{
+	addresource(gold,1500)
+}

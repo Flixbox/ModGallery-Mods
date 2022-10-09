@@ -1,0 +1,5 @@
+Ability Name
+mDSMP_Unremarkable
+
+Ability Description
+Unremarkable: This unit is much less likely to be targeted.

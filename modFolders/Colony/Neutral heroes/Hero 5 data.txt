@@ -1,0 +1,27 @@
+Name
+Alres
+
+Class
+Antscholar
+
+Unit
+Alate Scout
+
+Skills
+Pheromones
+Midas Touch
+Aeromancy
+Potency
+Bodyguards
+Royalty
+Mysticism
+Wisdom
+Logistics
+Champion
+Diplomacy
+Sorcery
+Warding
+Oligarchy
+Fortune
+Offense
+Leadership

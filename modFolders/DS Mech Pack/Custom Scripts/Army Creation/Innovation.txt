@@ -1,0 +1,1 @@
+init(mDSMP_innoValue, 0)

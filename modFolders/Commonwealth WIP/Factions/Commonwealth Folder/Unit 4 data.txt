@@ -1,0 +1,46 @@
+Names
+Field Infantry
+Chosen Infantry
+
+Gold cost for base unit
+290
+
+Weekly Growth
+6
+
+Rare Resource Cost
+0L
+
+Balance modifier
+100
+100
+
+Abilities
+Ranged
+Long Ranged
+Bulletprojectile
+Windup
+Slowing
+
+Abilities for upgrade
+Ranged
+Long Ranged
+Bulletprojectile
+Windup
+Slowing
+Bullseye
+
+Use sound effects from X unit
+Hand-cannoneer
+
+Attack type
+0
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+Imperial Legion

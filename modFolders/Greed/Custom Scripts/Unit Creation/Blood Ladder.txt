@@ -1,0 +1,4 @@
+if checkability("mDSMP_BLadder") & name = "mDwGreed_Demon2"
+{
+	mDSMP_SummonName = "mDwGreed_DemonBoss"
+}

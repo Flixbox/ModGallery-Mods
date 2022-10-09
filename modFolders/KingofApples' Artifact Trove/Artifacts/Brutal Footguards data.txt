@@ -1,0 +1,26 @@
+Name
+Brutal Footguards
+
+Slot (Helmet 1, Necklace 2, Torso 3, Cape 4, Weapon 5, Shield 6, Trinket 7, Gloves 8, Boots 9, Legs 10)
+9
+
+Quality (Basic 1, Intermediate 2, Advanced 3, Greater 4, Ultimate 5)
+3
+
+FIRST BONUS: size
+1
+
+FIRST BONUS: effect
+Defense
+
+SECOND BONUS: size
+1
+
+SECOND BONUS: effect
+Combat
+
+Part of artifact set: (none 0, Mesmer 1, Rabbit 2, Titan 3, Mandel 4, Tusk 5, Widle 6, Echoes 7)
+0
+
+Strength or magic-oriented: (magic 0, strength 1)
+1

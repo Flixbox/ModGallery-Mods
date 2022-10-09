@@ -1,0 +1,7 @@
+if eirosartifactactive = 1
+{
+	if floor(random(100)) < 10
+	{
+		summonunit("Cyclone",1)
+	}
+}

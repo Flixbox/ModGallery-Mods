@@ -1,0 +1,5 @@
+Name:
+Myriad Swarm
+
+Hero:
+Red Spectre

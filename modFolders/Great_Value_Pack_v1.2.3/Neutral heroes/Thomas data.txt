@@ -1,0 +1,27 @@
+Name
+Thomas
+
+Class
+Mercenary
+
+Unit
+Hellgoat
+
+Skills
+Mastery
+Devour
+Champion
+Destruction
+Demonology
+Might
+Regeneration
+Summoning
+Logistics
+Dragonking
+Watcher
+Offense
+Fortune
+Dizzy Tune
+Toxicology
+Recalcitrance
+Swarming

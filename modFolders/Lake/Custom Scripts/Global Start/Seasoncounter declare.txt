@@ -1,0 +1,2 @@
+global_set(seasoncounter, 0)
+global_set(seasonmirroractive, 0)

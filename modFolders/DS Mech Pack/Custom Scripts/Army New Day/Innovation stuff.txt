@@ -1,0 +1,10 @@
+checkskillrank("mDSMP_Innovation")
+if (skillrank > 0)
+{
+	if (mDSMP_innoValue = undefined)
+	{
+		mDSMP_innoValue = 0
+	}
+	mDSMP_innoValue += 350 * skillrank
+	show_message(mDSMP_innoValue)
+}

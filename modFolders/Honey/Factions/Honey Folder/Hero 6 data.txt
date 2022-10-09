@@ -1,0 +1,24 @@
+Name
+Meliody
+
+Unit
+Honey Mage
+
+Skills
+honey_Guidance
+honey_Pacifist
+Hydromancy
+Dizzy Tune
+Healing
+Learning
+Regeneration
+Potency
+Aeromancy
+Champion
+Archery
+Oligarchy
+Creation
+Summoning
+Recalcitrance
+Tactics
+Leadership

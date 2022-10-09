@@ -1,0 +1,38 @@
+Names
+Iron Caterpillar
+
+Reference Name
+mDSMP_Drill
+
+Gold cost for base unit
+1000
+
+Balance modifier
+100
+
+Abilities
+Slow
+Sturdy
+Sturdy
+Knockback
+Protected
+Knockback
+Windup
+Wide Attacks
+Mechanical
+
+Use sound effects from X unit
+Cannoneer
+
+Attack type
+0
+
+Living
+0
+
+Link
+mDSMP_Mechanic
+
+Unit groups
+Mountain King
+

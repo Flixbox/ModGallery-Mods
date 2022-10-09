@@ -1,0 +1,4 @@
+if changedskill = "lake_Season Burst"
+{
+	spell_learn("lake_Season Spell")
+}

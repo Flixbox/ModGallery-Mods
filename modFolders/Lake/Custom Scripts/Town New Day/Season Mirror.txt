@@ -1,0 +1,21 @@
+if checkbuilding("lake_SeasonMirror")
+{
+global_set(seasonmirroractive, 1)
+global_read(seasoncounter)
+if (result=0)|(result=1)
+{
+addunit_number("Ghost Fairy",1)
+}
+if (result=2)|(result=3)
+{
+addunit_number("Lesser Winter",1)
+}
+if (result=4)|(result=5)
+{
+addunit_number("Lesser Spring",1)
+}
+if (result=6)|(result=7)
+{
+addunit_number("Lesser Summer",1)
+}
+}

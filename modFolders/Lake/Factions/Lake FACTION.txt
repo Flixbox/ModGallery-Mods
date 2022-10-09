@@ -1,0 +1,62 @@
+FACTION NAME
+Lake
+
+FACTION UNITS ALTERNATES
+3
+4
+5
+
+HERO NAMES (fighter first, caster second)
+Fairy of Season
+Fairy of Light
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Nature Fantasy
+Overgrown
+School of Everything
+Unearthed
+Overgrown Plague Breach
+Ominous Portal
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Tundra
+
+TOWN NAMES (write as many as required)
+Not Makai
+Misty Lake
+Forest of Magic
+Trustworthy Place
+Mariana Trenchcoat
+Sunflower Lake of Flowery Flowers
+Pranks Not Allowed
+Fairies Only
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Enclave
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Toxicology
+
+LORE NAME: 
+Very Pretty and Awesome and Incredible Lake #2
+
+LORE MAIN RACE:
+Faerie
+
+LORE HISTORY:
+Once upon a time, there were a bunch of fairies, they loved to play...and thats it..oh yeah, they also want to monopolize pranks, somehow, good luck. You also don't want to know what happened to the Very Pretty and Awesome and Incredible Lake #1
+
+LORE CULTURE:
+The fairies don't really have a hierarchy, as they're not very smart and are usually only having fun, due to their immortality, their wars consist of them killing each other over and over again until one gives up because of the pain, they forget all about the conflict the next day. Because of this, they believe EVERYONE that is killed will eventually come back, so they have pretty deadly pranks and fights against others.
+
+LORE HERO FIGHTER:
+The strongest of the fairies, which does NOT mean the smartest.
+
+LORE HERO CASTER: 
+"We are the strongest!" "We are the three musketeers!" "We are the rebellious Three Fairies!"

@@ -1,0 +1,8 @@
+if (name = "mDSMP_Rat")
+{
+	temp_index = floor(random(5)) - 1
+	if temp_index >= 0
+	{
+		unitskin_pack("mDSMP_RatAlt", temp_index)
+	}
+}

@@ -1,0 +1,24 @@
+Name
+Saffron
+
+Unit
+Night Cat
+
+Skills
+Mastery
+Archery
+Aeromancy
+Hydromancy
+Legion
+Healing
+DizzyTune
+Regeneration
+Oligarchy
+Fortune
+Warding
+Sorcery
+Mysticism
+Potency
+Tactics
+Leadership
+Bodyguards

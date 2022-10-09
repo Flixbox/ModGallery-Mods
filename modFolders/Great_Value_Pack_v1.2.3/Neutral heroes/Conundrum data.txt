@@ -1,0 +1,27 @@
+Name
+Conundrum
+
+Class
+Wanderer
+
+Unit
+Seamare
+
+Skills
+Mastery
+Toxicology
+Hex
+Dizzy Tune
+Legion
+Archery
+Learning
+Logistics
+Regeneration
+Scouting
+Hydromancy
+Fortune
+Leadership
+Sorcery
+Mysticism
+Recalcitrance
+Blight Ritual

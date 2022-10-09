@@ -1,0 +1,8 @@
+Skin Name
+mDwGreed_Gachi_Alt2
+
+Skin Pack Name
+mDwGreed_Gachi_Alt
+
+Skin Pack Index
+1

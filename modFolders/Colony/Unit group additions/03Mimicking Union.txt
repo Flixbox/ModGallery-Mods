@@ -1,0 +1,18 @@
+Name:
+Mimicking Union
+
+Hero:
+Hienix
+
+Add units:
+Ant Larvae
+Velvet Ant
+Antspider
+Dino Ant
+Winter Ant
+Galvant
+Jumper Ant
+Glacier-Eating Ant
+Pharaoh Ant
+Electric Ant
+Zombie Ant

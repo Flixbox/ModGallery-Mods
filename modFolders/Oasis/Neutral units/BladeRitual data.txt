@@ -1,0 +1,26 @@
+Name
+Blade Ritual
+
+Gold cost for base unit (also decides basic strength of unit)
+85
+
+Balance modifier
+100
+
+Abilities
+Health 0
+Splitting
+
+Use sound effects from X unit
+Penguin
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Blood Blade
+
+Unit groups

@@ -1,0 +1,21 @@
+Name
+Red Spectre
+
+Class
+Extinctor
+
+Unit
+Skeleton
+
+Skills
+Bane
+mDSMP_RabbleSkill
+Necromancy
+Combat
+Legion
+Bodyguards
+Regeneration
+Offence
+Armorer
+Warding
+Swarming

@@ -1,0 +1,45 @@
+Names
+Skitarii Major
+Skitarii Marshal
+
+Gold cost for base unit
+1200
+
+Weekly Growth
+2
+
+Rare Resource Cost
+0O
+
+Balance modifier
+50
+50
+
+Abilities
+Ranged
+Bulletprojectile
+Bodyguards
+Summoning
+
+Abilities for upgrade
+Ranged
+Bulletprojectile
+Bodyguards
+Summoning
+Aura of Power
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Ranger Alpha
+
+Unit groups
+
+

@@ -1,0 +1,31 @@
+Name
+Honey Cannon
+
+Gold cost for base unit (also decides basic strength of unit)
+785
+
+Balance modifier
+85
+
+Abilities
+Ranged
+honey_Flameprojectile
+Inert
+Blaster
+Slowing
+Windup
+Tower
+
+Use sound effects from X unit
+Rock Pummeler
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+0
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Bumblengineer
+
+Unit groups

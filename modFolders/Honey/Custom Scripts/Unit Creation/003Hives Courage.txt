@@ -1,0 +1,36 @@
+checkskillrank("honey_Courage")
+if skillrank > 0
+{
+	if ishero = 1
+	{
+		commander_get_data()
+		CourageHeroData = workingarray
+		array_read(CourageHeroData,17)
+		{
+			if result = "Veirion"
+			{
+				mhealth += 25*skillrank
+			}
+			if result = "Horion"
+			{
+				damage += 3*skillrank
+			}
+			if result = "Snight"
+			{
+				damage += 3*skillrank
+			}
+			if result = "Vinios"
+			{
+				damage += 3*skillrank
+			}
+			if result = "Bumbler"
+			{
+				mhealth += 25*skillrank
+			}
+			if result = "Redael"
+			{
+				mhealth += 25*skillrank
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+Name
+Lilac Assassin
+
+Class type (0: caster, 1: fighter)
+0

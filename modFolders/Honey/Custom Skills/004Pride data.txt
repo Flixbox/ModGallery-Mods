@@ -1,0 +1,8 @@
+Skill Name
+Champions Pride
+
+Reference Name
+honey_Pride
+
+Skill Description
+The hero gains attack after combat depending on the strength of the enemy army but reduces spellpower by 1 per rank. Effect increases per rank.

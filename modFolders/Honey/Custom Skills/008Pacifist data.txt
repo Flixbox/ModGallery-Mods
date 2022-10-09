@@ -1,0 +1,8 @@
+Skill Name
+Pacifist Leadership
+
+Reference Name
+honey_Pacifist
+
+Skill Description
+This hero gains the ability to heal and rally allies, the times they can heal increases by 5 and hero's damage is increased by 5% per rank. Healer units also gain the Charm ability including this hero.

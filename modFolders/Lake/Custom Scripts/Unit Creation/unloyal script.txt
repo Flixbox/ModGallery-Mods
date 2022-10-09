@@ -1,0 +1,16 @@
+checkability("lake_unloyal")
+if hasability & armyspot>=0
+{
+	commander_get_data()
+	disloyalarray = workingarray
+	if array_length(disloyalarray) > 16
+	{
+		array_read(disloyalarray, 18)
+		fairyloyaltycheck = result
+		if ((fairyloyaltycheck="Fairy of Season")|(fairyloyaltycheck="Fairy of Light")|(fairyloyaltycheck="Wild Fairy")) = 0
+		{
+				alarm_set("lake_betrayal", 3)
+			}
+		}
+	}
+}

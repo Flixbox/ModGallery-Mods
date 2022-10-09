@@ -1,0 +1,16 @@
+Name
+Diarmuit
+
+Class
+Green Knight
+
+Unit
+Toadfrog
+
+Skills
+mDSMP_GreenWay
+Mastery
+Combat
+Armorer
+Hex
+Legion

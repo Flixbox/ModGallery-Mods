@@ -1,0 +1,37 @@
+Name
+Tiny Mage
+
+Tier value			(0: militia || 1.75: swordsman || 3.2: cavalry || 5.35: gryphon || 7: gold drake || 9: great hydra)
+2.5
+
+Balance modifier
+100
+
+Abilities
+Small
+Warding
+Immortal
+Caster
+Berserk
+Blind
+Hypnotize
+Chaos
+
+Affiliation
+Decay
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+-1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Pyromancer
+
+Unit groups
+Underworld
+Echelons of Magic
+Infernal Cultists
+Dark Cultists
+The Corrupt

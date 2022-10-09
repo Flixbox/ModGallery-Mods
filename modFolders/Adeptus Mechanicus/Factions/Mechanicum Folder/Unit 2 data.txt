@@ -1,0 +1,43 @@
+Names
+Secutarii Hoplite
+Hoplite Alpha
+
+Gold cost for base unit
+165
+
+Weekly Growth
+8
+
+Rare Resource Cost
+0O
+
+Balance modifier
+110
+110
+
+Abilities
+Sturdy
+Taunt
+First Aid
+
+Abilities for upgrade
+Sturdy
+Taunt
+First Aid
+Thorns
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Toadfrog
+
+Unit groups
+
+

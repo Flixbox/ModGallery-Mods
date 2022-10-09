@@ -1,0 +1,8 @@
+if ishero = 0
+{
+global_read(seasoncounter)
+if (result = 6)|(result = 7)
+{
+alarm_set("lake_SummerFire",10)
+}
+}

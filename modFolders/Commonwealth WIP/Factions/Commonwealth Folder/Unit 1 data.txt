@@ -1,0 +1,39 @@
+Names
+Serf
+Scythe Bearer
+
+Gold cost for base unit
+90
+
+Weekly Growth
+13
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Taxpayer
+
+Abilities for upgrade
+Taxpayer
+Wide Attacks
+
+Use sound effects from X unit
+Halberdier
+
+Attack type
+1
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+Tribes of Astoria
+

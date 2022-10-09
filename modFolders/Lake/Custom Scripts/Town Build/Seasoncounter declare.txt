@@ -1,0 +1,5 @@
+if builtbuilding = "lake_Season"
+{
+global_set(counteractive, 1)
+global_set(seasoncounter, 0)
+}

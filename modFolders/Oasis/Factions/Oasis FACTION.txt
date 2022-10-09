@@ -1,0 +1,80 @@
+FACTION NAME
+Oasis
+
+FACTION UNITS ALTERNATES
+2
+3
+6
+
+HERO NAMES (fighter first, caster second)
+Pharaoh
+Magus
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Proving Grounds
+Lunar Temple
+Blood Altar
+Solar Temple
+Elephant Armory
+Obsidian Pyramid
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Orange Desert
+
+TOWN NAMES (write as many as required)
+Altren
+Belthur
+Caldiv
+Drumon
+Eaos
+Fulgren
+Guhlac
+Hudrak
+Imalen
+Jalhara
+Kavaren
+Lyhos
+Magul
+Nuldram
+Olgav
+Pharaon
+Qholav
+Renaith
+Seylaos
+Talmak
+Ulmareth
+Volkaran
+Wolgaran
+Xantris
+Yslhan
+Zaldreiv
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+8
+
+TOWN MUSIC (write name of faction to borrow music from)
+Wild
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Mastery
+
+LORE NAME: 
+World Oasis
+
+LORE MAIN RACE: 
+Human/Jackal
+
+LORE HISTORY:
+After centuries of constant warfare, as all manner of factions vye for supremacy across the land, Astoria is not without its fair share of refugees. Beaten and weary from the ravages of war, these battered travelers were forced on a harrowing journey towards the barren deserts. Driven to the brink of despair, they prepared for their eventual demise but received unexpected aid from ancient creatures who miraculously conjured an oasis around them. They have since taken on the mantle of the "World Oasis," to remind the world that no matter how dire the situation, there still remains one bastion of hope in a world plagued by despair.
+
+LORE CULTURE:
+"Salvation for the weary, justice for the forsaken" is the Oasis mantra that completely makes up their goals and beliefs. But as time passes and the stream of refugees continues without end, many have begun to blame the other factions for the current war-torn state of the world and are willing to do whatever it takes to ensure lasting peace and prosperity for all. 
+
+LORE HERO FIGHTER:
+The primary leaders of Oasis, the Pharaohs are responsible for the faction in its entirety. They are the final authority on all things. 
+
+LORE HERO CASTER:
+The spiritual leaders of Oasis, the Magi are assembled in times of great duress to lead the vast armies of Oasis on the front lines as esteemed generals.

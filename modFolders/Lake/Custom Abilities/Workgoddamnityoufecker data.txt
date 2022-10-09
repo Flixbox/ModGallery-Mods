@@ -1,0 +1,5 @@
+Ability Name
+lake_corrupt
+
+Ability Description
+Corruption: This unit will combine with a Power or Point fairy and turn them into a Zombie Fairy

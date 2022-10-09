@@ -1,0 +1,17 @@
+Name
+Seasonal Clock
+
+Description
+Overloads seasons, making them too strong, starting on Autumn, each Season lasts 2 days and provide different buffs/debuffs. Also grants 250 gold per day
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+0
+
+Effect Identifier
+lake_Season
+
+Price
+Gold
+1000
+Mercury
+5

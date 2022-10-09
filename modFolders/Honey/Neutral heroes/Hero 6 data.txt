@@ -1,0 +1,27 @@
+Name
+Neress
+
+Class
+Honey Advisor
+
+Unit
+Honey Mage
+
+Skills
+honey_Guidance
+Healing
+Regeneration
+Hydromancy
+honey_Pacifist
+Mastery
+Potency
+Aeromancy
+Creation
+Archery
+Oligarchy
+Champion
+Summoning
+Warding
+Recalcitrance
+Tactics
+Leadership

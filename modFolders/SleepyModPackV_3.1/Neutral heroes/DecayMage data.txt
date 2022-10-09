@@ -1,0 +1,27 @@
+Name
+Decay Mage
+
+Class
+Withermage
+
+Unit
+Horror
+
+Skills
+Malediction
+Learning
+Bloodwarping
+Regeneration
+Creation
+Bodyguards
+Champion
+Bloodlust
+Hydromancy
+Archery
+Mastery
+Oligarchy
+Leadership
+Dizzy Tune
+Mysticism
+Fortune
+Swarming

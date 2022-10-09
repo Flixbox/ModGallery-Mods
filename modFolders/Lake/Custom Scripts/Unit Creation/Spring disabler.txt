@@ -1,0 +1,9 @@
+checkskillrank("lake_SpringSteal")
+if ishero
+if skillrank > 0
+{
+mhealth += 50*skillrank
+chealth = mhealth
+poisonattacks = skillrank
+alarm_set("SpringDisableAura", 5)
+}

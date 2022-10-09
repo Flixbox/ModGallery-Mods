@@ -1,0 +1,9 @@
+SpringStolen = 0
+winterfreezeable = 1
+summerburnable = 1
+checkability("lake_seasonimmune")
+if hasability
+{
+winterfreezeable = 0
+summerburnable = 0
+}

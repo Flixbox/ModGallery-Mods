@@ -1,0 +1,32 @@
+Name
+Antspider
+
+Gold cost for base unit (also decides basic strength of unit)
+150
+
+Balance modifier
+100
+
+Abilities
+Sturdy
+Leap
+Terror
+Infest Half
+Small
+
+Use sound effects from X unit
+Tarantula
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+0
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Antspider
+
+Unit groups
+Pact of Nature
+Dark Cultists
+The Seven Fears

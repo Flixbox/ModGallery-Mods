@@ -1,0 +1,24 @@
+Name
+Veirion
+
+Unit
+Honey Guard
+
+Skills
+honey_Courage
+honey_Bulwark
+Legion
+Recruitment
+Recalcitrance
+Swarming
+Mastery
+Warding
+Engineering
+Aeromancy
+Dizzy Tune
+Tactics
+Diplomacy
+Estates
+Healing
+Logistics
+Bloodwarping

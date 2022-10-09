@@ -1,0 +1,28 @@
+if artifact_set_active("colony_Thunder")
+{
+	thunderartifactactive = 1
+}
+
+checkability("Ranged")
+if (hasability)&(thunderartifactactive = 1)
+{
+	petrifyingattacks = 1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

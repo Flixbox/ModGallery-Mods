@@ -1,0 +1,24 @@
+Name
+Teofila
+
+Unit
+Field Medic
+
+Skills
+Sorcery
+Aeromancy
+Creation
+Summoning
+Potency
+Regeneration
+Midas Touch
+Recalcitrance
+Mercurial
+Terramancy
+Toxicology
+Royalty
+Diplomacy
+Fortune
+Mysticism
+Necromancy
+Dragonking

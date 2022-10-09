@@ -1,0 +1,6 @@
+Name:
+Echelons of Magic
+
+Add units:
+mDwGreed_Demon1
+mDwGreed_Curse

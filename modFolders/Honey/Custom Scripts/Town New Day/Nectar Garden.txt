@@ -1,0 +1,19 @@
+if checkbuilding("honey_Garden")
+{
+	stingernum = 0
+	for_army(army)
+	{
+		if (fa_faction = faction)&(fa_orank = 0)
+		{
+			stingernum += fa_number
+		}
+	}
+	if (stingernum > 0)
+	{
+		stingernum = stingernum * 8
+		addresource(gold, stingernum)
+		show_symbolmessage(0, stingernum)
+	}
+	addresource(gold, 100)
+	show_symbolmessage(0, 100)
+}

@@ -1,0 +1,27 @@
+Name
+Hienix
+
+Class
+Antscholar
+
+Unit
+Winter Ant
+
+Skills
+Pheromones
+Royalty
+Sorcery
+Regeneration
+Bodyguards
+Learning
+Elementalism
+Hydromancy
+Fortune
+Armorer
+Logistics
+Summoning
+Wisdom
+Recalcitrance
+Leadership
+Oligarchy
+Recruitment

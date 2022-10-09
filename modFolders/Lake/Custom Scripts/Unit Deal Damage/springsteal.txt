@@ -1,0 +1,9 @@
+checkskillrank("lake_SpringSteal")
+if ishero
+if skillrank > 0
+{
+with(currenttarget)
+{
+SpringStolen = 1
+}
+}

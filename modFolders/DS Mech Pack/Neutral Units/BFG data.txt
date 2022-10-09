@@ -1,0 +1,39 @@
+Names
+Big Brunnhild
+
+Reference Name
+mDSMP_BFG
+
+Gold cost for base unit
+3500
+
+Balance modifier
+100
+
+Abilities
+Ranged
+FlamingBallProjectile
+Blaster
+Mechanical
+Tower
+Burning
+Savage
+Windup
+Knockback
+Terror
+
+Use sound effects from X unit
+Cannoneer
+
+Attack type
+0
+
+Living
+0
+
+Link
+mDSMP_Mechanic
+
+Unit groups
+Mountain King
+

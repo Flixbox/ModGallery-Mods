@@ -1,0 +1,5 @@
+Ability Name
+mDSMP_MinionHalf
+
+Ability Description
+Unreliable Minion: At the start of the battle, this unit summons a <UNITNAMES>... maybe

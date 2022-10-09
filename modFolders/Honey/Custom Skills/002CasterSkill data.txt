@@ -1,0 +1,8 @@
+Skill Name
+Honey Guidance
+
+Reference Name
+honey_Guidance
+
+Skill Description
+All advisors gain gain +1 spellpower and +2 knowledge per rank and teaches the hero the spell "Honey Guidance", boosting unit stats and spawning reinforcements, stats boosted and type of reinforcements vary per hero.

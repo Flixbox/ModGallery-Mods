@@ -1,0 +1,35 @@
+Names
+Reaper
+
+Reference Name
+mDecHard_Reaper
+
+Gold cost for base unit
+2000
+
+Balance modifier
+105
+
+Abilities
+Sturdy
+Ethereal
+Hover
+Wide Attacks
+Windup
+mDSMP_Dread
+
+Use sound effects from X unit
+Lifebane
+
+Attack type
+2
+
+Living
+-1
+
+Link
+Skeleton
+
+Unit groups
+tug_necromancy
+The Seven Fears

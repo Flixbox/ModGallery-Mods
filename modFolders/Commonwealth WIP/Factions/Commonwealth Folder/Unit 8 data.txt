@@ -1,0 +1,49 @@
+Names
+Polish Hussar
+Winged Hussar
+
+Gold cost for base unit
+1250
+
+Weekly Growth
+2
+
+Rare Resource Cost
+2L
+
+Balance modifier
+100
+105
+
+Abilities
+Charge
+Knockback
+Trample
+Fast
+Shrink
+
+Abilities for upgrade
+Charge
+Knockback
+Trample
+Terror
+Protected
+Fast
+Shrink
+
+Use sound effects from X unit
+Cavalry
+
+Attack type
+1
+
+Living
+2
+
+Link
+Cavalry
+
+Unit groups
+Alliance of the Frontier
+Imperial Legion
+

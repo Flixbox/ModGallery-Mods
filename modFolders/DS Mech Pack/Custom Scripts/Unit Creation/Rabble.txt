@@ -1,0 +1,10 @@
+if ishero = 1
+{
+	//show_message(left)
+	checkskillrank("mDSMP_RabbleSkill")
+	if skillrank > 0
+	{
+		alarm_set("mDSMP_RabbleTimer", 10 + floor(random(10)))
+		//show_message("timer set")
+	}
+}

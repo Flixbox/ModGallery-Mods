@@ -1,0 +1,8 @@
+global_read(seasoncounter)
+if (result = 2)|(result = 3)
+{
+if armyspot >= 0
+{
+alarm_set("lake_WinterChill",20)
+}
+}

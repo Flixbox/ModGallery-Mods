@@ -1,0 +1,2 @@
+saving(obj_army,0,localcounterstatus)
+saving(obj_army,0,localmirrorstatus)

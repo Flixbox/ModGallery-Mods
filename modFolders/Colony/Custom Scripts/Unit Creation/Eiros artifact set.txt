@@ -1,0 +1,9 @@
+if artifact_set_active("colony_Eiros")
+{
+	eirosartifactactive = 1
+}
+
+if eirosartifactactive = 1
+{
+	wpower += 3.5-(1*ranged)
+}

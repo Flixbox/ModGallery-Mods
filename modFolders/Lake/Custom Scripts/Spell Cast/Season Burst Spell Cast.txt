@@ -1,0 +1,31 @@
+if spellname = "lake_Season Spell"
+{
+checkskillrank("lake_Season Burst")
+summonunit_permanent("Power", 8*skillrank)
+	with(spell_target_list)
+	{
+	commander_get_data()
+    SeasonBurstRead = workingarray
+	array_read(SeasonBurstRead,17)
+    if result="Eternity Larva"
+    {
+	chealth = chealth*2
+	mhealth = chealth
+        alarm_set("lake_SummerFire",10)
+	alarm_set("lake_clearnonsummer", 1)
+        global_set(seasoncounter,6)
+    }
+    if result="Lily White"
+    {
+        alarm_set("lake_SpringHeal",10)
+	alarm_set("lake_clearnonspring", 1)
+        global_set(seasoncounter,4)
+    }
+    if result="Cirno"
+    {
+        alarm_set("lake_WinterChill",20)
+	alarm_set("lake_clearnonwinter", 1)
+        global_set(seasoncounter,2)
+    }
+}
+}

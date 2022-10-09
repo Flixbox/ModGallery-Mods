@@ -1,0 +1,5 @@
+Ability Name
+Bullseye
+
+Ability Description
+Bullseye: This creature has 5% chance to instantly kill an enemy with its attack.

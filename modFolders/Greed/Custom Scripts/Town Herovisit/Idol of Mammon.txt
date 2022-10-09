@@ -1,0 +1,12 @@
+if checkbuilding("mDwGreed_Idol")
+{	
+	if encounter_check(garrison,id)
+	{
+		encounter_register(garrison,id)
+		with(garrison)
+		{
+			spell_learn("mDwGreed_Rubedo")
+			skill_learn("Midas Touch")
+		}
+	}
+}

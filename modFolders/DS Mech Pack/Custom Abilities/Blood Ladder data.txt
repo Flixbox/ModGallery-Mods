@@ -1,0 +1,5 @@
+Ability Name
+mDSMP_BLadder
+
+Ability Description
+Blood is a Ladder: This unit can reach greater state of being through slaughter.

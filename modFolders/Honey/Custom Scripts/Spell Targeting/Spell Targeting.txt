@@ -1,0 +1,11 @@
+if spellname = "honey_hivestrength"
+{
+	spell_skip_autotargeting = 1
+	spell_target_list = selectallies_all()
+}
+
+if spellname = "honey_royalguidance"
+{
+	spell_skip_autotargeting = 1
+	spell_target_list = selectallies_all()
+}

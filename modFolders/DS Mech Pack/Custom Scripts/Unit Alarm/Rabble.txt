@@ -1,0 +1,75 @@
+if alarmtype = "mDSMP_RabbleTimer"
+{
+	if ishero = 1
+	{
+		checkskillrank("mDSMP_RabbleSkill")
+		if skillrank > 0
+		{
+			//log_clear("rabbletest")
+			pickunitfromgroup("Myriad Swarm", random(1))
+			//log_write("rabbletest", foundunit)
+			
+			rabbleCost = 0
+			i = 0
+			for(i,1,skillrank)
+			{
+				rabbleCost += (i * 150)
+			}
+			//log_write("rabbletest", rabblecost)
+			
+			unit_get_data(foundunit, 7)
+			unitCost = result
+			
+			// checking if foundunit has an upgrade
+			unit_get_data(foundunit, 1)
+			if result != ""
+			{
+				//log_write("rabbletest", "has upgrade")
+				tempID = unit_nametoID(foundname)
+				temp_faction = array_read(tempID, 0)
+				temp_orank = array_read(tempID, 1)
+				unit_lookup_name(temp_faction, temp_orank, 1)
+				//show_message(result)
+				if random(1) < 1
+				{
+					//log_write("rabbletest", "will be upgraded")
+					foundunit = result
+					//log_write("rabbletest", "name reassigned")
+					unitCost = floor(unitCost * 1.35)
+					//log_write("rabbletest", "cost multiplied")
+				}
+			}
+			//show_message(foundunit)
+			//log_write("rabbletest", unitCost)
+			
+			// moving the summoner, since any variables would be inaccessible from with()
+			o_x = x
+			o_y = y
+			//image_alpha = 0
+			//log_write("rabbletest", left)
+			x = (left*battlefieldx1)+((left=0)*battlefieldx0)
+			y = 160 + floor(random(160))
+			
+			// summoning the units, with 10% per skillrank chance for them to be permanent
+			perm = (random(10) < skillrank)
+			if perm
+			{
+				rabbleCost = rabbleCost / 2
+				//log_write("rabbletest", "permanent")
+				summonunit_permanent(foundunit, floor(rabbleCost / unitCost))
+			}
+			if (perm = 0)
+			{
+				//log_write("rabbletest", "temporary")
+				summonunit(foundunit, floor(rabbleCost / unitCost))
+			}
+			
+			// moving back
+			image_alpha = 1
+			x = o_x
+			y = o_y
+			
+			alarm_set("mDSMP_RabbleTimer", 25 + floor(random(10)))
+		}
+	}
+}

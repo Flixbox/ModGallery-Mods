@@ -1,0 +1,58 @@
+FACTION NAME
+Greed
+
+FACTION UNITS ALTERNATES
+2
+3
+5
+
+HERO NAMES (fighter first, caster second)
+Profiteer
+Magnate
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Slave Pits
+Barracks
+Worker Housing
+Estates
+Tunnelers' Guild
+Chambers of Gold
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Obsidian
+
+TOWN NAMES (write as many as required)
+Glinthold
+House of Mammon
+Guldgard
+Earth's Grasp
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+6
+
+TOWN MUSIC (write name of faction to borrow music from)
+Lament
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Estates
+
+LORE NAME:
+Cult of Greater Profit
+
+LORE MAIN RACE:
+Dwarves
+
+LORE HISTORY:
+Cult of Greater Profit, more commonly known as Greedy Gits, is a divergent religious sect in the dwarven society. Dwarves dig deep, sometimes too deep, which is exactly the origin of this branch.
+
+LORE CULTURE:
+While dwarves normally don't know drives other than digging and carving, a pact with a demon can change things. As it is now, they believe that Greed, for lack of a better word, is good.
+
+LORE HERO FIGHTER:
+Profiteers are the most powerful servants of the rulers of the Cult of Greed. They are the ones not arfaid to make their hands a little dirty in pursiut of further wealth.
+
+LORE HERO CASTER:
+The Magnates are the ruling class of the Cult of Greed. They are the ones driving the cult to excess and beyond.

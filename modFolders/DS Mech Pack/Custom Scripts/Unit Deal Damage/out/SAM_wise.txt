@@ -1,0 +1,17 @@
+SR = checkskillrank("SAM wise")
+if SR > 0
+{
+	if checkability("Ranged")
+	{
+		with(currenttarget)
+		{
+			global_set("buffer", checkability("Flying"))
+		}
+		global_read("buffer")
+		if result = 1
+		{
+			//as an example, 10% per skill rank
+			currentdamage = currentdamage * (1 + 0.1 * SR)
+		}
+	}
+}

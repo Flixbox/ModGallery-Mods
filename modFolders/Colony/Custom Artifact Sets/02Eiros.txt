@@ -1,0 +1,11 @@
+Set Display Name
+Eiros
+
+Set Reference Name
+colony_Eiros
+
+Set Description
+Units gain greater knockback and attacks from units have a 10% chance to summon Cyclones.
+
+Set Threshold (number of artifacts equipped to achieve set bonus)
+3

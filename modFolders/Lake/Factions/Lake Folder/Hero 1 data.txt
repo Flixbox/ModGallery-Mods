@@ -1,0 +1,24 @@
+Name
+Eternity Larva
+
+Unit
+Sunfairy
+
+Skills
+lake_Season Burst
+Pyromancy
+lake_FireImmune
+Legion
+Regeneration
+Elementalism
+Oligarchy
+Swarming
+Bloodlust
+Sorcery
+Creation
+Healing
+Recalcitrance
+Destruction
+Dragonking
+Warding
+Mysticism

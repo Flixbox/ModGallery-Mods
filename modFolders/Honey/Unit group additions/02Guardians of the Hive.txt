@@ -1,0 +1,10 @@
+Name:
+Guardians of the Hive
+
+Hero:
+Virrior
+
+Add units:
+Grown Stinger
+Hive Defender
+Nectar Sorceress

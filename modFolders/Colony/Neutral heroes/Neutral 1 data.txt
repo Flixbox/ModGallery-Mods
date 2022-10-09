@@ -1,0 +1,27 @@
+Name
+Pharein
+
+Class
+Antmonarch
+
+Unit
+Pharaoh Ant
+
+Skills
+Colony Call
+Elementalism
+Midas Touch
+Archery
+Regeneration
+Warding
+Estates
+Champion
+Bodyguards
+Wisdom
+Leadership
+Diplomacy
+Plunder
+Logistics
+Sorcery
+Hex
+Recalcitrance

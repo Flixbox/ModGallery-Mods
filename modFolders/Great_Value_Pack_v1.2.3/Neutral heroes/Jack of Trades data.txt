@@ -1,0 +1,27 @@
+Name
+Jack of Trades
+
+Class
+Wanderer
+
+Unit
+None
+
+Skills
+Mastery
+Creation
+Pyromancy
+Hydromancy
+Aeromancy
+Terramancy
+Legion
+Bodyguards
+Potency
+Recruitment
+Regeneration
+Swarming
+Champion
+Recalcitrance
+Plunder
+Malediction
+Tactics

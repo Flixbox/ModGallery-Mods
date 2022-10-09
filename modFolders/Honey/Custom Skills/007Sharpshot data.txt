@@ -1,0 +1,8 @@
+Skill Name
+Sharpshot
+
+Reference Name
+honey_Sharpshot
+
+Skill Description
+Units with long range gain the critical strike ability. All ranged units gain +2 damage per rank.

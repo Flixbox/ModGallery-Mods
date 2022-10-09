@@ -1,0 +1,27 @@
+Name
+Sleepy Mage
+
+Class
+Withermage
+
+Unit
+Pyromancer
+
+Skills
+Dizzy Tune
+Potency
+Pyromancy
+Hydromancy
+Regeneration
+Wisdom
+Creation
+Elementalism
+Necromancy
+Summoning
+Mysticism
+Firetrapping
+Conflux
+Malediction
+Shadowcasting
+Lifespark
+Blessing

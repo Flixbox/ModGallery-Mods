@@ -1,0 +1,23 @@
+if alarmtype = "mDSMP_BLadderCalc"
+{
+	//show_message(mDSMP_SummonName)
+	if (mDSMP_SummonName != undefined) & (mDSMP_SummonName != "")
+	{
+		costmult = 1
+		if faction_get_type(faction) < 2
+		{
+			unit_lookup_name(faction, orank, 1)
+			costmult = 1.35
+		}
+		
+		unit_get_data(mDSMP_SummonName, 7)
+		mDSMP_Threshold = ((result*costmult)-ownvalue)
+		if mDSMP_Threshold < 0
+		{
+			mDSMP_Threshold = 0
+		}
+		//log_write("bladder_test", mDSMP_Threshold)
+
+		mDSMP_Curr = 0
+	}
+}

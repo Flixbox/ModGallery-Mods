@@ -1,0 +1,27 @@
+Name
+Rocketman
+
+Class
+Wanderer
+
+Unit
+Freshling
+
+Skills
+Mastery
+Archery
+Combat
+Midas Touch
+Speaker
+Bloodlust
+Regeneration
+Armorer
+Offense
+Bodyguards
+Destruction
+Dizzy Tune
+Legion
+Tactics
+Logistics
+Potency
+Diplomacy

@@ -1,0 +1,42 @@
+if variable_exists(mDSMP_DamageResistance) = 0
+{
+	init(mDSMP_DamageResistance, 0)
+}
+if checkability("mDSMP_Armored1")|checkability("mDSMP_Armored3")|checkability("mDSMP_Armored10")|checkability("mDSMP_Armored20")|checkability("mDSMP_ArmoredPower")
+{
+	temp_int = global_read(ffN)
+	temp_MD = global_read(mobdata)
+	temp_MD = array_read(temp_MD, faction + (upgr * temp_int))
+	temp_MD = array_read(temp_MD, orank)
+	
+	temp_int = array_length(temp_MD) - 1
+	array_read(temp_MD, 0)
+	if result = name
+	{
+		for(i, 1, temp_int)
+		{
+			temp_val = array_read(temp_MD, i)
+			if (temp_val = "mDSMP_Armored1")
+			{
+				mDSMP_DamageResistance += 1
+			}
+			if (temp_val = "mDSMP_Armored3")
+			{
+				mDSMP_DamageResistance += 3
+			}
+			if (temp_val = "mDSMP_Armored10")
+			{
+				mDSMP_DamageResistance += 10
+			}
+			if (temp_val = "mDSMP_Armored20")
+			{
+				mDSMP_DamageResistance += 20
+			}
+			if (temp_val = "mDSMP_ArmoredPower")
+			{
+				mDSMP_DamageResistance += ceil(ownvalue/75)
+			}
+		}
+	}
+}
+//show_message(mDSMP_DamageResistance)

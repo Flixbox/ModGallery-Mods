@@ -1,0 +1,8 @@
+Skill Name
+Season Burst
+
+Reference Name
+lake_Season Burst
+
+Skill Description
+Teaches the hero a spell which sets the current season to one equal of the fairy's own season

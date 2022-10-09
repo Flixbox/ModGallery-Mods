@@ -1,0 +1,30 @@
+Names
+Armored Companion
+
+Gold cost for base unit
+700
+
+Balance modifier
+100
+
+Abilities
+Charge
+Tank
+Impenetrable
+Protected
+Fast
+
+Use sound effects from X unit
+Cavalry
+
+Attack type
+1
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+Imperial Legion

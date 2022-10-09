@@ -1,0 +1,8 @@
+Skill Name
+Hive Architect
+
+Reference Name
+honey_Architect
+
+Skill Description
+Every day, a new Honey machine(s) unit(s) is/are built, amount and chance for stronger units increase with higher ranks. Possible units: Honey Trap, Stinger Turret, Honey Cannon, HIVE, STINGER.

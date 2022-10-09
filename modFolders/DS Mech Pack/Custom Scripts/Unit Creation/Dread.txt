@@ -1,0 +1,5 @@
+if checkability("mDSMP_Dread")
+{
+	mDSMP_DreadVal = ownvalue
+	alarm_set("mDSMP_DreadWave", 0)
+}

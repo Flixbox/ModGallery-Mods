@@ -1,0 +1,6 @@
+if checkbuilding("honey_Garden")
+{
+	addunit_number("Hive Defender",3)
+	addunit_number("Wasp Sniper",3)
+	addunit_number("Stinger Knight",3)
+}

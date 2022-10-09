@@ -1,0 +1,19 @@
+Name
+Elite Hivecamp
+
+Description
+Creates a squad of 5 Hive Defenders, 5 Wasp Snipers and 5 Stinger Knights when built. Every week another squad will be created but instead composed of 3 Hive Guards, 3 Wasp Snipers and 3 Stinger Knight.
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+2
+
+Effect Identifier
+honey_Camp
+
+Price
+Gold
+6000
+Wood
+4
+Ore
+4

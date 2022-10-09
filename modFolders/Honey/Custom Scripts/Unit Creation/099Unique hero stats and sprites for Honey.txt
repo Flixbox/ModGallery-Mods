@@ -1,0 +1,137 @@
+if ishero = 1
+{
+	commander_get_data()
+	HoneyData = workingarray
+	array_read(HoneyData,17)
+	{
+		if result = "Veirion"
+		{
+			unitskin_name("honey_Veirion")
+			protected = 1
+			mhealth += (mhealth/100)*35
+			damage -= (damage/10)*1
+			flier = 1
+			hover = 1
+		}
+		if result = "Horion"
+		{
+			unitskin_name("honey_Horion")
+			mhealth += (mhealth/10)*2
+			damage += (damage/10)*1
+			fearattacks = rank
+			aggression = 3
+			flier = 1
+			hover = 1
+		}
+		if result = "Snight"
+		{
+			unitskin_name("honey_Snight")
+			mhealth += (mhealth/10)*3
+			resistance += 2
+			charge = 1
+			flier = 1
+			hover = 1
+			atw -= 2
+		}
+		if result = "Vinnet"
+		{
+			unitskin_name("honey_Vinnet")
+			mhealth += (mhealth/10)*2
+			rangerange = 64+random(48)
+			deadzone = 0
+			projectile = 13
+			straightprojectile = 1
+			atw += 2
+			petrifyingattacks = 1
+		}
+		if result = "Stera"
+		{
+			unitskin_name("honey_Stera")
+			mhealth -= (mhealth/100)*15
+			damage += round(damage*1.25)
+			poisonattacks = rank
+			straightprojectile = 1
+			rangerange += 64
+			projectile = 12
+			matcd += 2
+		}
+		if result = "Meliody"
+		{
+			unitskin_name("honey_Meliody")
+			damage += (damage/10)*5
+			rallycd = 6*3
+			rallyp = 1+.15*rank
+			passive = 1
+			healing = 5
+			hover = 1
+		}
+		if result = "Vinios"
+		{
+			unitskin_name("honey_Vinios")
+			mhealth -= (mhealth/100)*15
+			damage += round(damage*1.25)
+			ranged = 1
+			rangerange = 96+16
+			matcd = round(matcd/0.7)
+			deadzone = 0
+			projectile = 8
+			nomelleepenalty = 1
+			threeheaded = 0
+			straightprojectile = 1
+			projectile = 12
+			atw += 3
+			hover = 1
+		}
+		if result = "Bumbler"
+		{
+			unitskin_name("honey_Bumbler")
+			mhealth += (mhealth/10)*2
+			rangerange = 64+random(48)
+			deadzone = 0
+			projectile = 3
+			mechpriest = 1
+			atw += 2
+		}
+		if result = "Redael"
+		{
+			unitskin_name("honey_Redael")
+			mhealth += (mhealth/100)*15
+			protected = 1
+			flier = 1
+			hover = 1
+		}
+		if result = "Virrior"
+		{
+			unitskin_name("honey_Virrior")
+			mhealth += (mhealth/100)*35
+			damage -= (damage/10)*1
+			ranged = 0
+			rangerange = 0
+			threeheaded = 1
+			resistance += 2
+			retaliation++
+		}
+		if result = "Vybri"
+		{
+			unitskin_name("honey_Vybri")
+			mhealth += (mhealth/100)*45
+			damage += (damage/10)*2
+			matcd += 2
+			deadzone = 0
+			projectile = 13
+			nomelleepenalty = 1
+			atw += 3
+			petrifyingattacks = 1
+			weight += 2
+			rangereduction = 0.3
+		}
+		if result = "Neress"
+		{
+			unitskin_name("honey_Neress")
+			projectile = 13
+			atw += 5
+			auratype = 1
+			hover = 1
+		}
+	}
+}

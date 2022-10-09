@@ -1,0 +1,64 @@
+Names
+Spirit of Avarice
+Demon of Avarice
+
+Reference Name
+mDwGreed_Demon1
+mDwGreed_Demon2
+
+Gold cost for base unit
+2419
+
+Weekly Growth
+1
+
+Rare Resource Cost
+3C
+
+Balance modifier
+75
+100
+
+Abilities
+Ranged
+Short Ranged
+GoldStreamProjectile
+Ethereal
+Versatile
+Bodyguards
+Confusion
+Host
+Hover
+Shrink
+mDSMP_BLadder
+
+Abilities for upgrade
+Ranged
+Short Ranged
+GoldStreamProjectile
+Versatile
+mDwGreed_Minion
+Bodyguards
+Summoning
+Confusion
+Host
+Shrink
+mDSMP_BLadder
+
+Use sound effects from X unit
+Jotun
+
+Attack type
+2
+
+Living
+0
+
+Link
+mDwGreed_Curse
+
+Unit groups
+Infernal Cultists
+The Seven Fears
+Echelons of Magic
+tug_demonology

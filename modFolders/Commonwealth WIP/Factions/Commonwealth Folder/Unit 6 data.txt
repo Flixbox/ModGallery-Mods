@@ -1,0 +1,45 @@
+Names
+Infamis
+Lisovianus
+
+Gold cost for base unit
+400
+
+Weekly Growth
+5
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Quick Strikes
+Retreat
+Fast
+
+Abilities for upgrade
+Quick Strikes
+Retreat
+Fortune
+Interruption
+Fast
+Fast
+
+Use sound effects from X unit
+Cavalry
+
+Attack type
+1
+
+Living
+2
+
+Link
+Volounteer
+
+Unit groups
+Infernal Cultists
+

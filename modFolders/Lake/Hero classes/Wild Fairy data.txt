@@ -1,0 +1,5 @@
+Name
+Wild Fairy
+
+Class type (0: caster, 1: fighter)
+0

@@ -1,0 +1,45 @@
+Names
+Serberys Raider
+Serberys Sulphurhound
+
+Gold cost for base unit
+285
+
+Weekly Growth
+6
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Charge
+Retaliation
+Projectile Protection
+Fast
+
+Abilities for upgrade
+Charge
+Retaliation
+Projectile Protection
+Burning
+Fast
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Skitarii Ranger
+
+Unit groups
+
+

@@ -1,0 +1,42 @@
+if checkbuilding("orchard_effect")
+{
+	if encounter_check(garrison,id)
+	{
+		encounter_register(garrison,id)
+		with(garrison)
+		{
+randomstatchoice = floor(random(6))
+if randomstatchoice = 0
+{
+	A += 1
+	show_message("You ate malinowka apple. Your attack increases!")
+}
+if randomstat choice = 1
+{
+	D += 1
+	show_message("You ate kosztela apple. Your defence increases!")
+}
+if randomstat choice = 2
+{
+	K += 1
+	mana += 10
+	show_message("You ate grey reneta apple. Your knowledge increases!")
+}
+if randomstat choice = 3
+{
+	S += 1
+	show_message("You ate berzininku ananasas apple. Your spellpower increases!")
+}
+if randomstat choice = 4
+{
+	L += 1
+	show_message("You ate papierowka apple. Your luck increases!")
+}
+if randomstat choice = 5
+{
+	show_message("You ate delikates apple. Your morale increases!")
+	M += 1
+}
+		}
+	}
+}

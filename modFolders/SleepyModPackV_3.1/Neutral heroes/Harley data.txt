@@ -1,0 +1,27 @@
+Name
+Harley
+
+Class
+Caprice
+
+Unit
+War Clown
+
+Skills
+Swarming
+Mastery
+Destruction
+Shadowcloning
+Bodyguards
+Learning
+Firegating
+Recalcitrance
+Engineering
+Legion
+Demonology
+Pyromancy
+Bloodwarping
+Shadowcasting
+Elementalism
+Toxicology
+Dizzy Tune

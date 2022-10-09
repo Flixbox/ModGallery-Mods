@@ -1,0 +1,27 @@
+Name
+Cpt. Hellicorn
+
+Class
+Wanderer
+
+Unit
+Infernal
+
+Skills
+Mastery
+Learning
+Champion
+Wisdom
+Demonology
+Sorcery
+Logistics
+Recruitment
+Plunder
+Bodyguards
+Dragonking
+Offense
+Armorer
+Bloodlust
+Summoning
+Recalcitrance
+Conflux

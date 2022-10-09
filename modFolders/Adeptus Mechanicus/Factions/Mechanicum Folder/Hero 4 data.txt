@@ -1,0 +1,24 @@
+Name
+Belisarius Cawl
+
+Unit
+Kastelan Robot
+
+Skills
+Aeromancy
+Learning
+Bloodwarping
+Regeneration
+Wisdom
+Planning
+Offense
+Blessing
+Mysticism
+Mastery
+Royalty
+Armorer
+Warding
+Sorcery
+Creation
+Engineering
+Recruitment

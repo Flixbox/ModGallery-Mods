@@ -1,0 +1,61 @@
+FACTION NAME
+Honey
+
+FACTION UNITS ALTERNATES
+2
+3
+4
+
+HERO NAMES (fighter first, caster second)
+Hivekeeper
+Honey Advisor
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Brood Chamber
+Hive Barracks
+Planning Room
+Honey Storage
+Stingers Arena
+Engineer's Garage
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Deep Forest
+
+TOWN NAMES (write as many as required)
+Melirio
+Nektares
+Kypmyalo
+Melikos
+Neranos
+Stienosi
+Apoideres
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+8
+
+TOWN MUSIC (write name of faction to borrow music from)
+Wild
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Engineering
+
+LORE NAME:
+The Honey Heart Assembly
+
+LORE MAIN RACE: 
+Stingerfolk (bees/bumblebees/wasps/hornets)
+
+LORE HISTORY:
+Long ago the bees and wasps made a peace truce and lived together with one another, calling themselves the “stingerfolk”. They evolved faster than any other known race because of this. Their lands of origin are unknown but  the stingerfolk settled first a single town on an archipelago near Astoria then slowly expanded right near Astoria. But after seeing all the horrors, the danger and conquests across the lands of Astoria. Those in Astoria decided to prepare for all the chaos that is to come. Combining and sharing their skills and knowledge, covering each other's weaknesses. Making sure they are ready to shine a new light for their people in these dark times.
+
+LORE CULTURE:
+After living on these lands for a while. Those settled in Astoria live together in fear but also in hope. Preparing each day to be ready for the worst. Lead by 3 queens, the bees mainly take care of foraging and defense, the wasps then focus on combat training and offense and the bumblebees are in charge of the engineering and construction including helpful inventions.
+
+LORE HERO FIGHTER:
+Loyal and brave stingerfolk that were given all military power, their say can  only be overridden by the Advisors and the Queens. They are very skilled in coordination and tactics. Using nectar to enhance their troops' strength.
+
+LORE HERO CASTER:
+Tasked with giving all sorts of advice to the Queens, Advisors heavily influence any decisions made by the Queens. They're also skilled combatants and able cast and enhance spells with honey.

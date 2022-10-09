@@ -1,0 +1,5 @@
+Ability Name
+lake_seasonimmune
+
+Ability Description
+Season Inert: This unit won't be affected by Summer's scorching heat or Winter's freezing

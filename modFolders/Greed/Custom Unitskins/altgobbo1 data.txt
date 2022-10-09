@@ -1,0 +1,8 @@
+Skin Name
+mDwGreed_Gobbo_Alt1
+
+Skin Pack Name
+mDwGreed_Gobbo_Alt
+
+Skin Pack Index
+0

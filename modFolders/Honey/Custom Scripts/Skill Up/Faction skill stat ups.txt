@@ -1,0 +1,17 @@
+if changedskill = "honey_Courage"
+{
+	M += 1
+	spell_learn("honey_hivestrength")
+}
+
+if changedskill = "honey_Guidance"
+{
+	S += 1
+	K += 2
+	spell_learn("honey_royalguidance")
+}
+
+if changedskill = "honey_Pride"
+{
+	S -= 1
+}

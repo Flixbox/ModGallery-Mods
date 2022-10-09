@@ -1,0 +1,27 @@
+Name
+Virrior
+
+Class
+Honey Advisor
+
+Unit
+Honey Guard
+
+Skills
+honey_Guidance
+honey_Bulwark
+Recalcitrance
+Aeromancy
+Legion
+Recruitment
+Swarming
+Regeneration
+Warding
+Engineering
+Healing
+Armorer
+Wisdom
+Tactics
+Diplomacy
+Estates
+Bloodwarping

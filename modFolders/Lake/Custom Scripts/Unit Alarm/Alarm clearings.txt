@@ -1,0 +1,34 @@
+if alarmtype = "lake_clearnonsummer"
+{
+	selectunits_all()
+	with(selectlist)
+	{
+		alarm_clear("lake_WinterChill")
+		alarm_clear("lake_WinterFreeze")
+		alarm_clear("lake_SpringHeal")
+		alarm_clear("lake_clearnonsummer")
+	}
+}
+
+if alarmtype = "lake_clearnonspring"
+{
+	selectunits_all()
+	with(selectlist)
+	{
+		alarm_clear("lake_WinterChill")
+		alarm_clear("lake_WinterFreeze")
+		alarm_clear("lake_SummerFire")
+		alarm_clear("lake_clearnonspring")
+	}
+}
+
+if alarmtype = "lake_clearnonwinter"
+{
+	selectunits_all()
+	with(selectlist)
+	{
+		alarm_clear("lake_SpringHeal")
+		alarm_clear("lake_SummerFire")
+		alarm_clear("lake_clearnonwinter")
+	}
+}

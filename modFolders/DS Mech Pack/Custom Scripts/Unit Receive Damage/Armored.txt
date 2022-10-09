@@ -1,0 +1,8 @@
+if mDSMP_DamageResistance > 0
+{
+	currentdamage -= mDSMP_DamageResistance
+	if currentdamage < 1
+	{
+		currentdamage = 1
+	}
+}

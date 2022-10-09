@@ -1,0 +1,17 @@
+Name
+Barbican
+
+Description
+Creates 5 Armored Companions when built.
+
+Tier / Town Row
+4
+
+Effect Identifier
+barbicaneffect
+
+Price
+Gold
+2500
+Ore
+10

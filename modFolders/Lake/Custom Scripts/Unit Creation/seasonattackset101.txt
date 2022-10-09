@@ -1,0 +1,14 @@
+global_read(seasonmirroractive)
+if result = 1
+{
+	if ishero
+	{
+		commander_get_data()
+		array_read(workingarray,18)
+		fairyclasscheck = result
+		if ((fairyclasscheck="Fairy of Season")|(fairyclasscheck="Fairy of Light")|(fairyclasscheck="Wild Fairy")) = 0
+		{
+			alarm_set("lake_seasonambush",2)
+		}
+	}
+}

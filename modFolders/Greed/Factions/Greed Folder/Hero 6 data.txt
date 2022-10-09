@@ -1,0 +1,25 @@
+Name
+Lord Mammon
+Father Az
+
+Unit
+mDwGreed_Thane1
+
+Skills
+Estates
+Midas Touch
+Royalty
+Planning
+Sorcery
+Devour
+Oligarchy
+Wisdom
+Terramancy
+Mysticism
+Demonology
+Champion
+Bodyguards
+Elementalism
+Pyromancy
+Summoning
+Warding

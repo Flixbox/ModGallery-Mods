@@ -1,0 +1,34 @@
+Names
+Bone Champion
+
+Reference Name
+mDecHard_BoneChamp
+
+Gold cost for base unit
+220
+
+Balance modifier
+100
+
+Abilities
+Sturdy
+Warding
+Projectile Prot
+Quick Attacks
+mDSMP_BLadder
+
+Use sound effects from X unit
+Boneliath
+
+Attack type
+1
+
+Living
+-1
+
+Link
+mDecHard_Reaper
+
+Unit groups
+tug_necromancy
+The Corrupt

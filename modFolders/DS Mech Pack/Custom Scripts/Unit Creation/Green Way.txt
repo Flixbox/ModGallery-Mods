@@ -1,0 +1,29 @@
+if ishero
+{
+	if checkskillrank("mDSMP_GreenWay")
+	{
+		charge = 2
+		
+		if skillrank > 1
+		{
+			mDSMP_DamageResistance = skillrank
+			wpower += skillrank
+		}
+		if skillrank > 2
+		{
+			aggression += skillrank
+		}
+		if skillrank > 3
+		{
+			matcd -= floor(skillrank/2)
+		}
+		if skillrank > 4
+		{
+			confusingattacks = 1
+		}
+		if skillrank > 5
+		{
+			rangereduction = rangereduction * (1 - 0.1 * skillrank)
+		}
+	}
+}

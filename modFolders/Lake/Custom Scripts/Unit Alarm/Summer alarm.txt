@@ -1,0 +1,23 @@
+if alarmtype = "lake_SummerFire"
+{
+	selectenemies_all()
+	with(selectlist)
+	{
+		if summerburnable = 1
+	{
+		onfire = 1
+		alarm_clear("lake_SummerFire")
+		alarm_set("lake_SummerFire",20)
+	}
+	}
+	selectallies_all()
+	with(selectlist)
+	{
+	if summerburnable = 1
+	{
+		onfire = 1
+		alarm_clear("lake_SummerFire")
+		alarm_set("lake_SummerFire",20)
+	}
+	}
+}

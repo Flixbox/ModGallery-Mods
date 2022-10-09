@@ -1,0 +1,27 @@
+Name
+Vybri
+
+Class
+Honey Advisor
+
+Unit
+STINGER
+
+Skills
+honey_Guidance
+honey_Veterancy
+Bloodwarping
+Potency
+Fortune
+Recruitment
+Champion
+Offense
+Engineering
+Bloodlust
+Combat
+Logistics
+Scouting
+Armorer
+Destruction
+Warding
+Oligarchy

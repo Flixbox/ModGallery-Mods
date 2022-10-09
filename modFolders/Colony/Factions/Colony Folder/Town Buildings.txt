@@ -1,0 +1,99 @@
+type: Plaza
+image: auto
+x: 24
+y: 12
+
+type: Architect
+image: colony_Architect
+x: 87
+y: 86
+
+type: Dwelling 1
+image: colony_Dwelling1
+x: 13
+y: 199
+
+type: Dwelling 2
+image: colony_Dwelling2
+x: 64
+y: 194
+
+type: Market
+image: auto
+x: 64
+y: 160
+
+type: Tavern
+image: auto
+x: 10
+y: 121
+
+type: Fort
+image: auto
+x: 158
+y: 108
+
+type: Hospital
+image: auto
+x: 9
+y: 83
+
+type: Dwelling 3
+image: colony_Dwelling3
+x: 68
+y: 120
+
+type: Guild of Mages
+image: auto
+x: 124
+y: 122
+
+type: Archives of Magic
+image: colony_Archives
+x: 227
+y: 125
+
+type: Dwelling 4
+image: colony_Dwelling4
+x: 224
+y: 167
+
+type: Dwelling 5
+image: colony_Dwelling5
+x: 11
+y: 157
+
+type: Engineer
+image: colony_Engineer
+x: 45
+y: 86
+
+type: Dwelling 6
+image: colony_Dwelling6
+x: 273
+y: 144
+
+type: Archmage Tribunal
+image: colony_Tribunal
+x: 118
+y: 168
+
+type: Faction Mechanic 1
+image: colony_Mechanic1
+x: 129
+y: 73
+
+type: Library of Evolution
+image: colony_Evolution
+x: 176
+y: 156
+
+type: Faction Mechanic 2
+image: colony_Mechanic2
+x: 90
+y: 48
+
+type: Mercenary Hall
+image: colony_MercHall
+x: 300
+y: 197

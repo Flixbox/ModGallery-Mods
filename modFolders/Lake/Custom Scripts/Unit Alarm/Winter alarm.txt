@@ -1,0 +1,34 @@
+if alarmtype = "lake_WinterChill"
+{
+	selectenemies_all()
+	with(selectlist)
+	{
+	if winterfreezeable = 1
+	{
+		alarm_clear("lake_WinterChill")
+		if mspe > 0
+		{
+			mspe = .05
+			image_blend = 173+216*256+256*256*230
+			alarm_set("lake_WinterChill", 27)
+			alarm_set("lake_WinterFreeze", 20)
+		}
+	}
+	}
+	selectallies_all()
+	with(selectlist)
+	{
+	if winterfreezeable = 1
+	{
+		alarm_clear("lake_WinterChill")
+		if mspe > 0
+		{
+			mspe = .05
+			image_blend = 173+216*256+256*256*230
+			alarm_set("lake_WinterChill", 27)
+			alarm_set("lake_WinterFreeze", 20)
+		}
+
+	}
+	}
+}

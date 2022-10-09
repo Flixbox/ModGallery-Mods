@@ -1,0 +1,25 @@
+Name
+Svinhund
+Gor Don
+
+Unit
+mDwGreed_Hirdsman1
+
+Skills
+Plunder
+Combat
+Champion
+Engineering
+Warding
+Offense
+Fortune
+Creation
+Bodyguards
+Tactics
+Logistics
+Terramancy
+Recalcitrance
+Healing
+Bloodlust
+Archery
+mDSMP_RabbleSkill

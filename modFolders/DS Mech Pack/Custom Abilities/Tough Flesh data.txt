@@ -1,0 +1,6 @@
+Ability Name
+mDSMP_ArmoredTough
+
+Ability Description
+Tough Flesh : This unit receives less damage from every attack.
+This doesn't do anything, use mDSMP_Armored1, mDSMP_Armored3, mDSMP_Armored10 and mDSMP_Armored20 to increase value.

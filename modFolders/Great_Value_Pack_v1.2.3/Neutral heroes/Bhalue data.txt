@@ -1,0 +1,27 @@
+Name
+Bhalue
+
+Class
+Mercenary
+
+Unit
+Parrot
+
+Skills
+Mastery
+Dizzy Tune
+Hydromancy
+Terramancy
+Combat
+Taming
+Swarming
+Tactics
+Legion
+Speaker
+Devour
+Offense
+Leadership
+Regeneration
+Armorer
+Dragonking
+Mercurial

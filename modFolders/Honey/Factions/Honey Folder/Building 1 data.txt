@@ -1,0 +1,19 @@
+Name
+Nectar Garden
+
+Description
+Makes every stingerling/grown stinger in this town's garrison increase daily gold production by 8. Daily gold production is also permanently increased by 100 regardless.
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+1
+
+Effect Identifier
+honey_Garden
+
+Price
+Gold
+2000
+Wood
+2
+Mercury
+1

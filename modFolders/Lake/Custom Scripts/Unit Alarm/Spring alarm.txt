@@ -1,0 +1,39 @@
+if alarmtype = "lake_SpringHeal"
+{
+	selectenemies_all()
+	with(selectlist)
+	{
+	if SpringStolen = 0
+	{
+	alarm_clear("lake_SpringHeal")
+	alarm_set("lake_SpringHeal",25)
+	if chealth < mhealth
+	{
+		createspelleffect(128)
+		chealth += 50
+	if chealth > mhealth
+	{
+	chealth = mhealth
+	}
+	}
+	}
+	}
+	selectallies_all()
+	with(selectlist)
+	{
+	if SpringStolen = 0
+	{
+	alarm_clear("lake_SpringHeal")
+	alarm_set("lake_SpringHeal",25)
+	if chealth < mhealth
+	{
+		createspelleffect(128)
+		chealth += 50
+		if chealth > mhealth
+		{
+		chealth = mhealth
+		}
+	}
+	}
+	}
+}

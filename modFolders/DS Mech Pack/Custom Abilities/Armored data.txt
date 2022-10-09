@@ -1,0 +1,6 @@
+Ability Name
+mDSMP_ArmoredHeader
+
+Ability Description
+Armored: This unit receives less damage from every attack.
+This doesn't do anything, use mDSMP_Armored1, mDSMP_Armored3, mDSMP_Armored10, mDSMP_Armored20 and mDSMP_ArmoredPower to increase value.

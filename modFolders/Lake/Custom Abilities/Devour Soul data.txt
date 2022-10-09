@@ -1,0 +1,5 @@
+Ability Name
+lake_devoursoul
+
+Ability Description
+Soul-eater: This unit will devour the soul of what it attacks, instantly killing it and spawning a devoured soul. Instantly chamrs undead and constructs instead

@@ -1,0 +1,27 @@
+Name
+Vinios
+
+Class
+Hivekeeper
+
+Unit
+Wasp Sentry
+
+Skills
+honey_Courage
+Legion
+Aeromancy
+Logistics
+Archery
+Mastery
+Bloodlust
+Elementalism
+Toxicology
+honey_Sharpshot
+Swarming
+Plunder
+Scouting
+Offense
+Fortune
+Warding
+Tactics

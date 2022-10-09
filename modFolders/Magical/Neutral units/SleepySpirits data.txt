@@ -1,0 +1,34 @@
+Name
+Sleepy Spirits
+
+Gold cost for base unit (also decides basic strength of unit)
+750
+
+Balance modifier
+100
+
+Abilities
+Ranged
+Blaster
+Venom
+Burning
+Quick Strikes
+Hover
+MagicHex
+Small
+Micro
+Micro
+
+Use sound effects from X unit
+Anima
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Sleepy Girl
+
+Unit groups

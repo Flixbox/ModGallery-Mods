@@ -1,0 +1,32 @@
+Names
+Repairman
+
+Reference Name
+mDSMP_Mechanic
+
+Gold cost for base unit
+200
+
+Balance modifier
+100
+
+Abilities
+Slow
+Sturdy
+Mechpriest
+
+Use sound effects from X unit
+Carver
+
+Attack type
+0
+
+Living
+2
+
+Link
+Toadfrog
+
+Unit groups
+Mountain King
+

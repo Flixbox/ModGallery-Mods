@@ -1,0 +1,11 @@
+checkskillrank("honey_Architect")
+if (skillrank > 0)
+{
+	pickunitfromgroup("Mechahive Creations",skillrank/5)
+	addunit_value(foundunit,300*skillrank)
+}
+if (skillrank > 4)
+{
+	pickunitfromgroup("Mechahive Creations",0.99)
+	addunit_value(foundunit,300*skillrank)
+}

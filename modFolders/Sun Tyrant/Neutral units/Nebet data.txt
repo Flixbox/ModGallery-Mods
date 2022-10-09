@@ -1,0 +1,71 @@
+Name
+Nebet Tefet
+
+Gold cost for base unit (also decides basic strength of unit)
+13000
+
+Balance modifier
+200
+
+Abilities
+Ranged
+Versatile
+Quick Strikes
+Quick Strikes
+Quick Strikes
+Quick Strikes
+Setprojectile
+Teleport
+Teleswap
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Arrow Rain
+Long Ranged
+Long Ranged
+Long Ranged
+Long Ranged
+Long Ranged
+Thorns
+Regeneration
+Critical Strike
+Death Strike
+Resurrection
+Impenetrable
+Burning
+Ethereal
+Versatile
+Immortal
+Small
+Fast
+Hover
+Release
+Caster
+Quicksand
+Resurrection
+Elemental Fire
+Second Life
+Animate Dead
+Bless
+
+Use sound effects from X unit
+Siren
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Eye of God
+
+Unit groups
+Passionates of Fire

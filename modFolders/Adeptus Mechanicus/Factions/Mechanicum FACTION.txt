@@ -1,0 +1,62 @@
+FACTION NAME
+Mechanicum
+
+FACTION UNITS ALTERNATES
+2
+5
+6
+
+HERO NAMES
+Dominus
+Corpuscarii
+
+DWELLING NAMES
+Assembly Line
+Skitarii Barracks
+Raider Hideout
+Kataphron Forge
+Command HQ
+Contruction Facility
+
+STARTING TERRAIN
+Lava
+
+TOWN NAMES
+Mars
+Lucius
+Agripinaa
+Graia
+Stygies VIII
+Ryza
+Metalica
+
+HUMANOID ELITE TARGET
+9
+
+TOWN MUSIC
+Decay
+
+MAGIC SCHOOL SPECIALTY
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Mastery
+
+LORE NAME
+Adeptus Mechanicus
+
+LORE MAIN RACE
+Human
+
+LORE HISTORY
+Bla bla genocide
+
+LORE CULTURE
+Bla bla religion
+
+LORE HERO FIGHTER
+Bla bla Inquisitor
+
+LORE HERO CASTER
+Bla bla Idol of death
+

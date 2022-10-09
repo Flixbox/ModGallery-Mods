@@ -1,0 +1,25 @@
+Name
+Adalheidis
+Rodbard
+
+Unit
+mDwGreed_Miner1
+
+Skills
+Estates
+Oligarchy
+Wisdom
+Planning
+Leadership
+Toxicology
+Sorcery
+Regeneration
+mDSMP_Innovation
+Healing
+Bloodwarping
+Potency
+Terramancy
+Royalty
+Bodyguards
+Hydromancy
+Blight Ritual

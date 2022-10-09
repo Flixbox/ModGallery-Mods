@@ -1,0 +1,27 @@
+Name
+Magical Storm
+
+Class
+Lilac Assassin
+
+Unit
+Sleepy Girl
+
+Skills
+Siren Song
+Shadowcasting
+Bloodlust
+Bloodwarping
+Regeneration
+Hydromancy
+Union
+Bane
+Devour
+Malediction
+Mysticism
+Midas Touch
+Combat
+Creation
+Oligarchy
+Potency
+Sorcery

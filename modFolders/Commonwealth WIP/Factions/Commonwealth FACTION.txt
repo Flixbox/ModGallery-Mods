@@ -1,0 +1,65 @@
+FACTION NAME
+Commonwealth
+
+FACTION UNITS ALTERNATES
+2
+3
+4
+
+HERO NAMES
+Hetman
+Warlock
+
+DWELLING NAMES
+Painted House
+Inn
+Shooting Range
+Stables
+Royal Armory
+Foundry
+
+STARTING TERRAIN
+Grass
+
+TOWN NAMES
+Warsaw
+Cracow
+Vilnius
+Lviv
+Danzig
+Radom
+Poznan
+Brody
+Torun
+Elblag
+
+HUMANOID ELITE TARGET
+8
+
+TOWN MUSIC
+Order
+
+MAGIC SCHOOL SPECIALTY
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Royalty
+
+LORE NAME
+Polish-Lithuanian Commonwealth
+
+LORE MAIN RACE
+Human
+
+LORE HISTORY
+In their own universe Polish-Lithuanian Commonwealth was extensive kingdom located in the continent named Europe. Though one day citizens of Commonwealth woke up to a new reality. There were no Muscovites, no Swedes and no Ottomans. Instead their country was surrounded by lizards, walking dead, and the neighbours that were actually human were sewing their dying into monstrosities for some reason. How the united nations will fare in this new, weird reality?
+
+LORE CULTURE
+Decentralized, with weak power of the elected king. The power is held in democratic manner by local nobility, called szlachta. Thought they're just a tenth part of the population, every citizen can became a noble through their own merit.
+
+LORE HERO FIGHTER
+The highest ranked military commanders in Commonwealth, hetmans lead charges of cavalry to victory.
+
+LORE HERO CASTER
+In their own world, users of magic had to act carefully. In this universe where magic is common the Warlocks can finally fluorish.
+

@@ -1,0 +1,27 @@
+Name
+Mr. Bones
+
+Class
+Mercenary
+
+Unit
+Boneliath
+
+Skills
+Mastery
+Necromancy
+Legion
+Leadership
+Recruitment
+Offense
+Toxicology
+Dizzy Tune
+Bodyguards
+Champion
+Armorer
+Recalcitrance
+Watcher
+Sorcery
+Destruction
+Mysticism
+Potency

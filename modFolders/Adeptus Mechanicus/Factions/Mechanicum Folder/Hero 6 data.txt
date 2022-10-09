@@ -1,0 +1,24 @@
+Name
+Belisarius Cawl3
+
+Unit
+Kataphron Breacher
+
+Skills
+Healing
+Learning
+Bloodwarping
+Summoning
+Mastery
+Recruitment
+Armorer
+Regeneration
+Wisdom
+Planning
+Royalty
+Warding
+Archery
+Sorcery
+Mysticism
+Engineering
+Diplomacy

@@ -1,0 +1,11 @@
+checkskillrank("lake_Mint Scent")
+if skillrank
+{
+	selectenemies_value(300+ownvalue*(skillrank)/5)
+	with(selectlist)
+	{
+		allies = enemies
+		summonunit_permanent(name,1)
+		instance_destroy()
+	}
+}

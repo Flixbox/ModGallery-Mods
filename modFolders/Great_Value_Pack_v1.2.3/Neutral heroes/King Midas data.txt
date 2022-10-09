@@ -1,0 +1,27 @@
+Name
+King Midas
+
+Class
+Mercenary
+
+Unit
+Child of Midas
+
+Skills
+Mastery
+Midas Touch
+Fortune
+Mercurial
+Legion
+Combat
+Estates
+Royalty
+Recruitment
+Leadership
+Speaker
+Plunder
+Regeneration
+Wisdom
+Mysticism
+Potency
+Oligarchy

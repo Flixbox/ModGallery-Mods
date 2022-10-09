@@ -1,0 +1,2 @@
+if builtbuilding = "barbicaneffect"
+addunit_number("Armored Companion",5)

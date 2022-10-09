@@ -1,0 +1,38 @@
+Names
+Crocogator
+
+Reference Name
+mDSMP_Cocodrilo
+
+Gold cost for base unit
+180
+
+Balance modifier
+100
+
+Abilities
+Aquatic
+Slow
+Savage
+mDSMP_ArmoredFlesh
+mDSMP_Armored3
+mDSMP_Armored1
+mDSMP_Armored1
+
+Use sound effects from X unit
+Rex
+
+Attack type
+0
+
+Living
+3
+
+Link
+Toadfrog
+
+Unit groups
+The Overgrowth
+tug_wildcall
+Pact of Nature
+Cult of Serpents

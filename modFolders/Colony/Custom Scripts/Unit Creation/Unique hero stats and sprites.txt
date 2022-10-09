@@ -1,0 +1,165 @@
+if ishero = 1
+{
+	commander_get_data()
+	ColonyData = workingarray
+	array_read(ColonyData,17)
+	{
+		if result = "Exerior"
+		{
+			unitskin_name("colony_Exerior")
+			mhealth += (mhealth/100)*15
+			damage += (damage/10)*5
+			matcd += 2
+		}
+		if result = "Eiros"
+		{
+			unitskin_name("colony_Eiros")
+			ranged = 1
+			rangerange = 96+16
+			matcd = round(matcd/0.7)
+			projectile = 25
+			nomelleepenalty = 1
+			arrowrainchance = 10
+			threeheaded = 0
+			wpower += 2.5
+			atw += 2
+		}
+		if result = "Raen"
+		{
+			unitskin_name("colony_Raen")
+			matcd -= 2
+			aggression = 3
+			interruption = 1
+			weight += 2
+			mhealth += (mhealth/10)*1
+			damage += (damage/10)*4
+			atw -= 3
+		}
+		if result = "Nisra"
+		{
+			unitskin_name("colony_Nisra")
+			mhealth += (mhealth/10)*1
+			weight += 2
+			fireattacks = rank
+			projectile = 13
+			matcd -= 2
+		}
+		if result = "Pheidel"
+		{
+			unitskin_name("colony_Pheidel")
+			ranged = 0
+			rangerange = 0
+			threeheaded = 1
+			protected = 1
+			mhealth += (mhealth/10)*6
+			weight += 2
+			resistance += 2
+			damage -= (damage/100)*45
+		}
+		if result = "Sylress"
+		{
+			unitskin_name("colony_Sylress")
+			mhealth -= (mhealth/100)*15
+			damage += (damage/100)*25
+			poisonattacks = rank
+			projectile = 5
+			atw += 3
+		}
+		if result = "Solere"
+		{
+			unitskin_name("colony_Solere")
+			mhealth += (mhealth/10)*1
+			damage -= (damage/10)*1
+			weight += 2
+			fireattacks = rank
+			retaliation++
+		}
+		if result = "Celning"
+		{
+			unitskin_name("colony_Celning")
+			mhealth -= (mhealth/100)*15
+			damage += damage*1.5
+			charge = 1
+			ethereal = 1
+			fearattacks = 1
+		}
+		if result = "Senra"
+		{
+			unitskin_name("colony_Senra")
+			protected = 1
+			mhealth += (mhealth/10)*6
+			weight += 2
+			resistance += 2
+			damage -= (damage/100)*45
+		}
+		if result = "Eira"
+		{
+			unitskin_name("colony_Eira")
+			projectile = 25
+			nomelleepenalty = 1
+			arrowrainchance = 10
+			wpower += 1.5
+			atw += 2
+		}
+		if result = "Alres"
+		{
+			unitskin_name("colony_Alres")
+			ranged = 0
+			rangerange = 0
+			threeheaded = 1
+			flier = 1
+			hover = 1
+			confusingattacks = 1
+			auratype = 12
+			mhealth -= (mhealth/10)*1
+			damage += (damage/100)*25
+		}
+		if result = "Melry"
+		{
+			unitskin_name("colony_Melry")
+			mhealth += (mhealth/100)*15
+			projectile = 2
+			healing = 5
+			atw += 3
+		}
+		if result = "Pharein"
+		{
+			unitskin_name("colony_Pharein")
+			mhealth += (mhealth/100)*15
+			damage -= (damage/10)*1
+			healing = 1
+			fireattacks = rank
+		}
+		if result = "Necordi"
+		{
+			unitskin_name("colony_Necordi")
+			ranged = 0
+			rangerange = 0
+			threeheaded = 1
+			mhealth += (mhealth/10)*2
+			damage -= (damage/10)*7
+			poisonattacks = rank
+			atw += 5
+			weight += 2
+		}
+		if result = "Hienix"
+		{
+			unitskin_name("colony_Hienix")
+			wpower += 1.5
+			slowing = rank
+			projectile = 7
+			matcd -= 2
+		}
+		if result = "Saurey"
+		{
+			unitskin_name("colony_Saurey")
+			mhealth += (mhealth/10)*2
+			damage -= (damage/10)*1
+			trample = rank/2
+			weight += 4
+			wpower += 2.5
+			rangereduction = 0.5
+			retaliation++
+		}
+	}
+}

@@ -1,0 +1,5 @@
+Ability Name
+lake_unloyal
+
+Ability Description
+Unloyalty: This unit refuses to be led by a hero that isn't a fairy, and will change sides until there is no leader in its team or its current leader is a fairy.

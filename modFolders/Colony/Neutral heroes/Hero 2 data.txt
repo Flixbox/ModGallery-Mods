@@ -1,0 +1,27 @@
+Name
+Celning
+
+Class
+Antmonarch
+
+Unit
+Bullet Ant
+
+Skills
+Colony Call
+Fortune
+Offense
+Scouting
+Midas Touch
+Mastery
+Toxicology
+Logistics
+Champion
+Armorer
+Learning
+Plunder
+Swarming
+Leadership
+Tactics
+Oligarchy
+Dragonking

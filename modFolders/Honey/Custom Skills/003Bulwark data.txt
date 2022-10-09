@@ -1,0 +1,8 @@
+Skill Name
+Bulwark
+
+Reference Name
+honey_Bulwark
+
+Skill Description
+Units gain the ability to block the first 3 incoming attacks and gain +10% health boost. Attacks blocked increase by 1 per rank.

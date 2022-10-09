@@ -1,0 +1,16 @@
+Name:
+Stingerfolk Assembly
+
+Hero:
+Snight
+
+Add units:
+Grown Stinger
+Hive Defender
+Wasp Sniper
+Bumblevisor
+Stinger Knight
+F.O.R.T.R.E.S.S.
+Nectar Sorceress
+Hornet Champion
+Q.U.E.E.N.

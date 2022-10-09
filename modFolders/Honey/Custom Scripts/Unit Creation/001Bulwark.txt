@@ -1,0 +1,41 @@
+checkskillrank("honey_Bulwark")
+if skillrank > 0
+{
+	protected += 2+skillrank
+	mhealth += (mhealth/10)*skillrank
+}
+
+checkskillrank("honey_Sharpshot")
+{
+	checkability("Ranged")
+		if (skillrank > 0)&(hasability > 0)
+		{
+			damage += 3*skillrank
+		}
+	checkability("Long Ranged")
+		if (skillrank > 0)&(hasability > 0)
+		{
+			healthdivision = .1
+		}
+}
+
+checkskillrank("honey_Pacifist")
+if skillrank > 0
+{
+	if ishero = 0
+	{
+		checkability("Healer")
+		if hasability > 0
+		{
+			charmattacks = rank*(round(skillrank/2))
+		}
+	}
+	if ishero != 0
+	{
+		healing += 5*skillrank
+		rallycd = 6*3
+		rallyp = 1+.15*skillrank
+		damage += (damage/20)*skillrank
+		charmattacks = rank*(round(skillrank/2))
+	}
+}

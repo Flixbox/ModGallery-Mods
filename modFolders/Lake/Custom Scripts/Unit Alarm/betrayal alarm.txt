@@ -1,0 +1,6 @@
+if alarmtype = "lake_betrayal"
+{
+		allies = enemies
+		summonunit_permanent(name,1)
+		instance_destroy()
+}

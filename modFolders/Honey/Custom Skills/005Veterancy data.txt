@@ -1,0 +1,8 @@
+Skill Name
+Veterancy
+
+Reference Name
+honey_Veterancy
+
+Skill Description
+The units mastered by this hero gain +25% damage per rank initially and then every 30 seconds of combat after the initial boost. Time between boosts decreases by 5 seconds per rank down to 10 seconds.

@@ -1,0 +1,8 @@
+global_read(seasoncounter)
+if (result = 4)|(result = 5)
+{
+if armyspot >= 0
+{
+alarm_set("lake_SpringHeal",25)
+}
+}

@@ -1,0 +1,40 @@
+Names
+Field Medic
+Field Doctor
+
+Gold cost for base unit
+180
+
+Weekly Growth
+8
+
+Rare Resource Cost
+0O
+
+Balance modifier
+75
+80
+
+Abilities
+Healer
+
+Abilities for upgrade
+Healer
+Venom
+
+Use sound effects from X unit
+Monk
+
+Attack type
+0
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+Conquistadors
+Alliance of the Frontier
+

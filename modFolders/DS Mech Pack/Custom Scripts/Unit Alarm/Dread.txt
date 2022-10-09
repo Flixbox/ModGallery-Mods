@@ -1,0 +1,39 @@
+if (alarmtype = "mDSMP_DreadWave")
+{
+	if (mDSMP_DreadVal > 0)
+	{
+		//should be roughly 1% per unit of power
+		mDSMP_DreadChance = ownvalue/7500
+
+		selectenemies_value(mDSMP_DreadVal)
+		mDSMP_DreadVal -= 500
+		
+		global_set("temp_x", x)
+		global_set("temp_y", y)
+		global_set("temp_c", mDSMP_DreadChance)
+		with(selectlist)
+		{
+			delta_x = global_read("temp_x")-x
+			delta_y = global_read("temp_y")-y
+			
+			//cutting out units that are too far, current distance is 50
+			if ((delta_x*delta_x) + (delta_y*delta_y)) < 2500
+			{
+				// filter out undead
+				unit_get_data(name, 14)
+				if ((result = -1) = 0) & (inert = 0)
+				{
+					dr_chance = global_read("temp_c") - (ownvalue/10000)
+					//log_write("dreadtest", dr_chance)
+					if random(1) < dr_chance
+					{
+						createspelleffect(0)
+						petrification = 180 + random(30)
+					}
+				}
+			}
+		}
+		
+		alarm_set("mDSMP_DreadWave", 3)
+	}
+}

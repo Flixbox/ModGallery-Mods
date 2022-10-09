@@ -1,0 +1,9 @@
+if checkability("mDSMP_Minion")
+{
+	alarm_set("mDSMP_Minion", 0)
+}
+
+if checkability("mDSMP_MinionHalf")
+{
+	alarm_set("mDSMP_MinionHalf", 0)
+}

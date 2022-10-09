@@ -1,0 +1,8 @@
+Skin Name
+colony_Melry
+
+Skin Pack Name
+colony_heroes
+
+Skin Pack Index
+11

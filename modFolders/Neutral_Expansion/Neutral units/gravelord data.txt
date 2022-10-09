@@ -1,0 +1,35 @@
+Names
+Gravelord
+
+Gold cost for base unit
+1800
+
+Balance modifier
+100
+
+Abilities
+Big
+Wide Attacks
+Infest Half
+Budding Half
+Slow
+Good
+Good
+Sturdy
+
+Use sound effects from X unit
+Rock Pummeler
+
+Attack type
+1
+
+Living
+-1
+
+Link
+Graveling
+
+Unit groups
+Earth's Patrons
+Underworld
+The Seven Fears

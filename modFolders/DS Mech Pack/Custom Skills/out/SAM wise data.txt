@@ -1,0 +1,8 @@
+Skill Name
+Birdwatcher
+
+Reference Name
+SAM wise
+
+Skill Description
+Ouchy to birdos

@@ -1,0 +1,49 @@
+Names
+Kataphron Breacher
+Kataphron Destroyer
+
+Gold cost for base unit
+520
+
+Weekly Growth
+4
+
+Rare Resource Cost
+1O
+
+Balance modifier
+115
+115
+
+Abilities
+Ranged
+Laserprojectile
+Tank
+Versatile
+Burning
+Hover
+
+Abilities for upgrade
+Ranged
+Laserprojectile
+Tank
+Versatile
+Burning
+Blaster
+Hover
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Toadfrog
+
+Unit groups
+
+

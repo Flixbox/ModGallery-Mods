@@ -1,0 +1,49 @@
+Names
+Seimen
+Petihorai
+
+Gold cost for base unit
+780
+
+Weekly Growth
+3
+
+Rare Resource Cost
+1O
+
+Balance modifier
+105
+110
+
+Abilities
+Ranged
+Short Ranged
+Bulletprojectile
+Versatile
+Shrink
+Fast
+
+Abilities for upgrade
+Ranged
+Bulletprojectile
+Versatile
+Impenetrable
+Protected
+Shrink
+Fast
+
+Use sound effects from X unit
+Hand-cannoneer
+
+Attack type
+1
+
+Living
+2
+
+Link
+Volounteer
+
+Unit groups
+Imperial Legion
+

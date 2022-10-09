@@ -1,0 +1,24 @@
+Name
+Stera
+
+Unit
+Wasp Sentry
+
+Skills
+honey_Guidance
+Toxicology
+Aeromancy
+honey_Sharpshot
+Archery
+Mastery
+Bloodlust
+Logistics
+Legion
+Elementalism
+Swarming
+Plunder
+Scouting
+Offense
+Fortune
+Warding
+Tactics

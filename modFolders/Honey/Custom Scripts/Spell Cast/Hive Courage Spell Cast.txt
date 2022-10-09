@@ -1,0 +1,79 @@
+if spellname = "honey_hivestrength"
+{
+checkskillrank("honey_Courage")
+	with(spell_target_list)
+	{
+		commander_get_data()
+		HiveCourageRead = workingarray
+		array_read(HiveCourageRead,17)
+		if (result="Veirion")|(result="Bumbler")|(result="Redael")
+		{
+			mhealth += (mhealth/10)*5
+			chealth += (mhealth/10)*5
+			if ishero != 0
+			{
+				if (skillrank = 1)
+				{
+					summonunit_permanent("Stingerling", 8)
+				}
+				if (skillrank = 2)
+				{
+					summonunit_permanent("Stingerling", 8)
+					summonunit_permanent("Grown Stinger", 4)
+				}
+				if (skillrank = 3)
+				{
+					summonunit_permanent("Stingerling", 9)
+					summonunit_permanent("Grown Stinger", 5)
+					summonunit_permanent("Honey Guard", 2)
+				}
+				if (skillrank > 3)
+				{
+					beeamount = skillrank*2
+					summonunit_permanent("Stingerling", 7+beeamount)
+					summonunit_permanent("Grown Stinger", skillrank)
+					summonunit_permanent("Honey Guard", round(skillrank/1.5))
+					guardchance = floor(random(10))
+					if (guardchance < 2)
+					{
+						summonunit_permanent("Hive Defender", round(skillrank/2))
+					}
+				}
+			}
+		}
+		if (result="Horion")|(result="Snight")|(result="Vinios")
+		{
+			damage += (damage/10)*5
+			if ishero != 0
+			{
+				if (skillrank = 1)
+				{
+					summonunit_permanent("Wasp Sentry", 3)
+				}
+				if (skillrank = 2)
+				{
+					summonunit_permanent("Wasp Sentry", 4)
+					summonunit_permanent("Wasp Soldier", 1)
+				}
+				if (skillrank = 3)
+				{
+					summonunit_permanent("Wasp Sentry", 4)
+					summonunit_permanent("Wasp Soldier", 2)
+					summonunit_permanent("Wasp Sniper", 1)
+				}
+				if (skillrank > 3)
+				{
+					summonunit_permanent("Wasp Sentry", skillrank)
+					summonunit_permanent("Wasp Soldier", round(skillrank/2))
+					summonunit_permanent("Wasp Sniper", round(skillrank/3))
+					summonunit_permanent("Stinger Knight", round(skillrank/4))
+					guardchance = floor(random(10))
+					if (guardchance < 5)
+					{
+						summonunit_permanent("Waspserker", round(skillrank/8))
+					}
+				}
+			}
+		}
+	}
+}

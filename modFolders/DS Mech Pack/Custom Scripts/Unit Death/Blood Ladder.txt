@@ -1,0 +1,42 @@
+if (currentassailant != undefined) & (currentassailant > 0)
+{
+	global_set("tempbuffer1", ownvalue)
+
+	//figuring out if it's a living creature
+	unit_get_data(name, 14)
+	global_set("tempbuffer2", ((result > 0) & (checkability("Mechanical") = 0) & (checkability("Undead") = 0)) )
+
+	templist = list_create()
+	list_push(templist, currentassailant)
+	with (templist)
+	{
+		if checkability("mDSMP_BLadder")
+		{
+			if (mDSMP_SummonName!="")&(mDSMP_Threshold > 0)
+			{
+				global_read("tempbuffer2")
+				if (result | (mDSMP_BLad_OnlyLiving = 0))
+				{
+					global_read("tempbuffer1")
+					mDSMP_Curr += result
+					//show_message((mDSMP_Threshold - mDSMP_Curr))
+					if (mDSMP_Curr >= mDSMP_Threshold)
+					{
+						mDSMP_Curr -= mDSMP_Threshold
+						summonunit_permanent(mDSMP_SummonName, 1)
+						
+						global_set("buffer", mDSMP_Curr)
+						with (summonlist)
+						{
+							global_read("buffer")
+							mDSMP_Curr = result
+						}
+						
+						image_alpha = 0
+						instance_destroy()
+					}
+				}
+			}
+		}
+	}
+}

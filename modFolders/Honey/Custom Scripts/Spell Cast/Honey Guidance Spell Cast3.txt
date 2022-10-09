@@ -1,0 +1,103 @@
+if spellname = "honey_royalguidance"
+{
+	with(spell_target_list)
+{
+	checkskillrank("honey_Guidance")
+	{
+		commander_get_data()
+		HiveGuidanceRead = workingarray
+		array_read(HiveGuidanceRead,17)
+		if (result="Vinnet")|(result="Meliody")|(result="Virrior")
+		{
+			mhealth += round((mhealth/10)*1)
+			chealth += round((mhealth/10)*1)
+			if ishero != 0
+			{
+				if (skillrank = 1)
+				{
+					summonunit_permanent("Stingerling", 2)
+				}
+				if (skillrank = 2)
+				{
+					summonunit_permanent("Stingerling", 2)
+					summonunit_permanent("Grown Stinger", 1)
+				}
+				if (skillrank = 3)
+				{
+					summonunit_permanent("Stingerling", 2)
+					summonunit_permanent("Grown Stinger", 1)
+					summonunit_permanent("Honey Guard", 1)
+				}
+				if (skillrank > 3)
+				{
+					summonunit_permanent("Stingerling", skillrank-2)
+					summonunit_permanent("Grown Stinger", round(skillrank/2))
+					summonunit_permanent("Honey Guard", round(skillrank/3))
+					guardchance = floor(random(10))
+					if (guardchance < 2)
+					{
+						summonunit_permanent("Hive Defender", round(skillrank/3))
+					}
+				}
+			}
+		}
+		if (result="Stera")|(result="Vybri")|(result="Neress")
+		{
+			damage += ceil((damage/10)*1)
+			if ishero != 0
+			{
+				if (skillrank = 1)
+				{
+					summonunit_permanent("Wasp Sentry", 1)
+					guardchance = floor(random(10))
+					if (guardchance < 5)
+					{
+						summonunit_permanent("Wasp Sentry", 1)
+					}
+					if (guardchance >= 5)
+					{
+						summonunit_permanent("Wasp Soldier", 1)
+					}
+				}
+				if (skillrank = 2)
+				{
+					summonunit_permanent("Wasp Sentry", 2)
+					summonunit_permanent("Wasp Soldier", 1)
+				}
+				if (skillrank = 3)
+				{
+					summonunit_permanent("Wasp Sentry", 2)
+					summonunit_permanent("Wasp Soldier", 1)
+					guardchance = floor(random(10))
+					if (guardchance < 5)
+					{
+						summonunit_permanent("Wasp Soldier", 1)
+					}
+					if (guardchance >= 5)
+					{
+						summonunit_permanent("Wasp Sniper", 1)
+					}
+				}
+				if (skillrank > 3)
+				{
+					summonunit_permanent("Wasp Sentry", round(skillrank/2))
+					summonunit_permanent("Wasp Soldier", round(skillrank/2))
+					guardchance = floor(random(10))
+					if (guardchance < 4)
+					{
+						summonunit_permanent("Wasp Sniper", round(skillrank/4))
+					}
+					if (guardchance > 4)
+					{
+						summonunit_permanent("Stinger Knight", round(skillrank/4))
+					}
+					if (guardchance = 4)
+					{
+						summonunit_permanent("Waspserker", round(skillrank/4))
+					}
+				}
+			}
+		}
+	}
+}
+}

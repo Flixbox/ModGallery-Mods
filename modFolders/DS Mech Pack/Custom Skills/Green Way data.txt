@@ -1,0 +1,8 @@
+Skill Name
+Green Way
+
+Reference Name
+mDSMP_GreenWay
+
+Skill Description
+Exotic martial art mixing the schools of Earth and Water. Greatly improves a hero's combat capabilities.

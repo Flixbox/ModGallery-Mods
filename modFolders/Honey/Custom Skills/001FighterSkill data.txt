@@ -1,0 +1,8 @@
+Skill Name
+Hive Courage
+
+Reference Name
+honey_Courage
+
+Skill Description
+This hero gain +1 morale every 2 ranks and teaches the hero the spell "Hive Courage", boosting unit stats and spawning reinforcements, stats boosted and type of reinforcements vary per hero. Defensive hivekeepers also gain +25 health per rank while offensive hivekeepers instead gain +3 damage per rank.

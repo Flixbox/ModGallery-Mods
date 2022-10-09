@@ -1,0 +1,99 @@
+type: Plaza
+image: auto
+x: 24
+y: 12
+
+type: Architect
+image: auto
+x: 90
+y: 48
+
+type: Dwelling 1
+image: ComT1.png
+x: 129
+y: 73
+
+type: Dwelling 2
+image: ComT2.png
+x: 9
+y: 83
+
+type: Market
+image: auto
+x: 45
+y: 86
+
+type: Tavern
+image: auto
+x: 87
+y: 86
+
+type: Fort
+image: auto
+x: 158
+y: 108
+
+type: Hospital
+image: auto
+x: 10
+y: 121
+
+type: Dwelling 3
+image: ComT3.png
+x: 68
+y: 120
+
+type: Guild of Mages
+image: auto
+x: 124
+y: 122
+
+type: Archives of Magic
+image: auto
+x: 227
+y: 125
+
+type: Dwelling 4
+image: ComT4.png
+x: 273
+y: 144
+
+type: Dwelling 5
+image: ComT5.png
+x: 11
+y: 157
+
+type: Engineer
+image: auto
+x: 64
+y: 160
+
+type: Dwelling 6
+image: ComT6.png
+x: 118
+y: 168
+
+type: Archmage Tribunal
+image: auto
+x: 176
+y: 156
+
+type: Faction Mechanic 1
+image: ComSp1.png
+x: 224
+y: 167
+
+type: Antique Shop
+image: auto
+x: 13
+y: 202
+
+type: Faction Mechanic 2
+image: ComSp2.png
+x: 64
+y: 194
+
+type: Mercenary Hall
+image: auto
+x: 300
+y: 197

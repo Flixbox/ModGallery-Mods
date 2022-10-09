@@ -1,0 +1,27 @@
+Name
+Hikariko
+
+Class
+Wild Fairy
+
+Unit
+Zombie Fairy
+
+Skills
+Archery
+Scouting
+Recruitment
+Royalty
+Estates
+Planning
+Legion
+Bloodlust
+Toxicology
+Leadership
+Diplomacy
+Destruction
+Swarming
+Devour
+Warding
+Armorer
+Necromancy

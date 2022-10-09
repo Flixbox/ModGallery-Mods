@@ -1,0 +1,17 @@
+Name
+Idol of Mammon
+
+Description
+Teaches any hero Midas Touch and a spell Accelerated Rubedo.
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+4
+
+Effect Identifier
+mDwGreed_Idol
+
+Price
+Gold
+3000
+Crystal
+1

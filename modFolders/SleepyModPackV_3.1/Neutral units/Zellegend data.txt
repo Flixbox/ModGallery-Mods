@@ -1,0 +1,31 @@
+Name
+Zellegend
+
+Tier value			(0: militia || 1.75: swordsman || 3.2: cavalry || 5.35: gryphon || 7: gold drake || 9: great hydra)
+5
+
+Balance modifier
+80
+
+Abilities
+Charge
+Mutation
+Midas Touch
+Fortune
+
+Affiliation
+Wild
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Child of Midas
+
+Unit groups
+Pact of Nature
+The Conflux
+Tribes of Astoria

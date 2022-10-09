@@ -1,0 +1,40 @@
+Names
+Covetous Baron
+
+Reference Name
+mDwGreed_DemonBoss
+
+Gold cost for base unit
+3666
+
+Balance modifier
+200
+
+Abilities
+Ranged
+GoldStreamProjectile
+Versatile
+Bodyguards
+Double Summoning
+Confusion
+Host
+Quick Attacks
+Caster
+mDwGreed_Rubedo
+
+Use sound effects from X unit
+Jotun
+
+Attack type
+2
+
+Living
+0
+
+Link
+mDwGreed_Curse
+
+Unit groups
+Infernal Cultists
+The Seven Fears
+Echelons of Magic

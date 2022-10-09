@@ -1,0 +1,82 @@
+if checkbuilding("mDwGreed_Gulag")
+{
+	//log_clear("labortest")
+	//log_write("labortest","has gulag")
+
+	mDwG_slavenum = 0
+	mDwG_adddog = 0
+	//log_write("labortest","loop start")
+	for_army(army)
+	{
+		//log_write("labortest",fa_name)
+
+		if (fa_faction = 2) & (fa_orank = 0)
+		{
+			//log_write("labortest","changing gremlins")
+			fa_faction = faction
+			mDwG_slavenum += fa_number
+		}
+		if (fa_faction = 5)
+		{
+			if fa_orank = 0
+			{
+				//log_write("labortest","changing gobs")
+				fa_faction = faction
+				mDwG_slavenum += fa_number
+			}
+			if fa_orank = 3
+			{
+				//log_write("labortest","changing raiders")
+				fa_faction = faction
+				fa_orank = 0
+				mDwG_slavenum += fa_number
+				mDwG_adddog += fa_number
+			}
+			if fa_orank = 8
+			{
+				//log_write("labortest","changing gobshooters")
+				fa_faction = faction
+				fa_orank = 0
+				mDwG_slavenum += fa_number
+			}
+		}
+		if (fa_faction = 1)&(fa_orank = 1)&(mDwG_adddog > 0)
+		{
+			//log_write("labortest","increasing dogs")
+			fa_number += mDwG_adddog
+			mDwG_adddog = 0
+		}
+
+		if (fa_faction = faction)&(fa_orank = 0)
+		{
+			mDwG_slavenum += fa_number
+		}
+	}
+	//log_write("labortest","loop end")
+	//log_write("labortest","mDwG_adddog")
+	//log_write("labortest",mDwG_adddog)
+	//log_write("labortest","mDwG_slavenum")
+	//log_write("labortest",mDwG_slavenum)
+	
+	if (mDwG_adddog > 0)
+	{
+		//log_write("labortest","making dogs")
+		list_push(army, 1)
+		list_push(army, 1)
+		list_push(army, mDwG_adddog)
+		list_push(army, 0)
+		list_push(army, 0)
+	}
+	
+	if (mDwG_slavenum > 0)
+	{
+		//log_write("labortest","giving gold")
+		mDwG_slavenum = mDwG_slavenum * 4
+		addresource(gold, mDwG_slavenum)
+		show_symbolmessage(0, mDwG_slavenum)
+	}
+}
+else
+{
+	//log_write("labortest","no gulag")
+}

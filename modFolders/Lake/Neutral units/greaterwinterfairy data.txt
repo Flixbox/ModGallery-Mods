@@ -1,0 +1,42 @@
+Name
+Greater Winter
+
+Gold cost for base unit (also decides basic strength of unit)
+1000
+
+Balance modifier
+100
+
+Abilities
+Slowing
+Quick Strikes
+Quick Strikes
+Quick Strikes
+Wide Attacks
+lake_unloyal
+lake_seasonimmune
+Immortal
+Freezing
+Flying
+Flimsy
+Hover
+Shrink
+Caster
+Iceball
+Frost Ring
+Ice Bolt
+Elemental Ice
+
+Use sound effects from X unit
+Anima
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Bramble Thorn
+
+Unit groups

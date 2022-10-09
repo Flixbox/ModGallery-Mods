@@ -1,0 +1,27 @@
+Name
+Sandyhair
+
+Class
+Wanderer
+
+Unit
+Sand Devil
+
+Skills
+Mastery
+Combat
+Aeromancy
+Pyromancy
+Healing
+Midas Touch
+Elementalism
+Bloodlust
+Plunder
+Union
+Legion
+Warding
+Destruction
+Sorcery
+Mysticism
+Regeneration
+Bodyguards

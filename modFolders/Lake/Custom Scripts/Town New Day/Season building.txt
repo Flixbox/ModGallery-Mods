@@ -1,0 +1,4 @@
+if checkbuilding("lake_Season")
+{
+global_set(seasoncounter,global_read(seasoncounter)+1)
+}

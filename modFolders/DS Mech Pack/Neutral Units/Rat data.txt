@@ -1,0 +1,35 @@
+Names
+Rat
+
+Reference Name
+mDSMP_Rat
+
+Gold cost for base unit
+40
+
+Balance modifier
+80
+
+Abilities
+Fast
+Feeble
+mDSMP_MinionHalf
+
+Use sound effects from X unit
+Carver
+
+Attack type
+1
+
+Living
+3
+
+Link
+mDSMP_Rat
+
+Unit groups
+tug_wildcall
+tug_callbeasts
+The Overgrowth
+Pact of Nature
+The Seven Fears

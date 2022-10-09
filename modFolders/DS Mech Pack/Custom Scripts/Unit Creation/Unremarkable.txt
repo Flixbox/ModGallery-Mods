@@ -1,0 +1,4 @@
+if checkability("mDSMP_Unremarkable")
+{
+	camouflage += 50
+}

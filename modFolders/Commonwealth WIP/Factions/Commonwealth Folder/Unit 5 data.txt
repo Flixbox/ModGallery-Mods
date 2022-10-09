@@ -1,0 +1,46 @@
+Names
+Wallachian Archer
+Wallachian Rider
+
+Gold cost for base unit
+180
+
+Weekly Growth
+9
+
+Rare Resource Cost
+0C
+
+Balance modifier
+100
+100
+
+Abilities
+Ranged
+Burning
+OgnioStrzala
+
+Abilities for upgrade
+Ranged
+Burning
+Retreat
+OgnioStrzala
+Fast
+Fast
+Big
+
+Use sound effects from X unit
+Archer
+
+Attack type
+0
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+Tribes of Astoria
+

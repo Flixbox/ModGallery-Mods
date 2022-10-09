@@ -1,0 +1,30 @@
+Name
+Moonbun
+
+Tier value			(0: militia || 1.75: swordsman || 3.2: cavalry || 5.35: gryphon || 7: gold drake || 9: great hydra)
+1
+
+Balance modifier
+40
+
+Abilities
+Summoning
+Leap
+Small
+
+Affiliation
+Wild
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+0
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Moonbeast
+
+Unit groups
+Pact of Nature
+The Overgrowth
+Tribes of Astoria

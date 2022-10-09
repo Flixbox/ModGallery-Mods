@@ -1,0 +1,17 @@
+Name:
+Ant Alliance
+
+Hero:
+Alres
+
+Add units:
+Army Warrior
+Solenopsis Guard
+Leaf Windcutter
+Pheidole Sentinel
+Honeypot Witch
+Weaver Huntress
+Bullet Assassin
+Trapjaw Fighter
+Antprentice
+Ant Larvae

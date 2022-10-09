@@ -1,0 +1,29 @@
+Display Name
+Hive Courage
+
+Graphical Effect Index
+64
+
+Spell Tier (1: minor, 2: advanced, 3: ultimate, 4: adventure)
+3
+
+Spell School (MUST BE one of Earth, Fire, Water, Air)
+Air
+
+Targetting Type (MUST BE Buff, Debuff, Damage, Heal, Health, Manipulate (Debuff but fewer affected units), Summon, Adventure Map, Resurrect)
+Buff
+
+Targetting Subtype (ONLY RELEVANT FOR DAMAGING SPELLS: Single target, Small explosion, Large explosion, Spread, Global, Beam)
+Buff
+
+Spell Description
+Defensive hivekeepers casting this spell boost units health by +50% and spawn a swarm of 8 stingerlings; if an offensive hivekeeper is casting this instead, the units damage is boosted by +50% and spawn 3 wasp reinforcements, strength of reinforcements increase per rank.
+
+Spell Cost (positive for X mana cost, negative for X day cooldown)
+-2
+
+Reference Name
+honey_hivestrength
+
+Spell Accessibility (1 = normal (guild of mages, shrines, magic skills), 0 = limited)
+0

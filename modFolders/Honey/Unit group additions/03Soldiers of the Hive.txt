@@ -1,0 +1,10 @@
+Name:
+Soldiers of the Hive
+
+Hero:
+Horion
+
+Add units:
+Wasp Sniper
+Stinger Knight
+Hornet Champion

@@ -1,0 +1,14 @@
+if (random(3) < 1)
+{
+	//log_write("skintest", name)
+	if (name = "mDwGreed_Goblin1")
+	{
+		//log_write("skintest", "applying mDwGreed_Gobbo_Alt")
+		unitskin_pack("mDwGreed_Gobbo_Alt", 0)
+	}
+	//if (name = "mDwGreed_Slaver1")
+	//{
+	//	//log_write("skintest", "applying mDwGreed_Gachi_Alt")
+	//	unitskin_pack("mDwGreed_Gachi_Alt", floor(random(2)) )
+	//}
+}

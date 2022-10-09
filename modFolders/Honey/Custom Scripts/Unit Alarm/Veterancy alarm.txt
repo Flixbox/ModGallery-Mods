@@ -1,0 +1,18 @@
+if alarmtype = "honey_veterancyeffect"
+{
+	if ishero = 0
+    {
+        commander_get_data()
+		honeyvetData = workingarray
+		array_read(honeyvetData, 21)
+		mastery = result
+		if ((faction * 1000 + orank) = mastery)
+		{
+			damage += round((damage/4) * skillrank)
+			if skillrank < 5
+			{
+				alarm_set("honey_veterancyeffect",35-(5 * skillrank))
+			}
+		}
+    }
+}

@@ -1,0 +1,27 @@
+Name
+Cpt. Unicorn
+
+Class
+Wanderer
+
+Unit
+Prismatic
+
+Skills
+Mastery
+Learning
+Champion
+Wisdom
+Diplomacy
+Sorcery
+Planning
+Recruitment
+Bodyguards
+Summoning
+Dragonking
+Offense
+Armorer
+Fortune
+Scouting
+Recalcitrance
+Conflux

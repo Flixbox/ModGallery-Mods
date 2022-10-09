@@ -1,0 +1,47 @@
+Names
+Kastelan Robot
+Kastelan Robot Mk. II
+
+Gold cost for base unit
+1400
+
+Weekly Growth
+2
+
+Rare Resource Cost
+2O
+
+Balance modifier
+100
+100
+
+Abilities
+Slow
+Sturdy
+Inert
+Burning
+Forest Crown
+
+Abilities for upgrade
+Slow
+Sturdy
+Inert
+Burning
+Forest Crown
+Terror
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Kastelan Machinegun
+
+Unit groups
+
+

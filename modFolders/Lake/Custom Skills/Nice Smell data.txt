@@ -1,0 +1,8 @@
+Skill Name
+Mint Scent
+
+Reference Name
+lake_Mint Scent
+
+Skill Description
+Every fairy unit gets a very nice minty smell released upon death, so nice that everyone around the fairy joins your side.

@@ -1,0 +1,23 @@
+if alarmtype = "lake_WinterFreeze"
+{
+	selectenemies_all()
+	with(selectlist)
+	{
+		if winterfreezeable = 1
+		{
+		alarm_clear("lake_WinterFreeze")
+		frozen = 70
+		image_blend = 0
+		}
+	}
+	selectallies_all()
+	with(selectlist)
+	{
+		if winterfreezeable = 1
+		{
+		alarm_clear("lake_WinterFreeze")
+		frozen = 70
+		image_blend = 0
+		}
+	}
+}

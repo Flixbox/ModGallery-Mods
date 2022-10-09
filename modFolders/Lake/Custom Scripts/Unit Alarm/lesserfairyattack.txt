@@ -1,0 +1,37 @@
+if alarmtype = "lake_seasonambush"
+{
+		global_read(week)
+		actualweek = result+1
+		global_read(seasoncounter)
+		currentseason = result
+			if (currentseason=2)|(currentseason=3)
+			{
+				summonunit("Lesser Winter",actualweek*4)
+				with(summonlist)
+				{
+				unit_change_sides()
+				x = 0
+				y = 100
+				}
+			}
+			if (currentseason=4)|(currentseason=5)
+			{
+				summonunit("Lesser Spring",actualweek*4)
+				with(summonlist)
+				{
+				unit_change_sides()
+				x = 0
+				y = 0
+				}
+			}
+			if (currentseason=6)|(currentseason=7)
+			{
+				summonunit("Lesser Summer",actualweek*4)
+				with(summonlist)
+				{
+				unit_change_sides()
+				x = 0
+				y = 0
+				}
+			}
+}

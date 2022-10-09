@@ -1,0 +1,19 @@
+Name
+Labor Camp
+
+Description
+Makes Goblin Thralls and Goblin Wretches garrisoned in this town preform labor, as if they had Taxpayer. Furthermore, all garrisoned goblin units of other factions are converted into Goblin Thralls or Wretches, as appropriate.
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+0
+
+Effect Identifier
+mDwGreed_Gulag
+
+Price
+Gold
+500
+Wood
+5
+Ore
+5

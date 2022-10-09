@@ -1,0 +1,27 @@
+Name
+Senra
+
+Class
+Antmonarch
+
+Unit
+Bigheaded Ant
+
+Skills
+Colony Call
+Planning
+Combat
+Warding
+Healing
+Terramancy
+Logistics
+Armorer
+Recalcitrance
+Creation
+Elementalism
+Estates
+Bodyguards
+Tactics
+Engineering
+Leadership
+Potency

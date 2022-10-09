@@ -1,0 +1,41 @@
+Names
+Servitor
+Servitor Mk. II
+
+Gold cost for base unit
+75
+
+Weekly Growth
+20
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Slow
+Knockback
+
+Abilities for upgrade
+Slow
+Knockback
+Petrification
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Toadfrog
+
+Unit groups
+
+

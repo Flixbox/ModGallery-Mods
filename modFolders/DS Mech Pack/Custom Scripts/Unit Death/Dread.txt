@@ -1,0 +1,14 @@
+if (currentassailant != undefined) & (currentassailant > 0)
+{
+	global_set("tempbuffer1", ownvalue)
+
+	templist = list_create()
+	list_push(templist, currentassailant)
+	with (templist)
+	{
+		if checkability("mDSMP_Dread") & (mDSMP_DreadVal != undefined)
+		{
+			mDSMP_DreadVal += (global_read("tempbuffer1")/2)
+		}
+	}
+}

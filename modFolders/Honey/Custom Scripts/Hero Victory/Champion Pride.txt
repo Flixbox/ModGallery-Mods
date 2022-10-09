@@ -1,0 +1,7 @@
+checkskillrank("honey_Pride")
+if skillrank > 0
+{
+	prideincrease = (defeatedarmyvalue/6000)*skillrank
+	A += round(prideincrease/3)
+	show_symbolmessage(7, round(prideincrease/3))
+}

@@ -1,0 +1,38 @@
+Names
+Volounteer
+Sarmath
+
+Gold cost for base unit
+140
+
+Weekly Growth
+11
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Quick Strikes
+
+Abilities for upgrade
+Quick Strikes
+Rage
+
+Use sound effects from X unit
+Tea Knight
+
+Attack type
+1
+
+Living
+2
+
+Link
+Serf
+
+Unit groups
+

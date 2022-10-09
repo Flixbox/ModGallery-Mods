@@ -1,0 +1,19 @@
+Name
+Orchard
+
+Description
+Gives 1500 gold at the start of the week. Gives visiting heroes permament +1 stat, type of which depends on what kind of apple they eat.
+
+Tier / Town Row
+0
+
+Effect Identifier
+orchard_effect
+
+Price
+Gold
+500
+Wood
+2
+Sulphur
+1

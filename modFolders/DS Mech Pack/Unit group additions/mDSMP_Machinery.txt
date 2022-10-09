@@ -1,0 +1,13 @@
+Name:
+mDSMP_Machinery
+
+Hero:
+Bestur
+
+Add units:
+mDSMP_BFG
+mDSMP_Drill
+mDSMP_Copter
+mDSMP_Gatling
+mDSMP_Mechanic
+Rifleman

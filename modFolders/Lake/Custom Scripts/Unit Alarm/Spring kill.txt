@@ -1,0 +1,10 @@
+if alarmtype = "SpringDisableAura"
+{
+alarm_set("SpringDisableAura", 5)
+checkskillrank("lake_SpringSteal")
+selectenemies_value(500*skillrank)
+with(selectlist)
+{
+SpringStolen = 1
+}
+}

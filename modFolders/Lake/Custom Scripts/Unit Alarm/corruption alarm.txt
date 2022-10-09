@@ -1,0 +1,14 @@
+if alarmtype = "lake_corruptiondestruct"
+{
+selectallies_value(100)
+selectedfairy = selectlist
+instance_destroy()
+with(selectedfairy)
+{
+if (name = "Power")|(name = "Point")
+{
+summonunit_permanent("Zombie Fairy",1)
+instance_destroy()
+}
+}
+}

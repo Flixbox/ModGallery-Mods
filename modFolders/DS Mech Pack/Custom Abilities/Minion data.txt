@@ -1,0 +1,5 @@
+Ability Name
+mDSMP_Minion
+
+Ability Description
+Minion: At the start of the battle, this unit summons a <UNITNAMES>.

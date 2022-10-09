@@ -1,0 +1,8 @@
+if variable_exists(localcounterstatus)
+{
+   global_set(seasoncounter,localcounterstatus)
+}
+if variable_exists(localmirrorstatus)
+{
+   global_set(seasonmirroractive,localmirrorstatus)
+}

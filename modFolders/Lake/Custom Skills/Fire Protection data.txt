@@ -1,0 +1,8 @@
+Skill Name
+Summer Breeze
+
+Reference Name
+lake_FireImmune
+
+Skill Description
+Protects units around the hero against being set on fire by Summer and additionally spawns extra temporary Spirited Fire whenever a fire spell is cast during Summer. Protection radius and Spirited Fire amount increases with skill rank.

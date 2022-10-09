@@ -1,0 +1,12 @@
+checkskillrank("lake_FireImmune")
+if (skillrank > 0)&(spell_by_hero)
+{
+	global_read(seasoncounter)
+	if (result = 6)|(result = 7)
+	{
+	if spellelement = "Fire"
+		{
+	summonunit_permanent("Spirited Fire",skillrank)
+		}
+	}
+}

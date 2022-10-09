@@ -1,0 +1,24 @@
+Name
+Nurse Joy
+
+Unit
+Chancey
+
+Skills
+Healing
+Blessing
+Engineering
+Dizzy Tune
+Wisdom
+Summoning
+Estates
+Royalty
+Regeneration
+Aeromancy
+Hydromancy
+Scouting
+Logistics
+Mastery
+Potency
+Terramancy
+Pyromancy

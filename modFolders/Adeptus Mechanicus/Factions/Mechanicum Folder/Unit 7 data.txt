@@ -1,0 +1,52 @@
+Names
+Electro-Priest
+Datasmith
+
+Gold cost for base unit
+1150
+
+Weekly Growth
+2
+
+Rare Resource Cost
+0O
+
+Balance modifier
+80
+80
+
+Abilities
+Ranged
+Lightningprojectile
+Bodyguards
+First Aid
+Caster
+Lightning Bolt
+Energy Blast
+Blind
+Elemental Thunder
+Elemental Fire
+Chain Lightning
+Berserk
+
+Abilities for upgrade
+Ranged
+Lightningprojectile
+Bodyguards
+Healer
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Hoplite Alpha
+
+Unit groups
+
+

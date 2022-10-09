@@ -1,0 +1,17 @@
+Name
+Season Mirror
+
+Description
+Creates 1 Greater Fairy when built, this building will also generate 1 each week and 1 Lesser Fairy each day. Enemy Lesser Fairies will also spawn on neutral battles if your hero isn't a fairy hero, other factions are also affected by this. The types of fairy depends on season (on Autumn, 2 Zombie Fairies will be created instead of Greater Fairies).
+
+Town Row (please make sure there's space on that row! Default open spaces: 2 on 0th row; 1 on 1st row; 1 on 2nd row; 0 on 3rd row; 1 on 4th row)
+3
+
+Effect Identifier
+lake_SeasonMirror
+
+Price
+Gold
+2000
+Sulphur
+5

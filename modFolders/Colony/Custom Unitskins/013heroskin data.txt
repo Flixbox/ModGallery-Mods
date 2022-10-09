@@ -1,0 +1,8 @@
+Skin Name
+colony_Pharein
+
+Skin Pack Name
+colony_heroes
+
+Skin Pack Index
+12

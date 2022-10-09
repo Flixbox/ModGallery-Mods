@@ -1,0 +1,5 @@
+Ability Name
+mDSMP_Dread
+
+Ability Description
+Dread Presence: A supernatural feeling of dread grasps those in vicinity of this unit, so powerful it's hard to even save yourself.

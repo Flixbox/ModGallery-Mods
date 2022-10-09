@@ -1,0 +1,8 @@
+Skin Name
+colony_Senra
+
+Skin Pack Name
+colony_heroes
+
+Skin Pack Index
+8

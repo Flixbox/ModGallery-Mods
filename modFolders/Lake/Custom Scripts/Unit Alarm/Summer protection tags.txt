@@ -1,0 +1,10 @@
+if alarmtype = "SummerimmuneCircle"
+{
+alarm_set("SummerimmuneCircle", 9)
+checkskillrank("lake_FireImmune")
+selectallies_value(1000*skillrank)
+with(selectlist)
+{
+summerburnable = 0
+}
+}

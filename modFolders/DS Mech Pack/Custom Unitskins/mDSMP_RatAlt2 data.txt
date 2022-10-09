@@ -1,0 +1,8 @@
+Skin Name
+mDSMP_RatAlt2
+
+Skin Pack Name
+mDSMP_RatAlt
+
+Skin Pack Index
+2

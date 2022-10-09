@@ -1,0 +1,8 @@
+Skill Name
+Innovation
+
+Reference Name
+mDSMP_Innovation
+
+Skill Description
+Making complex machines occasionally.

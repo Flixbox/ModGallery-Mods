@@ -1,0 +1,24 @@
+Name
+Scaevola
+
+Unit
+Knight Errant
+
+Skills
+Aeromancy
+Hunting
+Pyromancy
+Regeneration
+Toxicology
+Plunder
+Terramancy
+Mysticism
+Engineering
+Dizzy Tune
+Mastery
+Elementalism
+Sorcery
+Creation
+Shadowcasting
+Hex
+Demonology

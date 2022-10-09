@@ -1,0 +1,4 @@
+if ishero = 0
+{
+	show_message(ownvalue)
+}

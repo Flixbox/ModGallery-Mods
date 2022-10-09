@@ -1,0 +1,15 @@
+if spellelement = "Air"
+{
+	selectallies_all()
+	with(selectlist)
+	{
+	if thunderartifactactive = 1
+		{	
+		if ranged = 1
+			{
+				damage += damage*0.2
+				createspelleffect(36)
+			}
+		}
+	}
+}

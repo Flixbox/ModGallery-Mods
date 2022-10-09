@@ -1,0 +1,24 @@
+Name
+Snight
+
+Unit
+Wasp Soldier
+
+Skills
+honey_Courage
+honey_Veterancy
+Armorer
+Offense
+Scouting
+Combat
+Recalcitrance
+Mastery
+Oligarchy
+Aeromancy
+Recruitment
+Engineering
+Fortune
+Bloodlust
+Dizzy Tune
+Warding
+Bodyguards

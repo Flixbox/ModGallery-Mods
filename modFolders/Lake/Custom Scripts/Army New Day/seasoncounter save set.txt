@@ -1,0 +1,2 @@
+localcounterstatus = global_read(seasoncounter)
+localmirrorstatus = global_read(seasonmirroractive)

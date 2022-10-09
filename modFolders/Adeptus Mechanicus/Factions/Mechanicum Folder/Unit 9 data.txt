@@ -1,0 +1,51 @@
+Names
+Knight Errant
+Knight Paladin
+
+Gold cost for base unit
+2400
+
+Weekly Growth
+1
+
+Rare Resource Cost
+4O
+
+Balance modifier
+120
+120
+
+Abilities
+Slow
+Sturdy
+Inert
+Wide Attacks
+Leap
+Bodyguards
+Big
+
+Abilities for upgrade
+Slow
+Sturdy
+Inert
+Wide Attacks
+Leap
+Bodyguards
+Budding Half
+Big
+
+Use sound effects from X unit
+Golem
+
+Attack type
+0
+
+Living
+2
+
+Link
+Hoplite Alpha
+
+Unit groups
+
+

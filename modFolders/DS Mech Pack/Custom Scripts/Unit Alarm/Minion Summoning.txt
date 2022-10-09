@@ -1,0 +1,12 @@
+if (alarmtype = "mDSMP_Minion") | (alarmtype = "mDSMP_MinionHalf")
+{
+	if (alarmtype = "mDSMP_MinionHalf")|(armyspot>=0)
+	{
+		threshold = 1 + (alarmtype = "mDSMP_Minion")
+		if random(2) < threshold 
+		{
+			unit_IDtoname(link)
+			summonunit(result, 1)
+		}
+	}
+}

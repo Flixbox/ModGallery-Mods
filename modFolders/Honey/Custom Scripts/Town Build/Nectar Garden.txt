@@ -1,0 +1,11 @@
+if builtbuilding = "honey_Garden"
+{
+	addunit_number("Stingerling",3)
+}
+
+if builtbuilding = "honey_Camp"
+{
+	addunit_number("Hive Defender",5)
+	addunit_number("Wasp Sniper",5)
+	addunit_number("Stinger Knight",5)
+}
