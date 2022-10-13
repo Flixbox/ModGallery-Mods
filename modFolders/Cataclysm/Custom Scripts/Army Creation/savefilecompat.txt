@@ -1,0 +1,8 @@
+if variable_exists(localwarring)
+{
+   global_set(waractive,localwarring)
+}
+if variable_exists(localengorgevalue)
+{
+   global_set(eatengoldvalue,localengorgevalue)
+}

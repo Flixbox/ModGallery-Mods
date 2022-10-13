@@ -1,0 +1,6 @@
+localwarring = global_read(waractive)
+
+checkskillrank("Cataclysm_Engorge")
+{
+localengorgevalue = global_read(eatengoldvalue)
+}

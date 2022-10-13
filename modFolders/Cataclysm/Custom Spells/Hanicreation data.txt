@@ -1,0 +1,29 @@
+Display Name
+Hanicreate
+
+Graphical Effect Index
+196
+
+Spell Tier (1: minor, 2: advanced, 3: ultimate, 4: adventure)
+3
+
+Spell School (MUST BE one of Earth, Fire, Water, Air)
+Earth
+
+Targetting Type (MUST BE Buff, Debuff, Damage, Heal, Health, Manipulate (Debuff but fewer affected units), Summon, Adventure Map, Resurrect)
+Buff
+
+Targetting Subtype (ONLY RELEVANT FOR DAMAGING SPELLS: Single target, Small explosion, Large explosion, Spread, Global, Beam)
+Buff
+
+Spell Description
+Turns blanks into undead, and undeads into haniwa. Higher skill ranks affect amount of units selected
+
+Spell Cost (positive for X mana cost, negative for X day cooldown)
+4
+
+Reference Name
+Cataclysm_Hanispell
+
+Spell Accessibility (1 = normal (guild of mages, shrines, magic skills), 0 = limited)
+0

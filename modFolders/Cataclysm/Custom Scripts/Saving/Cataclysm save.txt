@@ -1,0 +1,2 @@
+saving(obj_army,0,localwarring)
+saving(obj_army,0,localengorgevalue)

@@ -1,0 +1,17 @@
+if alarmtype = "cataclysm_appendagealarm"
+{
+rememberx = x
+remembery = y
+x = 0
+y = -12
+summonunit("Appendage", 4)
+global_set(appendagepile,id)
+with(summonlist)
+{
+turret = global_read(appendagepile)
+}
+x = rememberx
+y = remembery
+list_read(summonlist,0)
+set(result,turret,id)
+}

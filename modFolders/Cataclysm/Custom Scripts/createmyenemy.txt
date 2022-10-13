@@ -1,0 +1,102 @@
+if global_read(waractive) = 1
+{
+checkskillrank("Cataclysm_Clanify")
+if skillrank > 0
+{
+start_temporary_army()
+global_read(week)
+realweek = result+1
+log_write("Cataclysmpain","Week beast grab successful")
+powerlimitT1 = floor(random(100 * realweek))
+powerlimitT2 = (100 * realweek) - powerlimitT1
+powerlimitT3 = floor(random(powerlimitT2))
+powerlimitT4 = powerlimitT2 - powerlimitT3
+powerlimitT5 = floor(random(powerlimitT4))
+powerlimitT6 = powerlimitT4 - powerlimitT5
+powerlimitT2 -= powerlimitT3
+powerlimitT3 -= powerlimitT4
+powerlimitT4 -= powerlimitT5
+powerlimitT5 -= powerlimitT6
+log_write("Cataclysmpain","power limit math successful")
+addunit_power("Hanisoldier", powerlimitT1)
+addunit_power("Haniflamer", powerlimitT2)
+addunit_power("Hanigunner", powerlimitT2)
+addunit_power("Haniknight", powerlimitT3)
+addunit_power("Hanitotem", powerlimitT4)
+addunit_power("Hanihulk", powerlimitT4)
+addunit_power("Haniswarm", powerlimitT5)
+addunit_power("Black Clay", powerlimitT6)
+addunit_power("Haniweaver", powerlimitT6)
+log_write("Cataclysmpain","power units added")
+array_create()
+fightingarmy = workingarray
+array_push(fightingarmy,army)
+newregiment = advanced_event(create_regiment,fightingarmy)
+set(newregiment,owner,-1)
+set(newregiment,roaming,2)
+set(newregiment,callarmy,id)
+log_write("Cataclysmpain","regiment edit successful")
+end_temporary_army()
+with(newregiment)
+{
+instance_event_ext(obj_owmob,10,7)
+}
+}
+
+checkskillrank("Cataclysm_Create")
+if skillrank > 0
+{
+start_temporary_army()
+global_read(week)
+realweek = result+1
+powerlimitT1 = floor(random(33 * realweek))
+powerlimitT2 = (33 * realweek) - powerlimitT1
+powerlimitT3 = floor(random(powerlimitT2))
+powerlimitT4 = powerlimitT2 - powerlimitT3
+powerlimitT5 = floor(random(powerlimitT4))
+powerlimitT6 = powerlimitT4 - powerlimitT5
+powerlimitT2 -= powerlimitT3
+powerlimitT3 -= powerlimitT4
+powerlimitT4 -= powerlimitT5
+powerlimitT5 -= powerlimitT6
+addunit_power("Wolfer", powerlimitT1)
+addunit_power("Jackral", powerlimitT2/2)
+addunit_power("Foxer", powerlimitT2/2)
+addunit_power("Sbear", powerlimitT3)
+addunit_power("Lost Dog", powerlimitT4/2)
+addunit_power("Hellena", powerlimitT4/2)
+addunit_power("Whathow", powerlimitT5)
+addunit_power("Moonight Fox", powerlimitT6/2)
+addunit_power("Nonine", powerlimitT6/2)
+addunit_power("Ottie", powerlimitT1)
+addunit_power("Pistol-Shrimp", powerlimitT2/2)
+addunit_power("Furog", powerlimitT2/2)
+addunit_power("Nauticell", powerlimitT3)
+addunit_power("Vengefish", powerlimitT4/2)
+addunit_power("Colosquid", powerlimitT4/2)
+addunit_power("Swaranna", powerlimitT5)
+addunit_power("Night Serpent", powerlimitT6/2)
+addunit_power("Terrorclaw", powerlimitT6/2)
+addunit_power("Eagler", powerlimitT1)
+addunit_power("Crower", powerlimitT2/2)
+addunit_power("Zowl", powerlimitT2/2)
+addunit_power("Sonat", powerlimitT3)
+addunit_power("Petreath", powerlimitT4/2)
+addunit_power("Peacedent", powerlimitT4/2)
+addunit_power("Swarmers", powerlimitT5)
+addunit_power("Midnight Dragon", powerlimitT6/2)
+addunit_power("Sky Destroyer", powerlimitT6/2)
+array_create()
+fightingarmy = workingarray
+array_push(fightingarmy,army)
+newregiment = advanced_event(create_regiment,fightingarmy)
+set(newregiment,owner,-1)
+set(newregiment,roaming,2)
+set(newregiment,callarmy,id)
+end_temporary_army()
+with(newregiment)
+{
+instance_event_ext(obj_owmob,10,7)
+}
+}
+}

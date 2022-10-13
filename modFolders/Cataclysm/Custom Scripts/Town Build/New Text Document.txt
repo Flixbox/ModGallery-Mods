@@ -1,0 +1,4 @@
+if builtbuilding = "Cataclysm_Warbuild"
+{
+global_set(waractive, 1)
+}

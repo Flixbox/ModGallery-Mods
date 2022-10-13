@@ -1,0 +1,60 @@
+FACTION NAME
+Cataclysm
+
+FACTION UNITS ALTERNATES
+2
+4
+6
+
+HERO NAMES (fighter first, caster second)
+Spirit General
+Haniwa Commander
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Judgemental Cell
+Soul Scrubber
+Repentance
+Purified Anger
+Mysterious Hall
+Night Light
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Swamp
+
+TOWN NAMES (write as many as required)
+Beast Realm
+Blood Pool
+Animal Realm
+Weakest Creature
+Tiryagyoni
+Naraka
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Decay
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Water
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME:
+Infernal Cataclysm
+
+LORE MAIN RACE:
+The Dead
+
+LORE HISTORY:
+The humanoid spirits were enslaved by the animal spirits due to their inability to fight back, but their faith have summoned the god Keiki and she brought her Haniwa army to liberate the humans, both the haniwas and the beast spirits are at war. The 3 animal clans have joined forces in order to defeat the haniwa
+
+LORE CULTURE:
+The beast spirits believe in 'survival of the fittest', with that, they enslaved the weaker humanoid spirits. The haniwa exert far too much control, meaning you don't get to do much, as the haniwa will do everything and anything.
+
+LORE HERO FIGHTER:
+The beast leaders are the clan's respective matriarchs, none of them really like one another, but they joined forces anyways.
+
+LORE HERO CASTER:
+The god Keiki and her created haniwa lead their armies into battle!

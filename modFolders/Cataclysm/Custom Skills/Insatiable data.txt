@@ -1,0 +1,11 @@
+Skill Name
+Insatiable
+
+Reference Name
+Cataclysm_Insatiable
+
+Skill Description Short
+The hero will be able to eat any unit it attacks...and if enough is eaten, the hero will transform with massively increased stats!
+
+Skill Description Long
+Yep

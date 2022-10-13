@@ -1,0 +1,11 @@
+Skill Name
+Create
+
+Reference Name
+Cataclysm_Create
+
+Skill Description Short
+Teaches the hero a spell that transforms blank spirits into undead, and undead into Haniwa
+
+Skill Description Long
+Yep

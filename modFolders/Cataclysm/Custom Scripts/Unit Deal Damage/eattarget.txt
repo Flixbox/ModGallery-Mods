@@ -1,0 +1,23 @@
+checkskillrank("Cataclysm_Insatiable")
+if ishero
+if skillrank > 0
+{
+with(currenttarget)
+{
+createspelleffect(32)
+unit_get_data(name, 7)
+transformdevourgrab = result
+global_set(checkeatenenemy,1)
+global_set(eatengoldvalue, global_read(eatengoldvalue)+transformdevourgrab)
+global_set(eatingtransform,global_read(eatingtransform)+transformdevourgrab)
+instance_destroy()
+}
+global_read(eatingtransform)
+if result > 24000
+{
+mhealth = mhealth*10
+chealth = mhealth
+rangerange = rangerange*10
+global_set(eatingtransform,0)
+}
+}

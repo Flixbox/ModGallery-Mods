@@ -1,0 +1,171 @@
+if spellname = "Cataclysm_Clanform"
+{
+	with(spell_target_list)
+	{
+		commander_get_data()
+		array_read(workingarray,17)
+		heroclan = result
+		if (name="Resentful")|(name="Resentful")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Eagler",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Wolfer",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Ottie",1)
+			}
+		}
+		if (name="Hazard")|(name="Hazardous")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Crower",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Jackral",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Pistol-Shrimp",1)
+			}
+		}
+		if (name="Dweller")|(name="The Dweller")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Zowl",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Foxer",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Furog",1)
+			}
+		}
+		if (name="Strength")|(name="Fightht")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Sonat",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Sbear",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Nauticell",1)
+			}
+		}
+		if (name="Vengeful")|(name="Vengef")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Petreath",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Lost Dog",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Vengefish",1)
+			}
+		}
+		if (name="Incident")|(name="Incidental")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Peacedent",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Hellena",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Colosquid",1)
+			}
+		}
+		if (name="Twin Souls")|(name="Twins")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Swarmers",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Cerbelus",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Swaranna",1)
+			}
+		}
+		if (name="Midnight")|(name="Starry")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Midnight Dragon",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Moonight Fox",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Night Serpent",1)
+			}
+		}
+		if (name="Blacklit")|(name="Lightblack")
+		{
+			if heroclan="Yuuma Toutetsu"
+			{
+				instance_destroy()
+				summonunit_permanent("Sky Destroyer",1)
+			}
+			if heroclan="Saki Kurokoma"
+			{
+				instance_destroy()
+				summonunit_permanent("Nonine",1)
+			}
+			if heroclan="Yachie Kicchou"
+			{
+				instance_destroy()
+				summonunit_permanent("Terrorclaw",1)
+			}
+		}
+	}
+}

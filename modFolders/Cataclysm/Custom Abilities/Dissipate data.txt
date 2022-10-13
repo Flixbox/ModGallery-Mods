@@ -1,0 +1,5 @@
+Ability Name
+Cataclysm_Dissipate
+
+Ability Description
+Dissipate: When this unit dies, it won't leave a corpse.

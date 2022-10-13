@@ -1,0 +1,5 @@
+Ability Name
+cataclysm_appendage
+
+Ability Description
+Appendage: This unit has multiple extra appendages that attack independently of the main unit.

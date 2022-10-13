@@ -1,0 +1,11 @@
+Skill Name
+Manhunter
+
+Reference Name
+Cataclysm_Chosen
+
+Skill Description Short
+Will give huge damage, speed and health buffs to 1 unit in the hero's army for 8 seconds, but the timer will reset everytime the unit kills something! Further ranks increase stat gains
+
+Skill Description Long
+Yep

@@ -1,0 +1,65 @@
+if global_read(waractive) = 1
+{
+checkskillrank("Cataclysm_Create")
+if skillrank > 0
+{
+start_temporary_army()
+global_read(week)
+realweek = result+1
+powerlimitT1 = floor(random(33 * realweek))
+powerlimitT2 = (33 * realweek) - powerlimitT1
+powerlimitT3 = floor(random(powerlimitT2))
+powerlimitT4 = powerlimitT2 - powerlimitT3
+powerlimitT5 = floor(random(powerlimitT4))
+powerlimitT6 = powerlimitT4 - powerlimitT5
+powerlimitT2 -= powerlimitT3
+powerlimitT3 -= powerlimitT4
+powerlimitT4 -= powerlimitT5
+powerlimitT5 -= powerlimitT6
+powerAmountT1 = round(powerlimitT1 / 4)
+powerAmountT2 = round(powerlimitT2 / 5)
+powerAmountT3 = round(powerlimitT3 / 10)
+powerAmountT4 = round(powerlimitT4 / 14)
+powerAmountT5 = round(powerlimitT5 / 24)
+powerAmountT6 = round(powerlimitT6 / 60)
+addunit_number("Wolfer", powerAmountT1)
+addunit_number("Jackral", powerAmountT2)
+addunit_number("Foxer", powerAmountT2/2)
+addunit_number("Sbear", powerAmountT3)
+addunit_number("Lost Dog", powerAmountT4/2)
+addunit_number("Hellena", powerAmountT4/2)
+addunit_number("Whathow", powerAmountT5)
+addunit_number("Moonight Fox", powerAmountT6/2)
+addunit_number("Nonine", powerAmountT6/2)
+addunit_number("Ottie", powerAmountT1)
+addunit_number("Pistol-Shrimp", powerAmountT2/2)
+addunit_number("Furog", powerAmountT2/2)
+addunit_number("Nauticell", powerAmountT3)
+addunit_number("Vengefish", powerAmountT4/2)
+addunit_number("Colosquid", powerAmountT4/2)
+addunit_number("Swaranna", powerAmountT5)
+addunit_number("Night Serpent", powerAmountT6/2)
+addunit_number("Terrorclaw", powerAmountT6/2)
+addunit_number("Eagler", powerAmountT1)
+addunit_number("Crower", powerAmountT2/2)
+addunit_number("Zowl", powerAmountT2/2)
+addunit_number("Sonat", powerAmountT3)
+addunit_number("Petreath", powerAmountT4/2)
+addunit_number("Peacedent", powerAmountT4/2)
+addunit_number("Swarmers", powerAmountT5)
+addunit_number("Midnight Dragon", powerAmountT6/2)
+addunit_number("Sky Destroyer", powerAmountT6/2)
+array_create()
+fightingarmy = workingarray
+array_push(fightingarmy,army)
+newregiment = advanced_event(create_regiment,fightingarmy)
+set(newregiment,owner,-1)
+set(newregiment,roaming,2)
+set(newregiment,callarmy,id)
+end_temporary_army()
+with(newregiment)
+{
+instance_event_ext(obj_owmob,10,7)
+}
+}
+}

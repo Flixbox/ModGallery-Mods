@@ -1,0 +1,11 @@
+if spellname = "Cataclysm_Engorgespell"
+{
+	with(spell_target_list)
+	{
+		global_set(checkeatenenemy,1)
+		unit_get_data(name,7)
+		secondevourgrab = result
+		global_set(eatengoldvalue,global_read(eatengoldvalue)+secondevourgrab)
+		instance_destroy()
+	}
+}

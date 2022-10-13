@@ -1,0 +1,5 @@
+Ability Name
+Cataclysm_Blank
+
+Ability Description
+Blank: This unit is a base for something else..

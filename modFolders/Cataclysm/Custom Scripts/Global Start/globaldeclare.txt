@@ -1,0 +1,2 @@
+global_set(checkeatenenemy, 0)
+global_set(eatengoldvalue, 0)

@@ -1,0 +1,17 @@
+Name
+Warring Field
+
+Description
+Everyday, every Cataclysm hero will have to fight an army that gets stronger per week.
+
+Tier / Town Row
+3
+
+Effect Identifier
+Cataclysm_Warbuild
+
+Price
+Gold
+3000
+Sulphur
+5

@@ -1,0 +1,5 @@
+checkability("Cataclysm_Dissipate")
+if hasability
+{
+leavesoul = -1
+}

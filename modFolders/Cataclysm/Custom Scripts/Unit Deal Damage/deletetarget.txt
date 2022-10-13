@@ -1,0 +1,8 @@
+if checkability("Cataclysm_Destroy")
+{
+with(currenttarget)
+{
+createspelleffect(32)
+instance_destroy()
+}
+}

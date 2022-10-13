@@ -1,0 +1,10 @@
+if lasthitby != undefined
+{
+with(lasthitby)
+{
+if chosenonebuff = 1
+{
+buffedtimerreset = 0
+}
+}
+}

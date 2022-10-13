@@ -1,0 +1,11 @@
+Skill Name
+Clanify
+
+Reference Name
+Cataclysm_Clanify
+
+Skill Description Short
+Teaches the hero a spell that transforms blank spirits into a spirit corresponding to the hero's clan
+
+Skill Description Long
+Yep

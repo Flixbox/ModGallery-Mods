@@ -1,0 +1,36 @@
+if alarmtype = "Cataclysm_chooseunitalarm"
+{
+	selectallies_all()
+	withrandom(selectlist)
+	{
+		chosenonebuff = 1
+		checkskillrank("Cataclysm_Chosen")
+		rememberspeed = mspe
+		global_set(rememberedspeed,rememberspeed)
+		mspe = ((mspe * 0.2) * skillrank) + mspe
+		rememberdamage = damage
+		global_set(remembereddamage,rememberdamage)
+		damage = ((damage * 0.5) * skillrank) + (15 * skillrank) + damage
+		rememberhealth = mhealth
+		global_set(rememberedhealth, rememberhealth)
+		mhealth = ((mhealth * 0.5) * skillrank) + (125 * skillrank) + mhealth
+		chealth = mhealth
+		buffedtimerreset = 1
+		alarm_set("Cataclysm_huntercountdown",8)
+	}
+}
+if alarmtype = "Cataclysm_huntercountdown"
+{
+	if buffedtimerreset = 1
+	{
+	mspe = global_read(rememberedspeed)
+	damage = global_read(remembereddamage)
+	mhealth = global_read(rememberedhealth)
+	}
+	if buffedtimerreset = 0
+	{
+	show_message("timer reset")
+	alarm_set("Cataclysm_huntercountdown",8)
+	buffedtimerreset = 1
+	}
+}

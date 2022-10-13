@@ -1,0 +1,16 @@
+if spellname = "Cataclysm_Clanform"
+{
+spell_skip_autotargeting = 1
+tlist = list_create()
+global_set(templist, tlist)
+selectallies_all()
+with(selectlist)
+{
+    if checkability("Cataclysm_Blank")&ishero=0
+    {
+        global_read(templist)
+        list_push(result, id)
+    }
+}
+spell_target_list = tlist
+}

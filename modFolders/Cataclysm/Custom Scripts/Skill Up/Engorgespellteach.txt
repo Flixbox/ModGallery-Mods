@@ -1,0 +1,4 @@
+if changedskill = "Cataclysm_Engorge"
+{
+	spell_learn("Cataclysm_Engorgespell")
+}

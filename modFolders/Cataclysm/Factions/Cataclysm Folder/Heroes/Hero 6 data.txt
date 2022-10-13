@@ -1,0 +1,24 @@
+Name
+Wily Beast
+
+Unit
+Dweller
+
+Skills
+Cataclysm_Create
+Archery
+Regeneration
+Bloodwarping
+Fortune
+Mastery
+Legion
+Bloodlust
+Champion
+Leadership
+Engineering
+Oligarchy
+Devour
+Healing
+Warding
+Tactics
+Swarming

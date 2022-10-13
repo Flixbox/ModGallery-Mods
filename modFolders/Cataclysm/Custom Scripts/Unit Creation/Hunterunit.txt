@@ -1,0 +1,6 @@
+checkskillrank("Cataclysm_Chosen")
+if skillrank > 0
+if ishero
+{
+	alarm_set("Cataclysm_chooseunitalarm", 0)
+}

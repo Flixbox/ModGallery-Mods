@@ -1,0 +1,91 @@
+if spellname = "Cataclysm_Hanispell"
+{
+	with(spell_target_list)
+		{
+			if (name="Resentful")|(name="Resentfull")
+			{
+				instance_destroy()
+				summonunit_permanent("Skeleton",1)
+			}
+			if (name="Hazard")|(name="Hazardous")
+			{
+				instance_destroy()
+				summonunit_permanent("Bone Shooter",1)
+			}
+			if (name="Dweller")|(name="The Dweller")
+			{
+				instance_destroy()
+				summonunit_permanent("Boneguard",1)
+			}
+			if (name="Strength")|(name="Fightht")
+			{
+				instance_destroy()
+				summonunit_permanent("Carcass",1)
+			}
+			if (name="Incident")|(name="Incidental")
+			{
+				instance_destroy()
+				summonunit_permanent("Boneliath",1)
+			}
+			if (name="Twin Souls")|(name="Twins")
+			{
+				instance_destroy()
+				summonunit_permanent("Soulmage",1)
+			}
+			if (name="Blacklit")|(name="Lightblack")
+			{
+				instance_destroy
+				summonunit_permanent("Thanatos",1)
+			}
+			if (name="Midnight")|(name="Starry")
+			{
+				instance_destroy
+				summonunit_permanent("Lifebane",1)
+			}
+			if (name="Skeleton")
+			{
+				instance_destroy()
+				summonunit_permanent("Hanisoldier",1)
+			}
+			if (name="Bone Shooter")
+			{
+				instance_destroy()
+				summonunit_permanent("Haniflamer",1)
+			}
+			if (name="Boneguard")
+			{
+				instance_destroy()
+				summonunit_permanent("Hanigunner",1)
+			}
+			if (name="Carcass")
+			{
+				instance_destroy()
+				summonunit_permanent("Haniknight",1)
+			}
+			if (name="Vengeful")|(name="Vengef")
+			{
+				instance_destroy()
+				summonunit_permanent("Hanitotem",1)
+			}
+			if (name="Boneliath")
+			{
+				instance_destroy()
+				summonunit_permanent("Hanihulk",1)
+			}
+			if (name="Lich")|(name="Soulmage")
+			{
+				instance_destroy()
+				summonunit_permanent("Haniswarm",1)
+			}
+			if (name="Lifebane")
+			{
+				instance_destroy
+				summonunit_permanent("Black Clay",1)
+			}
+			if (name="Thanatos")
+			{
+				instance_destroy
+				summonunit_permanent("Haniweaver",1)
+			}
+		}
+}

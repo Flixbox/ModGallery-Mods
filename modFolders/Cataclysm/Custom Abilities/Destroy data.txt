@@ -1,0 +1,5 @@
+Ability Name
+Cataclysm_Destroy
+
+Ability Description
+Destroy: Whoever this unit attacks, will instantly be erased from existence.

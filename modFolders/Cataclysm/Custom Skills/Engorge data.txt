@@ -1,0 +1,11 @@
+Skill Name
+Engorge
+
+Reference Name
+Cataclysm_Engorge
+
+Skill Description Short
+Teaches the hero a spell that allows them to use Devour...on enemies!
+
+Skill Description Long
+Yep

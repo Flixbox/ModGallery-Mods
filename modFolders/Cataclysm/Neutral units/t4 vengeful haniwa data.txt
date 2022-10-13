@@ -1,0 +1,30 @@
+Name
+Hanitotem
+
+Gold cost for base unit (also decides basic strength of unit)
+740
+
+Balance modifier
+100
+
+Abilities
+Tower
+Passive
+Aura of Power
+Aura of Light
+Necromancy
+Heir
+
+Use sound effects from X unit
+Pride
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+0
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+-1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Zombie
+
+Unit groups

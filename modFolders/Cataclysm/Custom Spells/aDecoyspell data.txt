@@ -1,0 +1,29 @@
+Display Name
+ADecoy
+
+Graphical Effect Index
+32
+
+Spell Tier (1: minor, 2: advanced, 3: ultimate, 4: adventure)
+1
+
+Spell School (MUST BE one of Earth, Fire, Water, Air)
+Water
+
+Targetting Type (MUST BE Buff, Debuff, Damage, Heal, Health, Manipulate (Debuff but fewer affected units), Summon, Adventure Map, Resurrect)
+Debuff
+
+Targetting Subtype (ONLY RELEVANT FOR DAMAGING SPELLS: Single target, Small explosion, Large explosion, Spread, Global, Beam)
+Spread
+
+Spell Description
+This spell's only purpose is to fix the cooldown recharge bug. It is unobtainable and does not do anything
+
+Spell Cost (positive for X mana cost, negative for X day cooldown)
+-3
+
+Reference Name
+aCataclysm_Decspell
+
+Spell Accessibility (1 = normal (guild of mages, shrines, magic skills), 0 = limited)
+0

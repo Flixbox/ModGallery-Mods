@@ -1,0 +1,8 @@
+if spellname = "Cataclysm_Feedspell"
+{
+	with(spell_target_list)
+	{
+		instance_destroy()
+		summonunit_permanent("Blood Spirit", 1)
+	}
+}

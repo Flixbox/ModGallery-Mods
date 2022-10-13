@@ -1,0 +1,9 @@
+if ishero
+{
+global_set(eatengoldvalue,0)
+}
+if ishero
+{
+global_set(checkeatenenemy,0)
+global_set(eatingtransform,0)
+}

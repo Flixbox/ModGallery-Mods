@@ -1,0 +1,11 @@
+Skill Name
+Blood Pool
+
+Reference Name
+Cataclysm_BloodFeed
+
+Skill Description Short
+Teaches the hero a spell that allows them to transform units into more devour-worthy forms. Higher ranks increase units affected
+
+Skill Description Long
+Yep
