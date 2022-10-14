@@ -1,0 +1,13 @@
+if checkbuilding("startarget")
+addresource(sulphur,2)
+addresource(mercury,1)
+
+if checkbuilding("thetemple")
+addresource(crystal,3)
+
+if checkbuilding("darksideofthemoon")
+addresource(crystal,2)
+addresource(sulphur,1)
+
+if checkbuilding("azathoththrone")
+addresource(mercury,3)

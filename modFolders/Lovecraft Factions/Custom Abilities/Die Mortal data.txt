@@ -1,0 +1,5 @@
+Ability Name
+diemortal
+
+Ability Description
+Die Mortal: Star Spawn Of Cthulhu has chance to transform into a more powerful presence in battle.

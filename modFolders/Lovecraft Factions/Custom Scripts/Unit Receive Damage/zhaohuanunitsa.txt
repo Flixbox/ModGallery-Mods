@@ -1,0 +1,68 @@
+checkability("diemortal")
+if hasability > 0
+if random(100) < 12
+{
+	unit_transform("Cthulhi")
+}
+
+if (name="Cthulhi")
+if random(100) < 20
+{
+	show_message("Heiheiheiheihei!!!Die! Mortal!")
+}
+
+checkability("falloutmutate")
+if hasability > 0
+if random(100) < 15
+{
+        summonunit("Mudghah",1)
+}
+
+checkability("dagonworship")
+if hasability > 0
+if random(100) < 10
+{
+        summonunit("Mad Deep Ones",1)
+}
+
+checkability("maddeningsadmusic")
+if hasability > 0
+if random(100) < 10
+{
+        summonunit("Servitor Of The Outer Gods",1)
+}
+
+checkability("scientificcreation")
+if hasability > 0
+if random(100) < 3
+{
+        summonunit("Automatic Crossbow",1)
+}
+
+checkability("conquerdeath")
+if hasability > 0
+if random(100) < 3
+{
+        summonunit("Ghost Larva",1)
+}
+
+checkability("begatsofoutergods")
+if hasability > 0
+if random(100) < 15
+{
+        summonunit("Fosterlings Of Outer Gods",1)
+}
+
+checkability("jumpgang")
+if hasability > 0
+if random(100) < 15
+{
+        summonunit("Moon Beast",2)
+}
+
+checkability("crazygrowth")
+if hasability > 0
+if random(100) < 5
+{
+	unit_transform("Colors Out Of Space")
+}

@@ -1,0 +1,31 @@
+Names
+Abyssal Worm
+
+Gold cost for base unit (also decides basic strength of unit)
+70
+
+Balance modifier
+150
+
+Abilities
+Aquatic
+Leap
+Slowing
+Leech Life
+Explosion
+Health 55
+Damage 10
+
+Use sound effects from X unit
+Mercurial
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

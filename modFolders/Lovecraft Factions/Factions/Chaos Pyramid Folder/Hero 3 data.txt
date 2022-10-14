@@ -1,0 +1,24 @@
+Name
+Shoggoth Lord Shiny
+
+Unit
+Larval Hunting Horrors
+
+Skills
+Diplomacy
+Learning
+Archery
+Estates
+Legion
+Mastery
+Speaker
+servitorrequiem
+Bodyguards
+Devour
+Recalcitrance
+Mercurial
+Leadership
+Fortune
+Offense
+Armorer
+Healing

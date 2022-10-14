@@ -1,0 +1,5 @@
+Ability Name
+fatherofbats
+
+Ability Description
+Father Of Bats: Haunter Of Dark will have a chance to summon Bats In The Dark

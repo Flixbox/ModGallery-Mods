@@ -1,0 +1,41 @@
+if (name="Innsmouth Man")|(name="Innsmouth Look")
+if random(100) < 30
+{
+	show_message("Return to the sea.......")
+}
+
+if (name="Madman")
+if random(100) < 40
+{
+	show_message("Hahahahaha.......")
+}
+
+if (name="Esoteric")|(name="Esoteric Master")|(name="Believer")
+if random(100) < 50
+{
+	show_message("Blood sacrifice.......")
+}
+
+if (name="Scientist")|(name="Science Maniac")
+if random(100) < 30
+{
+	show_message("Pursue science and truth.......")
+}
+
+if (name="Starry Wisdom")|(name="Starry Wisdom Master")
+if random(100) < 30
+{
+	show_message("Embrace the darkness.......")
+}
+
+if (name="Black man")|(name="Black Pharaoh")
+if random(100) < 40
+{
+	show_message("Leave temporarily.......")
+}
+
+checkability("twistsowing")
+if hasability > 0
+{
+        summonunit("Colors Out Of Space Embryo",1)
+}

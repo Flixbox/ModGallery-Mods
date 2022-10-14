@@ -1,0 +1,19 @@
+if spellname = "colorsoutofspace"
+{
+        summonunit("Colors Out Of Space Embryo",1)
+}
+
+if spellname = "crazytune"
+{
+        summonunit("Servitor Of The Outer Gods",5)
+}
+
+if spellname = "fireworksparty"
+{
+	spell_summon_unit = "Freshling"
+}
+
+if spellname = "starshipsupport"
+{
+        summonunit("Star Battleship Black Moon",1)
+}

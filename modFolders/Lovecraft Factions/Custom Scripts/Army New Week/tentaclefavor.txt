@@ -1,0 +1,16 @@
+checkskillrank("tentaclefavor")
+addunit_number("Abyss Tentacle",3*skillrank)
+addunit_number("Star Vampire",1*skillrank)
+
+checkskillrank("catenthusiast")
+addunit_number("Black Cat",1*skillrank)
+addunit_number("White Cat",1*skillrank)
+
+checkskillrank("deepseakraken")
+addunit_number("Deep Sea Kraken",1*skillrank)
+
+checkskillrank("servitorrequiem")
+addunit_number("Servitor Of The Outer Gods",1*skillrank)
+
+checkskillrank("Inhabitantsoftsath")
+addunit_number("Kn Yan",1*skillrank)

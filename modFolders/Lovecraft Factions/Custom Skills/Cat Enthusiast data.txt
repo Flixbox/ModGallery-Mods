@@ -1,0 +1,11 @@
+Skill Name
+Cat Enthusiast
+
+Reference Name
+catenthusiast
+
+Skill Description Short
+Cat Enthusiast.Like cats very much.
+
+Skill Description Long
+Cat Enthusiast,Gain +1 Black Cat and +1 White Cat each week for each rank.

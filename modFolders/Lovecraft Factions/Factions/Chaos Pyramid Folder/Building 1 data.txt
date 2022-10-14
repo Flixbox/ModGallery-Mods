@@ -1,0 +1,21 @@
+Name
+Azathoth Throne
+
+Description
+Keep enough sense and faith,Gain +1 Projection Of Azathoth for each 21 days,and Gain +3 mercury for each week.
+
+Tier / Town Row
+4
+
+Effect Identifier
+azathoththrone
+
+Price
+Gold
+8500
+sulphur
+5
+crystal
+5
+mercury
+5

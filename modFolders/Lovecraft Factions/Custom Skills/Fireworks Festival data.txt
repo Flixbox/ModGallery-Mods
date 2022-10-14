@@ -1,0 +1,11 @@
+Skill Name
+Fireworks Festival
+
+Reference Name
+fireworksfestival
+
+Skill Description Short
+Let us go to the fireworks party
+
+Skill Description Long
+Let us go to the fireworks party and watch fireworks together,and Add 1 Spellpower to each level

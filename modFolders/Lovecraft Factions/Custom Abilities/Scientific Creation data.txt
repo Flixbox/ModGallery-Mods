@@ -1,0 +1,5 @@
+Ability Name
+scientificcreation
+
+Ability Description
+Scientific Creation: Scientists will randomly create three scientific creations

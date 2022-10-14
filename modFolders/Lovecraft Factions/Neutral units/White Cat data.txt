@@ -1,0 +1,36 @@
+Names
+White Cat
+
+Gold cost for base unit (also decides basic strength of unit)
+800
+
+Balance modifier
+150
+
+Abilities
+Shrink
+Quick Strikes
+Leap
+Confusion
+Charm
+Resurrection
+Immortal
+Health 120
+Damage 12
+Caster
+Fortune
+Second Life
+
+Use sound effects from X unit
+Lynx
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

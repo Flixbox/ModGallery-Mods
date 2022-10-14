@@ -1,0 +1,51 @@
+Names (first basic, then the upgrade)
+Larval Shantak
+Shantak
+
+Gold cost for base unit (also decides basic strength of unit)
+400
+
+Weekly Growth
+7
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+00
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+150
+
+Abilities for base unit
+Flying
+Ethereal
+Teleswap
+Retreat
+Astral
+Health 100
+Damage 10
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Big
+Flying
+Charge
+Terror
+Ethereal
+Teleswap
+Retreat
+Astral
+Health 120
+Damage 15
+
+Use sound effects from X unit
+Gryphon
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

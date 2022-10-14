@@ -1,0 +1,21 @@
+Name
+Star Target
+
+Description
+Colors Out of Space that can summon distant galaxies,and Gain +2 sulphur and +1 mercury for each week.
+
+Tier / Town Row
+3
+
+Effect Identifier
+startarget
+
+Price
+Gold
+3000
+sulphur
+4
+crystal
+4
+mercury
+4

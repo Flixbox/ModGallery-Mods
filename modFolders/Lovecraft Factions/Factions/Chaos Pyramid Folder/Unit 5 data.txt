@@ -1,0 +1,54 @@
+Names (first basic, then the upgrade)
+Moon Beast
+Moon Beast Sacrifice
+
+Gold cost for base unit (also decides basic strength of unit)
+400
+
+Weekly Growth
+10
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+00
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+150
+
+Abilities for base unit
+Shrink
+Aquatic
+Sturdy
+Terror
+Leap
+Wail
+Taxpayer
+Health 160
+Damage 12
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Shrink
+Aquatic
+Sturdy
+Wide Attacks
+Terror
+Leap
+Leech Life
+Wail
+Taxpayer
+Health 190
+Damage 17
+
+Use sound effects from X unit
+Grizzly
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

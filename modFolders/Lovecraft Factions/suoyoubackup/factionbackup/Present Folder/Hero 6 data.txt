@@ -1,0 +1,13 @@
+Name
+Cryon
+
+Unit
+Snow Carer
+
+Skills
+Hydromancy
+Creation
+Mastery
+Summoning
+Potency
+Regeneration

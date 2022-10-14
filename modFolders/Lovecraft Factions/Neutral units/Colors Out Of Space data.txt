@@ -1,0 +1,49 @@
+Names
+Colors Out Of Space
+
+Gold cost for base unit (also decides basic strength of unit)
+17000
+
+Balance modifier
+150
+
+Abilities
+Big
+Flying
+Ranged
+Long Ranged
+Luoxuanprojectile
+Blaster
+Versatile
+Inert
+Charge
+Regeneration
+Terror
+Fester
+Sturdy
+Impenetrable
+Ethereal
+Astral
+Forest Crown
+Forest Crown
+falloutmutate
+twistsowing
+Health 1000
+Damage 22
+Caster
+Quicksand
+Air Shield
+
+Use sound effects from X unit
+Pride
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Testingd1
+
+Unit groups

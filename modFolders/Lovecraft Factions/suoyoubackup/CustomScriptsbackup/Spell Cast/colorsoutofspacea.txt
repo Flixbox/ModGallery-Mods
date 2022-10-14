@@ -1,0 +1,37 @@
+if spellname = "colorsoutofspace"
+{
+        summonunit("Colors Out of Space",1)
+}
+
+if spellname = "crazytune"
+{
+        summonunit("Servitor Of The Outer Gods",5)
+}
+
+if spellname = "fireworksparty"
+{
+	spell_summon_unit = "Freshling"
+}
+
+if spellname = "starsmove"
+{
+        summonunit("Kn Yan",9)
+{
+if random(100) < 10
+        summonunit_permanent("Star Spawn Of Cthulhu",1)
+	}
+}
+
+if spellname = "thetestoffaith"
+{
+        summonunit("Servitor Of The Outer Gods",5)
+{
+if random(100) < 10
+        summonunit_permanent("Projection Of Azathoth",1)
+	}
+}
+
+if spellname = "starshipsupport"
+{
+        summonunit("Star Battleship Black Moon",1)
+}

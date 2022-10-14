@@ -1,0 +1,45 @@
+Names
+Servitor Of The Outer Gods
+
+Gold cost for base unit (also decides basic strength of unit)
+1500
+
+Balance modifier
+150
+
+Abilities
+Small
+Flying
+Ranged
+Long Ranged
+yinfuaa
+Blaster
+Quick Strikes
+Knockback
+Versatile
+Terror
+Confusion
+Insensate
+Wail
+Softbodied
+Ethereal
+Aura of Light
+Shadowmancy
+Health 200
+Damage 22
+Caster
+Hypnotize
+
+Use sound effects from X unit
+Horror
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

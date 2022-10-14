@@ -1,0 +1,5 @@
+Ability Name
+dagonworship
+
+Ability Description
+Dagon Worship: When attacked,have a chance to be worshipped by deep ones.

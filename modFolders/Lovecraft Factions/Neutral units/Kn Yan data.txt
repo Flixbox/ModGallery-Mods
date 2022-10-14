@@ -1,0 +1,41 @@
+Names
+Kn Yan
+
+Gold cost for base unit (also decides basic strength of unit)
+750
+
+Balance modifier
+150
+
+Abilities
+Small
+Flying
+Ethereal
+Impenetrable
+Inert
+Infest
+conquerdeath
+Teleswap
+Empower
+Potent Soul
+Resurrection
+Health 150
+Damage 15
+Caster
+Ice Bolt
+Weakness
+Forcefield
+
+Use sound effects from X unit
+Soulmage
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Corruptor
+
+Unit groups

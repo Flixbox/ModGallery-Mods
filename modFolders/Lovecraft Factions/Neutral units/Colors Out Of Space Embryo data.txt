@@ -1,0 +1,47 @@
+Names
+Colors Out Of Space Embryo
+
+Gold cost for base unit (also decides basic strength of unit)
+12000
+
+Balance modifier
+150
+
+Abilities
+Aquatic
+Ranged
+Long Ranged
+Luoxuanprojectile
+Blaster
+Versatile
+Quick Strikes
+Terror
+Fester
+Inert
+Sturdy
+Tower
+Impenetrable
+Warding
+Explosion
+Astral
+Forest Crown
+falloutmutate
+crazygrowth
+Health 800
+Damage 17
+Caster
+Quicksand
+
+Use sound effects from X unit
+Pride
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Testingc1
+
+Unit groups

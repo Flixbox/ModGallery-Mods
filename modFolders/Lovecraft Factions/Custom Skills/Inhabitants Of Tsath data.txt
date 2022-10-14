@@ -1,0 +1,11 @@
+Skill Name
+Inhabitants Of Tsath
+
+Reference Name
+Inhabitantsoftsath
+
+Skill Description Short
+Through the connection of the underground city Tsath, Kn Yan people from where will join your army.
+
+Skill Description Long
+Through the connection of the underground city Tsath, Kn Yan people from where will join your army.Gain +1 Kn Yan each weak for each rank.

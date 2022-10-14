@@ -1,0 +1,71 @@
+if (name="Esoteric")|(name="Esoteric Master")|(name="Believer")
+if random(100) < 20
+{
+	show_message("I'a I'a.Cthulhu Fhatgn!")
+}
+
+if (name="Madman")
+if random(100) < 5
+{
+	show_message("Hahahahaha!!!burn!")
+}
+
+if (name="Scientist")|(name="Science Maniac")
+if random(100) < 1
+{
+	show_message("Hahahahaha!!!boom!")
+}
+
+if (name="Starry Wisdom")|(name="Starry Wisdom Master")
+if random(100) < 5
+{
+	show_message("let's Dark Power!")
+}
+
+if (name="Black man")|(name="Black Pharaoh")
+if random(100) < 5
+{
+	show_message("More Human Souls!")
+}
+
+checkability("falloutmutate")
+if hasability > 0
+if random(100) < 10
+{
+        summonunit("Mudghah",1)
+}
+
+checkability("maddeningsadmusic")
+if hasability > 0
+if random(100) < 5
+{
+        summonunit("Servitor Of The Outer Gods",1)
+}
+
+checkability("scientificcreation")
+if hasability > 0
+if random(100) < 5
+{
+        summonunit("Scientific Robot",1)
+}
+
+checkability("scientificcreation")
+if hasability > 0
+if random(100) < 3
+{
+        summonunit("Tesla Tower",1)
+}
+
+checkability("ancienttomb")
+if hasability > 0
+if random(100) < 15
+{
+        summonunit("Boneliath",1)
+}
+
+checkability("fatherofbats")
+if hasability > 0
+if random(100) < 15
+{
+        summonunit("Bat In The Dark",1)
+}

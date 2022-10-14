@@ -1,0 +1,10 @@
+Name
+Jack Frost
+
+Unit
+Snow Golem
+
+Skills
+Healing
+Diplomacy
+Mastery

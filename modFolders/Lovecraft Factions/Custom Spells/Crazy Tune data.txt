@@ -1,0 +1,29 @@
+Display Name
+Crazy Tune
+
+Graphical Effect Index
+16
+
+Spell Tier (1: minor, 2: advanced, 3: ultimate, 4: adventure)
+3
+
+Spell School (MUST BE one of Earth, Fire, Water, Air)
+Air
+
+Targetting Type (MUST BE Buff, Debuff, Damage, Heal, Health, Manipulate (Debuff but fewer affected units), Summon, Adventure Map, Resurrect)
+Summon
+
+Targetting Subtype (ONLY RELEVANT FOR DAMAGING SPELLS: Single target, Small explosion, Large explosion, Spread, Global, Beam)
+Small explosion
+
+Spell Description
+Summoning 5 Servitor Of The Outer Gods
+
+Spell Cost (positive for X mana cost, negative for X day cooldown)
+-1
+
+Reference Name
+crazytune
+
+Spell Accessibility (1 = normal (guild of mages, shrines, magic skills), 0 = limited)
+0

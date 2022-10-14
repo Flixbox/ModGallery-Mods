@@ -1,0 +1,5 @@
+Ability Name
+twistsowing
+
+Ability Description
+Twist Sowing: After being expelled, a new embryo will be generated.

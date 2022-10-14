@@ -1,0 +1,31 @@
+if checkbuilding("thetemple")
+{
+	global_read(shiyana)
+	shiyanaThreshold = result
+	if shiyanaThreshold<16
+	{
+		shiyanaIncrement = result + 1
+		global_set(shiyana,shiyanaIncrement)
+	}
+	if shiyanaThreshold>=16
+	{
+		addunit_number("Star Spawn Of Cthulhu",1)
+		global_set(shiyana,1)
+	}
+}
+
+if checkbuilding("azathoththrone")
+{
+	global_read(shiyanb)
+	shiyanbThreshold = result
+	if shiyanbThreshold<21
+	{
+		shiyanbIncrement = result + 1
+		global_set(shiyanb,shiyanbIncrement)
+	}
+	if shiyanbThreshold>=21
+	{
+		addunit_number("Projection Of Azathoth",1)
+		global_set(shiyanb,1)
+	}
+}

@@ -1,0 +1,59 @@
+FACTION NAME
+R'lyeh
+
+FACTION UNITS ALTERNATES
+2
+3
+5
+
+HERO NAMES (fighter first, caster second)
+Great Old Ones Vanguard
+Wisdom Master
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Abyss Worm Nest
+Innsmouth
+Gate Of Deep See
+Esoteric Church
+Hall Of Feasts
+Dagon Palace
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Obsidian
+
+TOWN NAMES (write as many as required)
+Gate Of The R'lyeh
+Gate Of Deep See
+Gate Of Truth
+The Gate Of Dream
+The Gate Of Silver Key
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Pyre
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Wisdom
+
+LORE NAME:
+R'lyeh
+
+LORE MAIN RACE:
+Star Spawn of Cthulhu
+
+LORE HISTORY:
+R'lyeh is an incomparably huge city,all sunk at the bottom of the sea.Only a huge stone fortress emerges from the water,and Cthulhu sleeps there.The structure of the city is similar to futuristic art,and the structure of buildings is abnormal,which is completely contrary to Euclidean geometry.Its unprecedented spatial structure and dimension will make people have a strong sense of disgust.These buildings are made of huge green stones that are too big to come from the earth,as well as dazzling boulder carvings,magnificent stone statues and gorgeous reliefs,The whole city exudes a strong unclean atmosphere.
+
+LORE CULTURE:
+Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!
+
+LORE HERO FIGHTER:
+Great Old Ones Vanguard
+
+LORE HERO CASTER:
+Wisdom Master

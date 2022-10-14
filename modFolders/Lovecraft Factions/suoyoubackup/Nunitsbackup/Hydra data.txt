@@ -1,0 +1,42 @@
+Names
+Hydra
+
+Gold cost for base unit (also decides basic strength of unit)
+8000
+
+Balance modifier
+100
+
+Abilities
+Aquatic
+Sturdy
+Lash
+Leap
+Knockback
+Terror
+Impenetrable
+Warding
+Inert
+Summoning
+Health 500
+Damage 33
+
+Use sound effects from X unit
+Pride
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Mad Deep Ones
+
+Unit groups
+Alliance of the Frontier
+The seven fears
+Cold Illuminates
+Dark Cultists
+Seakeepers
+Imperial Legion

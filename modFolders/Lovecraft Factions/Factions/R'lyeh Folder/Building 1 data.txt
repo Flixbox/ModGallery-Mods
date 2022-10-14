@@ -1,0 +1,21 @@
+Name
+Cthulhu Temple
+
+Description
+The stars are reaching the right position,Gain +1 Star Spawn Of Cthulhu for each 16 days,and Gain +3 crystal for each week.
+
+Tier / Town Row
+4
+
+Effect Identifier
+thetemple
+
+Price
+Gold
+8500
+sulphur
+5
+crystal
+5
+mercury
+5

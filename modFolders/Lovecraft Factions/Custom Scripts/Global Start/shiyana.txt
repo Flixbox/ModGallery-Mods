@@ -1,0 +1,2 @@
+global_set(shiyana,1)
+global_set(shiyanb,1)

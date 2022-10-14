@@ -1,0 +1,11 @@
+Skill Name
+Tentacle Legion
+
+Reference Name
+tentaclefavor
+
+Skill Description Short
+From the abyss tentacle legion.
+
+Skill Description Long
+From the abyss tentacle legion,Gain +3 Abyss Tentacle and +1 Star Vampire each week for each rank,and Gain +100 Gold each day for each rank.

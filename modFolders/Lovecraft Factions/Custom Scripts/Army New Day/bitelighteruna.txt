@@ -1,0 +1,8 @@
+checkskillrank("bitelighter")
+addunit_number("Bite Lighter",4*skillrank)
+
+checkskillrank("tentaclefavor")
+addresource(gold,skillrank*100)
+
+checkskillrank("servitorrequiem")
+addresource(gold,skillrank*100)

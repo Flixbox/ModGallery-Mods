@@ -1,0 +1,11 @@
+Skill Name
+Bite Lighter
+
+Reference Name
+bitelighter
+
+Skill Description Short
+When Modder Captian Sama had no idea to write script, he bite a lighter With teeth,Then it exploded and burst out with more ideas.
+
+Skill Description Long
+When Modder Captian Sama had no idea to write script, he bite a lighter With teeth,Then it exploded and burst out with more ideas.Gain +4 Bite Lighter each day for each rank,You can place them anywhere on the battlefield.

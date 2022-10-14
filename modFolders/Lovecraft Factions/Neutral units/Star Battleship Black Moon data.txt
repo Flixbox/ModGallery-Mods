@@ -1,0 +1,55 @@
+Names
+Star Battleship Black Moon
+
+Gold cost for base unit (also decides basic strength of unit)
+17000
+
+Balance modifier
+150
+
+Abilities
+Big
+Big
+Big
+Big
+Flying
+Hover
+Slow
+Ranged
+Long Ranged
+Darkguna
+Blaster
+Knockback
+Versatile
+Chaos
+Charge
+Sturdy
+Burning
+Impenetrable
+Warding
+Mechanical
+Forest Crown
+Forest Crown
+Forest Crown
+Teleswap
+jumpgang
+Health 800
+Damage 33
+Caster
+Salt Armor
+Explosion
+Deflect Missile
+
+Use sound effects from X unit
+Hand-cannoneer
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Testingb1
+
+Unit groups

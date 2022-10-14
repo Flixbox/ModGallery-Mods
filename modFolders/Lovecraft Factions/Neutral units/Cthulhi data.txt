@@ -1,0 +1,39 @@
+Names
+Cthulhi
+
+Gold cost for base unit (also decides basic strength of unit)
+20000
+
+Balance modifier
+150
+
+Abilities
+Aquatic
+Sturdy
+Lash
+Leap
+Quick Strikes
+Knockback
+Terror
+Impenetrable
+Warding
+Inert
+Immortal
+Astral
+Summoning
+Health 750
+Damage 50
+
+Use sound effects from X unit
+Pride
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Star Vampire
+
+Unit groups

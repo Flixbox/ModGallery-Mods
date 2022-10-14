@@ -1,0 +1,5 @@
+Ability Name
+falloutmutate
+
+Ability Description
+Fallout Mutate: There is a chance to cause mutants

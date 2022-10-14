@@ -1,0 +1,5 @@
+Ability Name
+crazygrowth
+
+Ability Description
+Crazy Growth: Have a chance to grow into an adult.

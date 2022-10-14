@@ -1,0 +1,5 @@
+Ability Name
+ancienttomb
+
+Ability Description
+Ancient Tomb: The living dead can be wakend from the ancient tomb

@@ -1,0 +1,5 @@
+Ability Name
+dnamutate
+
+Ability Description
+DNA Mutate: There is a chance to cause mutants when attack

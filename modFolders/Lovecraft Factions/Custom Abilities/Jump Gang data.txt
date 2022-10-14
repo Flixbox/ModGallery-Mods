@@ -1,0 +1,5 @@
+Ability Name
+jumpgang
+
+Ability Description
+Jump Gang: Moon Beasts will jump from the warship to fight

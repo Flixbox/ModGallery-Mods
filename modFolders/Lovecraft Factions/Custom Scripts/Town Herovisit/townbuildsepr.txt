@@ -1,0 +1,5 @@
+if checkbuilding("startarget")
+spell_learn("colorsoutofspace")
+
+if checkbuilding("darksideofthemoon")
+spell_learn("starshipsupport")

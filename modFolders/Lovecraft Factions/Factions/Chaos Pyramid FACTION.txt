@@ -1,0 +1,59 @@
+FACTION NAME
+Chaos Pyramid
+
+FACTION UNITS ALTERNATES
+2
+3
+5
+
+HERO NAMES (fighter first, caster second)
+Outer Gods Vanguard
+Academic Master
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Mi Go Abyss
+Starry Wisdom laboratory
+Dark Side Of The Moon
+Dreamlands Passage
+Dark Pyramid
+Nyarlathotep Temple
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Orange Desert
+
+TOWN NAMES (write as many as required)
+Chaos Pyramid
+Ultimate Adyss
+Non Euclidean Steeple
+Owner Of Sharnoth
+The core of original Chaos.
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Decay
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Wisdom
+
+LORE NAME:
+Chaos Pyramid
+
+LORE MAIN RACE:
+Projection Of Azathoth
+
+LORE HISTORY:
+Chaos Pyramid is a strange building,Located in dreamlands,Sharnoth,The place is surrounded by black spires.This ebony palace is full of strange architectural structures, and ancient totems and symbols of science and technology are all over the walls,The underground dark room connects with the black abyss beyond time,That's where the Other Gods are and serve the throne of the Azathoth.The master here Nyarlathotep is the soul of the Other Gods. Sharnoth is also connected with Kadath,making it easier for Nyarlathotep to manage the Great Ones in the dreamlands.Starry Wisdom and Moon Beast believe in this master here,Hunting Horrors follows the Black Pharaoh,Shantak hovers in the sky,and Servitor of the Outer Gods are summoned here,The master of this pyramid is known and feared by all mythical creatures,asking for the sacrifice of all things,Mocking and playing with the human soul.
+
+LORE CULTURE:
+Chaos of ambush,The core of original Chaos.
+
+LORE HERO FIGHTER:
+Outer Gods Vanguard
+
+LORE HERO CASTER:
+Academic Master

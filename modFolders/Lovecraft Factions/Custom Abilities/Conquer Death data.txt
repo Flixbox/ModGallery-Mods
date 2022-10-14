@@ -1,0 +1,5 @@
+Ability Name
+conquerdeath
+
+Ability Description
+Conquer Death: Conquer the bondage of death with special technology

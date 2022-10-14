@@ -1,0 +1,21 @@
+Name
+Dark Side Of The Moon
+
+Description
+Can summon a Star Battleship Black Moon on the dark side of the moon to support the battlefield,and Gain +2 crystal and +1 sulphur for each week.
+
+Tier / Town Row
+3
+
+Effect Identifier
+darksideofthemoon
+
+Price
+Gold
+3000
+sulphur
+4
+crystal
+4
+mercury
+4

@@ -1,0 +1,24 @@
+Name
+Doctor Ambrose Dexter
+
+Unit
+Scientist
+
+Skills
+Wisdom
+Learning
+Mastery
+Regeneration
+Destruction
+Healing
+bane
+Engineering
+servitorrequiem
+Archery
+Recruitment
+Demonology
+Diplomacy
+Terramancy
+Estates
+Aeromancy
+Shadowcasting

@@ -1,0 +1,55 @@
+Names
+Projection Of Azathoth
+
+Gold cost for base unit (also decides basic strength of unit)
+30000
+
+Balance modifier
+150
+
+Abilities
+Big
+Big
+Big
+Flying
+Hover
+Slow
+Ranged
+Long Ranged
+Lasercc
+Blaster
+Quick Strikes
+Knockback
+Versatile
+Trample
+Teleport
+Sturdy
+Petrification
+Terror
+Impenetrable
+Warding
+Inert
+Forest Crown
+Forest Crown
+Displacement
+maddeningsadmusic
+Health 1200
+Damage 44
+Caster
+Chaos
+Transform
+Chain Lightning
+
+Use sound effects from X unit
+Jotun
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+3
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Testinga1
+
+Unit groups

@@ -1,0 +1,10 @@
+Name
+Mischief
+
+Unit
+Alpaca
+
+Skills
+Hydromancy
+Destruction
+Mastery

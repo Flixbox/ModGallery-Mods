@@ -1,0 +1,11 @@
+Skill Name
+Servitor Requiem
+
+Reference Name
+servitorrequiem
+
+Skill Description Short
+Requiem from Servitor Of The Outer Gods
+
+Skill Description Long
+Requiem from Servitor Of The Outer Gods,Gain +1 Servitor Of The Outer Gods each week for each rank,and Gain +100 Gold each day for each rank.

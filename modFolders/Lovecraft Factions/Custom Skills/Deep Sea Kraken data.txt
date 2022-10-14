@@ -1,0 +1,11 @@
+Skill Name
+Deep Sea Kraken
+
+Reference Name
+deepseakraken
+
+Skill Description Short
+Kraken of the deep sea will serve you.
+
+Skill Description Long
+Kraken of the deep sea will serve you.,Gain +1 Kraken each week for each rank.

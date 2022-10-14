@@ -1,0 +1,10 @@
+Name
+Krampus
+
+Unit
+Caribou
+
+Skills
+Hydromancy
+Pyromancy
+Mastery

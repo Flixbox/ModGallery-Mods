@@ -1,0 +1,11 @@
+Skill Name
+Crazy Playing
+
+Reference Name
+crazyplaying
+
+Skill Description Short
+Crazy Playing Can summon crazy twisted servants
+
+Skill Description Long
+Crazy Playing Can summon 5 Servitor Of The Outer Gods and Add 1 knowledge to each level

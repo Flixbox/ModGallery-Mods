@@ -1,0 +1,11 @@
+if changedskill = "crazyplaying"
+{
+        K += 1
+        spell_learn("crazytune")
+}
+
+if changedskill = "fireworksfestival"
+{
+        S += 1
+        spell_learn("fireworksparty")
+}
