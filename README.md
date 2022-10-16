@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/static/v1?label=Discuss&message=on%20Discord&color=7289DA&style=flat&logo=discord)](https://discord.gg/vnZMK2kyY5)
 
-Mod & Map collection for ModGallery.
+Mod & Map collection for [ModGallery](https://github.com/Flixbox/ModGallery).
 
 All content belongs to the people who made it. Feel free to post an issue here or DM Flixbox on [Discord](https://discord.gg/vnZMK2kyY5).
 
