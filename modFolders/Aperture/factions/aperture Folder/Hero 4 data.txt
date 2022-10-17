@@ -1,0 +1,9 @@
+Name
+Wheatly
+
+Unit
+Turret
+
+Skills
+Armouror
+Destruction

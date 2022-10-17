@@ -1,0 +1,9 @@
+Name
+Ratman
+
+Unit
+Companion Cube
+
+Skills
+Healing
+Bodyguards

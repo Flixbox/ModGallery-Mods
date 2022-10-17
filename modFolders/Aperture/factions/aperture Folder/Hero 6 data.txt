@@ -1,0 +1,9 @@
+Name
+glaDOS
+
+Unit
+Neurotoxin Emitter
+
+Skills
+Leadership
+Mastery

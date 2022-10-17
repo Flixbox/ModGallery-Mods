@@ -1,0 +1,13 @@
+Name
+Rick
+
+Unit
+Deckmate
+
+Skills
+Hunting
+Mastery
+Creation
+Summoning
+Potency
+Regeneration

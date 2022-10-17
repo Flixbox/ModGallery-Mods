@@ -1,0 +1,52 @@
+Names (first basic, then the upgrade)
+Sentinel
+High Sentinel
+
+Gold cost for base unit (also decides basic strength of unit)
+500
+
+Weekly Growth
+3
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+1L
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+162
+142
+
+Abilities for base unit
+Slow
+Shrink
+Ranged
+Versatile
+Long Ranged
+Drakeslayerprojectile
+Health 80
+Damage 30
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Slow
+Shrink
+Ranged
+Burning
+Versatile
+Arrow Rain
+Long Ranged
+Dragonslayerprojectile
+Health 100
+Damage 35
+
+Use sound effects from X unit
+Strongarm
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Enforcer
+
+Unit groups

@@ -1,0 +1,56 @@
+FACTION NAME
+aperture
+
+FACTION UNITS ALTERNATES
+3
+4
+6
+
+HERO NAMES (fighter first, caster second)
+Figther
+Core
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Turret
+Cube
+Gel Stations
+Nurotoxin Pumps
+Combustion Chambers
+Bakery
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Grass
+
+TOWN NAMES (write as many as required)
+Aperture
+Black Mesa
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Earthen
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME:
+Counsil of Presents
+
+LORE MAIN RACE:
+Android
+
+LORE HISTORY:
+Once a Human Ran Science lab, now a deadly robot factory.
+
+LORE CULTURE:
+They say in the beggining, there was nothing, but then the cake said, "let there be science" but before the cake could issue a sedond order, the BIRD came in, and destroyed the cake. It was a dark day for science, however, glaDOS may be able to save the science
+
+LORE HERO FIGHTER:
+Strong and Tough, nothing can oppose these rebels
+
+LORE HERO CASTER:
+The Cores have two jobs, run the facillity and stay alive

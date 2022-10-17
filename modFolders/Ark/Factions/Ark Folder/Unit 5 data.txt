@@ -1,0 +1,57 @@
+Names (first basic, then the upgrade)
+Executor
+Royal Executor
+
+Gold cost for base unit (also decides basic strength of unit)
+1000
+
+Weekly Growth
+2
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+1C
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+124
+125
+
+Abilities for base unit
+Shrink
+Sturdy
+Sturdy
+Sturdy
+Warding
+Protected
+Critical Strike
+Quick Strikes
+Health 200
+Damage 16
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Shrink
+Sturdy
+Sturdy
+Sturdy
+Venom
+Slowing
+Warding
+Protected
+Retaliation
+Critical Strike
+Quick Strikes
+Health 240
+Damage 20
+
+Use sound effects from X unit
+Paladin
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Executioner
+
+Unit groups

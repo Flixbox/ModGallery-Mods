@@ -1,0 +1,51 @@
+Names (first basic, then the upgrade)
+Warden
+Great Warden
+
+Gold cost for base unit (also decides basic strength of unit)
+300
+
+Weekly Growth
+4
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+00
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+124
+125
+
+Abilities for base unit
+Sturdy
+Sturdy
+Warding
+Protected
+Impenetrable
+Critical Strike
+Health 120
+Damage 8
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Sturdy
+Sturdy
+Warding
+Protected
+Retaliation
+Impenetrable
+Critical Strike
+Health 150
+Damage 12
+
+Use sound effects from X unit
+Swordsman
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+2
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Warden
+
+Unit groups

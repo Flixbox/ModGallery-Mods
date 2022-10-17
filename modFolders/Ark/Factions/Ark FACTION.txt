@@ -1,0 +1,60 @@
+FACTION NAME
+Ark
+
+FACTION UNITS ALTERNATES
+4
+5
+6
+
+HERO NAMES (fighter first, caster second)
+Surface Recon Ops
+Caster from Below
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Security Hub
+Warden's Post
+Fletching Chamber
+Overgrown Network
+Fog-filled Reaches
+Eternal Cradle
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Deadlands
+
+TOWN NAMES (write as many as required)
+Crater Base
+Rising Citadel
+Caved-in Castle
+Sunken Fortress
+Sinking Fortification
+Recessed Stronghold
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Arcane
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Oligarchy
+
+LORE NAME:
+Line Ark
+
+LORE MAIN RACE:
+Human
+
+LORE HISTORY: 
+Emerging from the remains of a blazing star, they started to build their home in it's wake, eventually coming to face their new world
+
+LORE CULTURE:
+Blessed with exceedingly high capabilities & standards - unable to be met by any ordinary being - outsider's comparatively sloppy cultures and traditions have only disgusted them, quickly instilling a deep xenophobia. And now that their meteor-born citadel has reached the planet's surface, they've set out to commit mass genocide, mercilessly torching even the defenseless.
+
+LORE HERO FIGHTER:
+Bred and raised for high-level field command, only a select few ever make it to the battlefield, scanning friend and foe with their magical visor
+
+LORE HERO CASTER:
+The descent brought life, in many forms - much to this caster's digress
