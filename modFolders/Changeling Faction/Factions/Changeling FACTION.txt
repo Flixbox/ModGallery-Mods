@@ -1,0 +1,61 @@
+FACTION NAME
+Changeling
+
+FACTION UNITS ALTERNATES
+4
+5
+6
+
+HERO NAMES (fighter first, caster second)
+Champion
+Royal
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Hatchery
+Love Storage
+The Underhive
+The Bio-library
+Stealth Class
+Royal Quarters
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Crag
+
+TOWN NAMES (write as many as required)
+Nisir
+Mullein
+Verbascum
+Gooville
+Crystaline Caverns
+Ambrosinia
+Miasforia
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Arcane
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME:
+The Changeling Swarm
+
+LORE MAIN RACE:
+Changelings
+
+LORE HISTORY:
+Pulled into the world from a dimension far away by an unknown source, the love dependent shapeshifters known in their world as changelings have found themselves scattered and disorganized. But are determined to band together and forge a new home, by force if necessary.
+
+LORE CULTURE:
+While many lings hail from different hives, and dimensions, they all share the goal of carving a place for themselves, as a people, in this world. Some believe in a great swarm, others in the hive eternal, and more in a form of harmony and friendship. 
+
+LORE HERO FIGHTER:
+Not every Hero is born a royal, on occasion the great weaver sees fit to hatch a drone that is truly exceptional, these changelings become champions of the hive. Legends in all but birth.
+
+LORE HERO CASTER:
+To be born a royal is to be born to power, while not all royals are great, many are, and with them they bring an incredible array of skills and spells to the hive. Their leadership has proven invaluable in the past and shall once more.

@@ -1,0 +1,24 @@
+Name
+Chrysalis
+
+Unit
+Spyling
+
+Skills
+Royalty
+Dizzy Tune
+Tactics
+Swarming
+Combat
+Wisdom
+Toxicology
+Bloodlust
+Devour
+Regeneration
+Potency
+Summoning
+Plunder
+Destruction
+Necromancy
+Sorcery
+Mysticism
