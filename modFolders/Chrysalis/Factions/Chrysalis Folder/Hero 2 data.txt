@@ -1,0 +1,24 @@
+Name
+Orsuki
+
+Unit
+Lunar Oracle
+
+Skills
+Combat
+Leadership
+Hydromancy
+Creation
+Dizzy Tune
+Learning
+Lifespark
+Regeneration
+Mastery
+Elementalism
+Swarming
+Summoning
+Potency
+Sorcery
+Archery
+Oligarchy
+Warding

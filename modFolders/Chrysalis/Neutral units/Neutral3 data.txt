@@ -1,0 +1,45 @@
+Name
+Twilight Avatar
+
+Gold cost for base unit (also decides basic strength of unit)
+4000
+
+Balance modifier
+100
+
+Abilities
+Ranged
+Moonblast
+Versatile
+Warding
+Petrification
+Blaster
+Empower
+Immortal
+Fast
+Shrink
+Shrink
+Hover
+Health 230
+Damage 21
+Caster
+Shield
+First Strike
+Bless
+Elemental Ice
+Hypnotize
+Ice Bolt
+
+Use sound effects from X unit
+Jotun
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+2
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups

@@ -1,0 +1,61 @@
+FACTION NAME
+Chrysalis
+
+FACTION UNITS ALTERNATES
+2
+3
+6
+
+HERO NAMES
+Moonprophet
+Suncharmer
+
+DWELLING NAMES
+Tree of Growth
+Pollen Shrine
+Star Temple
+Dusk Armory
+Sanctuarium
+Eclipse Altar
+
+STARTING TERRAIN
+Moss Forest
+
+TOWN NAMES
+Dawnoake
+Duskure
+Pollen Temple
+Sunnikko
+Moongekko
+Eclishoku
+Sitari-ten
+
+HUMANOID ELITE TARGET
+7
+
+TOWN MUSIC
+Pillar
+
+MAGIC SCHOOL SPECIALTY
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME
+Union of Chrysalis
+
+LORE MAIN RACE
+Lepidopterans (Mothsfolk and Butterflyfolk)
+
+LORE HISTORY
+The history of the union goes all the way back before the neighbour continent was consumed by Decay. The twilight avatar and the dawn celestial were two of the most worshipped gods in all of the land but once Decay hit and spread, both were forgotten in time, seeking a chance to take revenge they gifted the moths and butterflies with knowledge, wisdom and protection, making a very intelligent race so that they would have disciples yet again... but they had more plans in mind.
+
+LORE CULTURE
+While most of the mothfolk due to the Twilight Avatar's influence, believe that diplomacy and peace is a better way to expand; most of the butterflyfolk preffer to follow the Dawn Celestial's request of war and revenge without question. Sun and moon caterpillars demigods are also born thanks to the assistance of the pollen maidens offering themselves as vessels to the gods.
+
+LORE HERO FIGHTER
+Chosen by the Twilight Avatar as leaders of the Lepidopterans alongside the suncharmers. The god blessed them with a sum of it's power.
+
+LORE HERO CASTER
+Unlike the rest of the Lepidopterans, these are special individuals chosen by the Dawn Celestial to lead their folk by blessing them with a sum of it's magic.

@@ -1,0 +1,24 @@
+Name
+Kyudun
+
+Unit
+Sun Toxophilite
+
+Skills
+Blessing
+Legion
+Pyromancy
+Regeneration
+Archery
+Elementalism
+Mysticism
+Potency
+Warding
+Swarming
+Bloodlust
+Sorcery
+Bodyguards
+Oligarchy
+Fortune
+Logistics
+Mastery

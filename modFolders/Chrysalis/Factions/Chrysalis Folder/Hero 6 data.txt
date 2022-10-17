@@ -1,0 +1,24 @@
+Name
+Ohayri
+
+Unit
+Monarch Cleric
+
+Skills
+Blessing
+Balance
+Mysticism
+Scouting
+Dizzy Tune
+Champion
+Regeneration
+Pyromancy
+Healing
+Leadership
+Swarming
+Potency
+Wisdom
+Elementalism
+Bodyguards
+Oligarchy
+Tactics

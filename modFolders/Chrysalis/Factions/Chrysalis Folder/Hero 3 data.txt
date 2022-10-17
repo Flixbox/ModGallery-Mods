@@ -1,0 +1,24 @@
+Name
+Togure
+
+Unit
+Dusk Protector
+
+Skills
+Combat
+Union
+Midas Touch
+Armorer
+Leadership
+Healing
+Bodyguards
+Logistics
+Champion
+Mastery
+Recalcitrance
+Hydromancy
+Warding
+Tactics
+Royalty
+Fortune
+Swarming

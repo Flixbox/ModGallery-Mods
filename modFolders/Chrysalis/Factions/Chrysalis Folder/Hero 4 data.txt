@@ -1,0 +1,24 @@
+Name
+Kireiden
+
+Unit
+Pollen Maiden
+
+Skills
+Blessing
+Learning
+Regeneration
+Summoning
+Mastery
+Bloodwarping
+Sorcery
+Pyromancy
+Destruction
+Dizzy Tune
+Healing
+Potency
+Hex
+Logistics
+Bloodlust
+Recruitment
+Tactics
