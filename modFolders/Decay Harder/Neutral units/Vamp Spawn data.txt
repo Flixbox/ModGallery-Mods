@@ -1,0 +1,33 @@
+Names
+Vampire Spawn
+
+Reference Name
+mDecHard_Spawn
+
+Gold cost for base unit
+120
+
+Balance modifier
+100
+
+Abilities
+Savage
+Leech Life
+Flimsy
+mDSMP_BLadder
+
+Use sound effects from X unit
+Vampire
+
+Attack type
+2
+
+Living
+-1
+
+Link
+Vampire
+
+Unit groups
+tug_necromancy
+

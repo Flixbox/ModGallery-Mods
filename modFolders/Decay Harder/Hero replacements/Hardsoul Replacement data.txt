@@ -1,0 +1,24 @@
+Name
+Hardsoul
+
+Unit
+Vampire
+
+Skills
+Malediction
+Necromancy
+Mastery
+Bloodlust
+Legion
+Regeneration
+Summoning
+Bodyguards
+Devour
+Wisdom
+Hydromancy
+Creation
+Sorcery
+Blight Ritual
+Swarming
+Aeromancy
+Mysticism

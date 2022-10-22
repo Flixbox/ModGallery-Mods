@@ -1,0 +1,46 @@
+Names
+Death Knight
+Life's Bane
+
+Gold cost for base unit
+2145
+
+Weekly Growth
+1
+
+Rare Resource Cost
+2M
+
+Balance modifier
+105
+100
+
+Abilities
+Undead
+Charge
+Critical Strike
+Summoning Half
+
+Abilities for upgrade
+Undead
+Charge
+Critical Strike
+Wide Attacks
+Summoning Half
+mDSMP_Dread
+
+Use sound effects from X unit
+Rot Knight
+
+Attack type
+1
+
+Living
+-1
+
+Link
+mDecHard_Barghest
+
+Unit groups
+tug_necromancy
+The Corrupt

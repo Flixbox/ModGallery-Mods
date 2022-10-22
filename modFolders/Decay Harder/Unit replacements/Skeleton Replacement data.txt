@@ -1,0 +1,40 @@
+Names
+Skeleton
+Boneguard
+
+Gold cost for base unit
+75
+
+Weekly Growth
+15
+
+Rare Resource Cost
+00
+
+Balance modifier
+110
+110
+
+Abilities
+Warding
+
+Abilities for upgrade
+Warding
+Projectile Prot
+mDSMP_BLadder
+
+Use sound effects from X unit
+Skeleton
+
+Attack type
+1
+
+Living
+-1
+
+Link
+mDecHard_BoneChamp
+
+Unit groups
+tug_necromancy
+The Corrupt

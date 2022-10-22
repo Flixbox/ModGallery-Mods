@@ -1,0 +1,44 @@
+Names
+Zombie
+Rot Walker
+
+Gold cost for base unit
+120
+
+Weekly Growth
+11
+
+Rare Resource Cost
+00
+
+Balance modifier
+103
+102
+
+Abilities
+Slow
+mDSMP_ArmoredTough
+mDSMP_Armored3
+
+Abilities for upgrade
+Slow
+Venom
+Sturdy
+mDSMP_ArmoredTough
+mDSMP_Armored3
+
+Use sound effects from X unit
+Zombie
+
+Attack type
+1
+
+Living
+-1
+
+Link
+Skeleton
+
+Unit groups
+tug_necromancy
+

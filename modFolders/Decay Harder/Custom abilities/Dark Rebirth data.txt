@@ -1,0 +1,5 @@
+Ability Name
+mDecHard_Plague
+
+Ability Description
+Dark Rebirth: As this unit keeps fighting, it can create a minion <UNITNAMES>.

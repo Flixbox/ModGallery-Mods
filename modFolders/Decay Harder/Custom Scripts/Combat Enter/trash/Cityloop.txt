@@ -1,0 +1,10 @@
+log_clear("cityloop")
+with("obj_castle")
+{
+	log_write("cityloop", "id")
+	log_write("cityloop", id)
+	log_write("cityloop", "faction")
+	log_write("cityloop", faction)
+	log_write("cityloop", "name")
+	log_write("cityloop", name)
+}

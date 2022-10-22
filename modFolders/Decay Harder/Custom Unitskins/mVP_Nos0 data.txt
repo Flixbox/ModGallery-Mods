@@ -1,0 +1,8 @@
+Skin Name
+mVP_Nos0
+
+Skin Pack Name
+mVP_AltNosferatu
+
+Skin Pack Index
+0

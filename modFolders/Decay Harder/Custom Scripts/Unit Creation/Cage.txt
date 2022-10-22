@@ -1,0 +1,10 @@
+if checkability("mDecHard_CagedSoul")
+{
+	alarm_set("mDecHard_FindCage", 0)
+}
+
+if name = "mDecHard_SoulCage"
+{
+	mDecHard_CageStack = array_create()
+	alarm_set("mDecHard_CageRevive", 5)
+}

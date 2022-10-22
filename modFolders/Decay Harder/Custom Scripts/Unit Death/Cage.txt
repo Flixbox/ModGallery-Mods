@@ -1,0 +1,26 @@
+if checkability("mDecHard_CagedSoul")
+{
+	//log_write("cagetest", "DEATH!")
+	//log_write("cagetest", "id: ")
+	//log_write("cagetest", id)
+	//log_write("cagetest", "mDecHard_ActiveCage: ")
+	//log_write("cagetest", mDecHard_ActiveCage)
+	if (mDecHard_ActiveCage != undefined) & (mDecHard_ActiveCage > 0)
+	{
+		with(mDecHard_ActiveCage)
+		{
+			//log_write("cagetest", "initiator: ")
+			mDecHard_TempInit = other()
+			//log_write("cagetest", mDecHard_TempInit)
+			//log_write("cagetest", "mDecHard_CageStack")
+			//log_write("cagetest", mDecHard_CageStack)
+			array_push(mDecHard_CageStack, get(mDecHard_TempInit, name))
+			//log_write("cagetest", mDecHard_CageStack)
+			
+			if alarm_exists("mDecHard_CageRevive") = 0
+			{
+				alarm_set("mDecHard_CageRevive", 5)
+			}
+		}
+	}
+}

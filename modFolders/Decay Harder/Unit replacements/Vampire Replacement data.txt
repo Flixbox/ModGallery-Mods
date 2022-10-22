@@ -1,0 +1,41 @@
+Names
+Vampire
+Nosferatu
+
+Gold cost for base unit
+520
+
+Weekly Growth
+4
+
+Rare Resource Cost
+1S
+
+Balance modifier
+105
+105
+
+Abilities
+Leech Life
+mDecHard_Plague
+
+Abilities for upgrade
+Leech Life
+Flying
+mDecHard_Plague
+
+Use sound effects from X unit
+Vampire
+
+Attack type
+2
+
+Living
+-1
+
+Link
+mDecHard_Spawn
+
+Unit groups
+tug_necromancy
+

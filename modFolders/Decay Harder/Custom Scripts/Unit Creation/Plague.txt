@@ -1,0 +1,17 @@
+if ishero = 0
+{
+	checkability("mDecHard_Plague")
+	if hasability
+	{
+		unit_IDtoname(link)
+		mDecHard_SummonName = result
+		unit_get_data(mDecHard_SummonName, 7)
+		mDecHard_Threshold = result * 2
+		if mDecHard_Threshold < 0
+		{
+			mDecHard_Threshold = 0
+		}
+
+		mDecHard_Curr = 0
+	}
+}

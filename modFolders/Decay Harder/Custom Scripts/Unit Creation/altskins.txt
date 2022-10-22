@@ -1,0 +1,8 @@
+if name = "Nosferatu"
+{
+	sid = floor(random(3))-1
+	if sid >= 0
+	{
+		unitskin_pack("mVP_AltNosferatu", sid)
+	}
+}

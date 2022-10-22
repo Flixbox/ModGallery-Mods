@@ -1,0 +1,34 @@
+Names
+Barghest
+
+Reference Name
+mDecHard_Barghest
+
+Gold cost for base unit
+150
+
+Balance modifier
+100
+
+Abilities
+Fast
+Charge
+Critical Strike
+
+Use sound effects from X unit
+Packhunter
+
+Attack type
+2
+
+Living
+-1
+
+Link
+mDecHard_Barghest
+
+Unit groups
+tug_necromancy
+The Seven Fears
+The Corrupt
+Underworld

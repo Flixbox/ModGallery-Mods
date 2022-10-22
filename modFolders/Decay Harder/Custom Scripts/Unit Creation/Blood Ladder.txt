@@ -1,0 +1,4 @@
+if name = "mDecHard_Spawn"
+{
+	mDSMP_BLad_OnlyLiving = 1
+}

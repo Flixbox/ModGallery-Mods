@@ -1,0 +1,44 @@
+Names
+Soulmage
+Lich
+
+Gold cost for base unit
+1155
+
+Weekly Growth
+2
+
+Rare Resource Cost
+2C
+
+Balance modifier
+105
+100
+
+Abilities
+Ranged
+Manaprojectile
+Wide Attacks
+mDecHard_CagedSoul
+
+Abilities for upgrade
+Ranged
+Manaprojectile
+Wide Attacks
+Death Strike
+mDecHard_CagedSoul
+
+Use sound effects from X unit
+Soulmage
+
+Attack type
+2
+
+Living
+-1
+
+Link
+Skeleton
+
+Unit groups
+tug_necromancy

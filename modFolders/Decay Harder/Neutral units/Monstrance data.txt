@@ -1,0 +1,33 @@
+Names
+Monstrance of Broken Souls
+
+Reference Name
+mDecHard_SoulCage
+
+Gold cost for base unit
+50
+
+Balance modifier
+100
+
+Abilities
+Health 200
+Inert
+Passive
+Impenetrable
+Warding
+Tower
+
+Use sound effects from X unit
+Lost Soul
+
+Attack type
+0
+
+Living
+0
+
+Link
+Lich
+
+Unit groups

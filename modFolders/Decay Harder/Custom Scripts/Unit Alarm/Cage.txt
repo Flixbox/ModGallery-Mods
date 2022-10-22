@@ -1,0 +1,62 @@
+if alarmtype = "mDecHard_FindCage"
+{
+	if left
+	{
+		global_read("mDecHard_CageL")
+		mDecHard_ActiveCage = result
+		//log_write("cagetest", "Cage set! (GL_L)")
+		//log_write("cagetest", mDecHard_ActiveCage)
+	}
+	else
+	{
+		global_read("mDecHard_CageR")
+		mDecHard_ActiveCage = result
+		//log_write("cagetest", "Cage set! (GL_R)")
+		//log_write("cagetest", mDecHard_ActiveCage)
+	}
+	
+	if (mDecHard_ActiveCage = undefined) | (mDecHard_ActiveCage = 0)
+	{
+		selectallies_all()
+		temp_len = list_length(selectlist)-1
+		for(i, temp_len)
+		{
+			temp_ally = list_read(selectlist, i)
+			temp_allyname = get(temp_ally, name)
+			if temp_allyname = "mDecHard_SoulCage"
+			{
+				mDecHard_ActiveCage = temp_ally
+				if left
+				{
+					global_set("mDecHard_CageL", mDecHard_ActiveCage)
+				}
+				else
+				{
+					global_set("mDecHard_CageR", mDecHard_ActiveCage)
+				}
+
+				i = temp_len + 1
+				//log_write("cagetest", "Cage set!")
+				//log_write("cagetest", mDecHard_ActiveCage)
+			}
+		}
+	}
+}
+
+if alarmtype = "mDecHard_CageRevive"
+{
+	if array_length(mDecHard_CageStack) > 0
+	{
+		mDecHard_RevName = array_read(mDecHard_CageStack, 0)
+		array_remove(mDecHard_CageStack, 0)
+		summonunit_permanent(mDecHard_RevName, 1)
+		with(summonlist)
+		{
+			mDecHard_ActiveCage = -1
+		}
+	}
+	if array_length(mDecHard_CageStack) > 0
+	{
+		alarm_set("mDecHard_CageRevive", 5)
+	}
+}

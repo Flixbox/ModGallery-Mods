@@ -1,0 +1,40 @@
+Names
+Boneshooter
+isn't used
+
+Gold cost for base unit
+80
+
+Weekly Growth
+1
+
+Rare Resource Cost
+00
+
+Balance modifier
+110
+100
+
+Abilities
+Ranged
+Boneprojectile
+Slowing
+Fester
+
+Abilities for upgrade
+
+Use sound effects from X unit
+Bone Shooter
+
+Attack type
+1
+
+Living
+-1
+
+Link
+Skeleton
+
+Unit groups
+tug_necromancy
+The Corrupt

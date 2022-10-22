@@ -1,0 +1,40 @@
+scr_mbd = global_read(mobdata)
+scr_ffN = global_read(ffN)
+
+scr_armies = global_read(armiessplit)
+for(i, 1)
+{
+	loop_goon = 1
+	scr_carm = array_read(scr_armies, i)
+	army = array_read(scr_carm, 1)
+	
+	for(k,1)
+	{
+		loop_army = array_read(scr_carm, k)
+		for_army(loop_army)
+		{
+			if loop_goon
+			{
+				scr_fact_data = array_read(scr_mbd, fa_faction + (fa_upgr * scr_ffN))
+				scr_unit_data = array_read(scr_fact_data, fa_orank)
+				if array_read(scr_unit_data, 0) = fa_name
+				{
+					//log_write("cagetest", fa_name)
+					for(j, 1, array_length(scr_unit_data) - 1)
+					{
+						if loop_goon = 1
+						{
+							scr_abil = array_read(scr_unit_data, j)
+							if scr_abil = "mDecHard_CagedSoul"
+							{
+								loop_goon = 0
+								//log_write("cagetest", "found!")
+								addunit_number("mDecHard_SoulCage", 1)
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

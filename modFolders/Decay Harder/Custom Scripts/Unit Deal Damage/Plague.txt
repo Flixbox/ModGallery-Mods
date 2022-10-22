@@ -1,0 +1,15 @@
+if ishero = 0
+{
+	if checkability("mDecHard_Plague")
+	{
+		if (mDecHard_Threshold > 0)
+		{
+			unit_get_data(currenttarget, 14)
+			if result > 0
+			{
+				mDecHard_Curr += currentdamage
+			}
+			//show_message((mDecHard_Threshold - mDecHard_Curr))
+		}
+	}
+}

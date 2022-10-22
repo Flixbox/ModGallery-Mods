@@ -1,0 +1,28 @@
+if (currentassailant != undefined) & (currentassailant > 0) & (mDecHard_Threshold > 0)
+{
+	unit_get_data(name, 14)
+	if result = 2
+	{
+		global_set("tempbuffer1", 0)
+		templist = list_create()
+		list_push(templist, currentassailant)
+		with (templist)
+		{
+			if checkability("mDecHard_Plague")
+			{
+				if (mDecHard_Curr >= mDecHard_Threshold)
+					mDecHard_Curr -= mDecHard_Threshold
+					summonunit_permanent(mDecHard_SummonName, 1)
+					global_set("tempbuffer1", list_read(summonlist, 0))
+				}
+			}
+		}
+		global_read("tempbuffer1")
+		if result != undefined & result != 0
+		{
+			set(result, x, x)
+			set(result, y, y)
+			instance_destroy()
+		}
+	}
+}

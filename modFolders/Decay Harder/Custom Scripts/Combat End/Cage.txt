@@ -1,0 +1,23 @@
+temp_al = global_read(armiesleave)
+for(i, 1)
+{
+	temp_killlist = array_create()
+	army = array_read(temp_al, i)
+	for_army(army)
+	{
+		if fa_name = "mDecHard_SoulCage"
+		{
+			array_push(temp_killlist, i)
+		} 
+	}
+	temp_arlen = array_length(temp_killlist) - 1
+	for(j, temp_arlen)
+	{
+		temp_killme = array_read(temp_killlist, j)
+		array_remove(army, temp_killme)
+		array_remove(army, temp_killme)
+		array_remove(army, temp_killme)
+		array_remove(army, temp_killme)
+		array_remove(army, temp_killme)
+	}
+}

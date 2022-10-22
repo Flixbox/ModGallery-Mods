@@ -1,0 +1,5 @@
+Ability Name
+mDecHard_CagedSoul
+
+Ability Description
+Caged Soul: At the beginning of combat a Monstrance of Broken Souls is spawned. After death, this unit will be respawned once if the Monstrance isn't broken.
