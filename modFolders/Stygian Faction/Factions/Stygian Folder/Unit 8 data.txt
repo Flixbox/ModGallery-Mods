@@ -1,0 +1,51 @@
+Names (first basic, then the upgrade)
+Bombard
+16 Pounder
+
+Gold cost for base unit (also decides basic strength of unit)
+1100
+
+Weekly Growth
+2
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+2O
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+100
+
+Abilities for base unit
+Ranged
+Rockprojectile
+Sturdy
+Blaster
+Windup
+Health 153
+Damage 30
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Ranged
+Rockprojectile
+Sturdy
+Blaster
+Windup
+Long Ranged
+Health 190
+Damage 36
+
+Use sound effects from X unit
+Goblin Gunner
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups
+Conquistadors
+Mountain King

@@ -1,0 +1,9 @@
+Name
+Alena
+
+Unit
+Wild Elf
+
+Skills
+Wild Communion
+Bloodlust

@@ -1,0 +1,59 @@
+FACTION NAME
+Stygian
+
+FACTION UNITS ALTERNATES
+2
+3
+5
+
+HERO NAMES (fighter first, caster second)
+Heir
+Scarred
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Abandoned Vineyard
+Tainted Totem
+Brackish Cenote
+Farmhouse
+Courtyard
+Otherworldly Altar
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Moss Forest
+
+TOWN NAMES (write as many as required)
+Monarch's End
+Bloodless Marsh
+Traveler's Bane
+Broken Peak
+Final Rest
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+7
+
+TOWN MUSIC (write name of faction to borrow music from)
+Arcane
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Summoning
+
+LORE NAME:
+Stygian Host
+
+LORE MAIN RACE:
+Human
+
+LORE HISTORY:
+Stories of nobles and mages bringing doom unto themselves and their followers, by trying to harness power not meant for them, are as old as time itself. But given time, even the greatest tragedies are forgotten and thus wild beasts return, and thus the blighted lands are populated yet again. But the corruption lingers, tainting and controlling anyone unfortunate enough to now call this place their home.
+		
+LORE CULTURE:
+While the Stygians are made up of various races with their own motivations and leaderships, they are all pawns to the corruption whose tendrils spread throughout their homeland. Most of the races rely on banditry and pillaging to keep themselves fed, leeching off of defenseless villages, except for the corruptions most devoted worshippers, who have ascended past the need for food and comfort.
+
+LORE HERO FIGHTER:
+The Heirs have come to claim what they believe is rightfully theirs, by all means necessary. While outwardly charismatic, they are no better than the beasts they command
+
+LORE HERO CASTER:
+Years spent pursuing dangerous rituals and knowledge has left the Scarred physically deformed, and their minds shattered - yet their grim ambitions remain to be satisfied

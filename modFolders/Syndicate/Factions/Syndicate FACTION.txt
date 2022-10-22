@@ -1,0 +1,61 @@
+FACTION NAME
+Syndicate
+
+FACTION UNITS ALTERNATES
+4
+5
+6
+
+HERO NAMES (fighter first, caster second)
+Pillager
+Experimenter
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Bandit Camp
+Recruit House
+Remains
+Laboratory
+Ancient Alley
+Cave of Beasts
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Deep Forest
+
+TOWN NAMES (write as many as required)
+Darkwood
+Ruins of Splendor
+Asylum
+Thieves' Den
+Wasteshire
+Howling Land
+Epideme
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Enclave
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Scouting
+
+LORE NAME:
+The Forsaken Syndicate
+
+LORE MAIN RACE:
+Humans
+
+LORE HISTORY:
+The syndicate began with the unification of various gangster groups, which were later joined by dangerous magicians and scientists. Now the armies of rejected humans and fearsome monsters represent a force to be reckoned with.
+
+LORE CULTURE:
+A unification of robbers, criminals and terrible monsters from distant lands.
+
+LORE HERO FIGHTER:
+Pillagers attack and rob any settlements, and their enemies can be anyone whom they consider weak and unworthy
+
+LORE HERO CASTER:
+The Cruel Experimenters have found good havens for their gruesome work, and their ambitions to seize territory know no bounds.

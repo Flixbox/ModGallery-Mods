@@ -1,0 +1,24 @@
+Name
+Iris the mute
+
+Unit
+neow_Healer
+
+Skills
+neow_supportdrop
+Leadership
+Sorcery
+Summoning
+Recruitment
+Scouting
+Pyromancy
+Wisdom
+Mastery
+Healing
+Bodyguards
+Warding
+Learning
+Regeneration
+Planning
+Tactics
+Legion

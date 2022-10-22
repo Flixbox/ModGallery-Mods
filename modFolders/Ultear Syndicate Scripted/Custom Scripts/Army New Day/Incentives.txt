@@ -1,0 +1,54 @@
+checkskillrank("Mechanic_Prodigy")
+{
+	if skillrank>0
+	{
+		masteryv += 155*skillrank
+		if masteryv>650
+		{
+			addunit_number("Supreme Dominance",1)
+			masteryv -= 650
+		}
+	}
+}
+
+checkskillrank("Infantry_Focus")
+{
+	if skillrank>0
+	{
+		masteryv += 155*skillrank
+		if masteryv>600
+		{
+			addunit_number("Palus APA",2)
+			masteryv -= 600
+		}
+	}
+}
+
+checkskillrank("Turos_Contracts")
+{
+	if skillrank>0
+	{
+		masteryv += 155*skillrank
+		if masteryv>680
+		{
+			addunit_number("Turos Overseer",2)
+			addunit_number("Turos 3",4)
+			masteryv -= 680
+		}
+	}
+}
+
+checkskillrank("Vega_Contracts")
+{
+	if skillrank>0
+	{
+		masteryv += 155*skillrank
+		if masteryv>740
+		{
+			addunit_number("Vega Overseer",1)
+			addunit_number("Vega 5",2)
+			addunit_number("RR Probe",2)
+			masteryv -= 740
+		}
+	}
+}

@@ -1,0 +1,24 @@
+Name
+Porkchop
+
+Unit
+Swine
+
+Skills
+Speaker
+Toxicology
+Aeromancy
+Recruitment
+Mastery
+Hydromancy
+Summoning
+Swarming
+Regeneration
+Offense
+Wisdom
+Potency
+Destruction
+Mercurial
+Midas Touch
+Armorer
+Mysticism

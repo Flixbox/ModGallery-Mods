@@ -1,0 +1,8 @@
+Skill Name
+Relentless
+
+Reference Name
+Relentless_Doom
+
+Skill Description
+Increases health and damage by 50% movement speed by 10%, and increases attack rate each rank. Additionally provides Regeneration to the Hero.

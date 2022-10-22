@@ -1,0 +1,9 @@
+Name
+XLeBhy
+
+Unit
+PunchBot
+
+Skills
+Combat
+Legion

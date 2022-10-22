@@ -1,0 +1,24 @@
+Name
+Andress the bloodless
+
+Unit
+neow_Drone
+
+Skills
+neow_boostpower
+Combat
+Champion
+Healing
+Plunder
+Bodyguards
+Destruction
+Recruitment
+Tactics
+Toxicology
+Swarming
+Planning
+Logistics
+Royalty
+Bloodlust
+Bloodwarping
+Rallying

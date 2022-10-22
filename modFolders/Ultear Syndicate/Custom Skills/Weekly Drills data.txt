@@ -1,0 +1,8 @@
+Skill Name
+Weekly Drills
+
+Reference Name
+Weekly_Drills
+
+Skill Description
+At the beginning of each week this hero gains (1*Skill Level), Attack, Defense, Knowledge, and Spellpower.

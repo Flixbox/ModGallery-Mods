@@ -1,0 +1,53 @@
+Names (first basic, then the upgrade)
+Pleghm-pulter
+Bile Hurler
+
+Gold cost for base unit (also decides basic strength of unit)
+300
+
+Weekly Growth
+6
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+00
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+105
+
+Abilities for base unit
+Flimsy
+Venom
+Ranged
+Knockback
+Knockback
+BileProjectile
+Short Ranged
+Health 64
+Damage 16
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Flimsy
+Venom
+Ranged
+Knockback
+Knockback
+Knockback
+Knockback
+BileProjectile
+Short Ranged
+Arrow Rain
+Health 80
+Damage 20
+
+Use sound effects from X unit
+Skeleton
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Undead				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+-1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog

@@ -1,0 +1,13 @@
+Name
+Frank
+
+Unit
+Bandit
+
+Skills
+Plunder
+Logistics
+Tactics
+Offense
+Planning
+Engineering

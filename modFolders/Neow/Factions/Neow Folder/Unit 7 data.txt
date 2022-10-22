@@ -1,0 +1,53 @@
+Names
+Artillery
+ExoShard
+
+Reference Name
+neow_Artillery
+neow_ExoShard
+
+Gold cost for base unit
+900
+
+Weekly Growth
+4
+
+Rare Resource Cost
+1S
+
+Balance modifier
+110
+120
+
+Abilities
+Ranged
+Long Ranged
+Fireprojectile
+Wide Attacks
+Inert
+Confusion
+Caster
+Chain Lightning
+
+Abilities for upgrade
+Ranged
+Long Ranged
+Lightningprojectile
+Wide Attacks
+Inert
+Confusion
+Empower
+
+Use sound effects from X unit
+Onyx rod
+
+Attack type
+2
+
+Living
+0
+
+Link
+neow_Gunner
+
+Unit groups

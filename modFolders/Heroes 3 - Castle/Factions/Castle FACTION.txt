@@ -1,0 +1,67 @@
+FACTION NAME
+Castle
+
+FACTION UNITS ALTERNATES
+3
+5
+6
+
+HERO NAMES
+Knight
+Cleric
+
+DWELLING NAMES
+Guardhouse
+Archers' Tower
+Griffin Tower
+Barracks
+Training Grounds
+Cathedral of Glory
+
+STARTING TERRAIN
+Grass
+
+TOWN NAMES
+Steadwick
+Angel Gate
+Battlestead
+Forestbury
+Forestlow
+Grainrich
+Griffon Cliff
+Minewell
+Moss Valley
+Rionpoint
+Southport
+Strongwillow
+Woodgrove
+
+HUMANOID ELITE TARGET
+9
+
+TOWN MUSIC
+Order
+
+MAGIC SCHOOL SPECIALTY
+Water
+
+ARCHMAGE TRIBUNAL SKILL
+Leadership
+
+LORE NAME
+Erathia
+
+LORE MAIN RACE
+Humankind
+
+LORE HISTORY
+Erathia was a kingdom on the continent of Antagarich on Enroth. Ruled by the Gryphonheart dynasty, it was inhabited mostly by humans. Its capital city was Steadwick. It was the largest state on Antagarich.
+
+LORE CULTURE
+
+LORE HERO FIGHTER
+Knights are brave and noble warriors dedicated to good and righteousness. While they can learn magic skills, they are by far more dedicated to the pursuit of martial knowledge.
+
+LORE HERO CASTER
+Clerics are members of the fighting forces of their holy orders. They pursue a range of knowledge, both martial and mystical.
+

@@ -1,0 +1,20 @@
+checkskillrank("Weekly_Drills")
+if skillrank>0
+{
+	A += skillrank
+	D += skillrank
+	K += skillrank
+	mana += skillrank*10
+	S += skillrank
+}
+
+checkskillrank ("Profit_Incentive")
+if skillrank>0
+{
+addresource(gold,-200*skillrank)
+A += skillrank*2
+D += skillrank*2
+K += skillrank*2
+mana += skillrank*20
+S += skillrank*2
+}

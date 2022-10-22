@@ -1,0 +1,11 @@
+Name
+Victor
+
+Unit
+Werewolf
+
+Skills
+Toxicology
+Bloodwarping
+Hydromancy
+Terramancy

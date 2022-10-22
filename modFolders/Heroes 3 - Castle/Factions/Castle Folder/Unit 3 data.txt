@@ -1,0 +1,45 @@
+Names
+Griffin
+Royal Griffin
+
+Gold cost for base unit
+200
+
+Weekly Growth
+7
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Flying
+Charge
+Retaliation
+Big
+
+Abilities for upgrade
+Flying
+Knockback
+Charge
+Retaliation
+Fast
+
+Use sound effects from X unit
+Gryphon
+
+Attack type
+1
+
+Living
+3
+
+Link
+Griffin
+
+Unit groups
+Erathian Warriors
+

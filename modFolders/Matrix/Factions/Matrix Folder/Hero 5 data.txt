@@ -1,0 +1,9 @@
+Name
+GZeroLly
+
+Unit
+RailgunBot
+
+Skills
+Pyromancy
+Champion

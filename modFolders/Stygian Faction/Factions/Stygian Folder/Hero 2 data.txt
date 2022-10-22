@@ -1,0 +1,24 @@
+Name
+Paginini
+
+Unit
+Pelagic Guard
+
+Skills
+Union
+Dizzy Tune
+Mastery
+Leadership
+Hydromancy
+Elementalism
+Armorer
+Swarming
+Engineering
+Warding
+Royalty
+Plunder
+Oligarchy
+Legion
+Scouting
+Necromancy
+Dragonking

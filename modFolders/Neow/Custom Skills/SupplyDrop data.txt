@@ -1,0 +1,8 @@
+Skill Name
+Support Drop
+
+Reference Name
+neow_supportdrop
+
+Skill Description
+Summon units depending the difference in power with the enemy army. Each rank reduce the difference needed.

@@ -1,0 +1,46 @@
+Names (first basic, then the upgrade)
+Scarecrow
+Foreman
+
+Gold cost for base unit (also decides basic strength of unit)
+630
+
+Weekly Growth
+3
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+1L
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+100
+
+Abilities for base unit
+Flying
+Retreat
+Slowing
+First Aid
+Damage 12
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Flying
+Retreat
+Slowing
+Healer
+Damage 14
+
+Use sound effects from X unit
+Demon Tamer
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Living				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+0
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog
+
+Unit groups
+The Seven Fears
+Throne of Ethereals

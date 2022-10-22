@@ -1,0 +1,24 @@
+Name
+Clara the deaf
+
+Unit
+neow_Swordman
+
+Skills
+neow_supportdrop
+Warding
+Regeneration
+Mysticism
+Diplomacy
+Estates
+Learning
+Wisdom
+Archery
+Plunder
+Bodyguards
+Sorcery
+Blessing
+Potency
+Champion
+Healing
+Royalty

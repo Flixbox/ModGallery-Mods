@@ -1,0 +1,45 @@
+Names
+Drone
+Drone-II
+
+Reference Name
+neow_Drone
+neow_Drone-II
+
+Gold cost for base unit
+30
+
+Weekly Growth
+36
+
+Rare Resource Cost
+0O
+
+Balance modifier
+70
+80
+
+Abilities
+Inert
+Shrink
+Hover
+
+Abilities for upgrade
+Inert
+Explosion
+Shrink
+Hover
+
+Use sound effects from X unit
+Scroll
+
+Attack type
+1
+
+Living
+0
+
+Link
+neow_Drone
+
+Unit groups

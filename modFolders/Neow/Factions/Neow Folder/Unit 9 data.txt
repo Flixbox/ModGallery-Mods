@@ -1,0 +1,52 @@
+Names
+MechaSpider
+TCrystal
+
+Reference Name
+neow_MechaSpider
+neow_TCrystal
+
+Gold cost for base unit
+2700
+
+Weekly Growth
+2
+
+Rare Resource Cost
+2C
+
+Balance modifier
+140
+140
+
+Abilities
+Inert
+Tank
+Impenetrable
+Lash
+neow_shield
+Caster
+Shield
+
+Abilities for upgrade
+Inert
+Immortal
+Empower
+Tank
+Impenetrable
+Lash
+neow_shield
+
+Use sound effects from X unit
+Onyx rod
+
+Attack type
+2
+
+Living
+0
+
+Link
+neow_Gunner
+
+Unit groups

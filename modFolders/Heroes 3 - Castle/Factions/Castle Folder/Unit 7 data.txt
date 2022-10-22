@@ -1,0 +1,41 @@
+Names
+Cavalier
+Champion
+
+Gold cost for base unit
+1000
+
+Weekly Growth
+2
+
+Rare Resource Cost
+0L
+
+Balance modifier
+100
+100
+
+Abilities
+Charge
+Fast
+
+Abilities for upgrade
+Charge
+Knockback
+Fast
+
+Use sound effects from X unit
+Cavalry
+
+Attack type
+1
+
+Living
+2
+
+Link
+Cavalier
+
+Unit groups
+Erathian Warriors
+

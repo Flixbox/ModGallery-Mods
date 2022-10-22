@@ -1,0 +1,13 @@
+Name
+Jack
+
+Unit
+Mercenary
+
+Skills
+Plunder
+Offence
+Recruitment
+Combat
+Legion
+Oligarchy

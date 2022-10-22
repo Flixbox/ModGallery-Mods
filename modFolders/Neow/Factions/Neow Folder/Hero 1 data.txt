@@ -1,0 +1,24 @@
+Name
+Olig Vlad
+
+Unit
+neow_Drone
+
+Skills
+neow_boostpower
+Armorer
+Mastery
+Healing
+Plunder
+Legion
+Destruction
+Recruitment
+Engineering
+Scouting
+Bodyguards
+Planning
+Logistics
+Royalty
+Regeneration
+Leadership
+Learning

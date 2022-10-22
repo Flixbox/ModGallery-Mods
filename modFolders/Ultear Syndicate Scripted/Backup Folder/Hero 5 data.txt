@@ -1,0 +1,24 @@
+Name
+Mood Guy
+
+Unit
+Palus PA
+
+Skills
+Midas Touch
+Combat
+Healing
+Legion
+Oligarchy
+Wisdom
+Tactics
+Mastery
+Leadership
+Mysticism
+Sorcery
+Warding
+Archery
+Fortune
+Creation
+Regeneration
+Potency

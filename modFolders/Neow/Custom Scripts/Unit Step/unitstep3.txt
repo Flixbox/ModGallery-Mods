@@ -1,0 +1,24 @@
+if ishero
+{
+
+	if neow_supportdrop_nb > 0
+	{
+		checkskillrank("neow_supportdrop")
+		if skillrank
+		{
+
+			neow_summon_skill_supportdrop_range = 0
+			if skillrank > 2
+			{
+			 neow_summon_skill_supportdrop_range = 1
+			}
+			pickunitfromgroup("neow_support_melee",neow_summon_skill_supportdrop_range)
+			show_message(neow_supportdrop_nb)
+			show_message(foundunit)
+			summonunit(foundunit,neow_supportdrop_nb)
+			pickunitfromgroup("neow_support_ranged",neow_summon_skill_supportdrop_range)
+			summonunit(foundunit,neow_supportdrop_nb)
+			neow_supportdrop_nb=0
+		}
+	}
+}

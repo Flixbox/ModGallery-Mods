@@ -1,0 +1,95 @@
+if ishero = 1
+{
+    checkskillrank("Weekly_Drills")
+    if skillrank>0
+    {
+		size = 1.1
+		arrowrainchance += 10
+        ranged = 1
+        rangerange = 86+16
+        mhealth = mhealth*.8
+        matcd = round(matcd/.7)
+        projectile = 4
+    }
+}
+
+if ishero = 1
+{
+	checkskillrank("Profit_Incentive")
+	if skillrank>0
+	{
+		size = 1.1
+		arrowrainchance += 10
+		projectile = 4
+	}
+}
+
+if (name="Dominance")|(name="Supreme Dominance")
+{
+	checkskillrank("Mechanic_Prodigy")
+	if skillrank>0
+	{
+		autoflee = 1
+		regeneration = 1
+		mhealth += mhealth*skillrank/20
+		damage += damage*skillrank/20
+	}
+}
+
+if ishero = 1
+{
+	checkskillrank("Relentless_Doom")
+	if skillrank>0
+	{
+		damage += damage*skillrank/2
+		mhealth += mhealth*skillrank/2
+		mspe += mspe*skillrank/10
+		matcd -= skillrank/2
+		regeneration = 1
+	}
+}
+
+if (name="Palus PA")|(name="Palus APA")
+{
+	checkskillrank("Infantry_Focus")
+	if skillrank>0
+	{
+		regeneration = 1
+		autoflee = 1
+		mhealth += mhealth*skillrank/20
+		damage += damage*skillrank/20
+		mspe += mspe*skillrank/20
+	}
+}
+
+if (name="Turos Controller")|(name="Turos Overseer")|(name="Turos 1"|(name="Turos 3")|(name="MCV Turos")|(name="CMCV Turos")
+{
+	checkskillrank("Turos_Contracts")
+	if skillrank>0
+	{
+		mhealth += mhealth*skillrank/20
+		damage += damage*skillrank/10
+	}
+}
+
+if (name="Vega Controller")|(name="Turos Overseer")(name="Probe")|(name="RR Probe")|(name="Vega 2")|(name="Vega 5")|(name="MCV Vega")|(name="CMCV Vega")
+{
+	checkskillrank("Vega_Contracts")
+	if skillrank>0
+	{
+		mhealth += mhealth*skillrank/10
+		damage += damage*skillrank/20
+	}
+}
+
+if ishero = 1
+{
+	checkskillrank("Butcher_Of_Demons")
+	if skillrank>0
+	{
+		mhealth += 150*skillrank
+		damage += 3*skillrank
+		rangerange += 8*skillrank
+		arrowrainchance += 10*power(skillrank,0.7)
+	}
+}

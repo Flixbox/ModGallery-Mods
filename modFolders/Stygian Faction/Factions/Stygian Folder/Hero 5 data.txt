@@ -1,0 +1,24 @@
+Name
+Rigor
+
+Unit
+Bone Patrician
+
+Skills
+Speaker
+Terramancy
+Elementalism
+Recalcitrance
+Necromancy
+Regeneration
+Estates
+Leadership
+Legion
+Mastery
+Mysticism
+Bodyguards
+Wisdom
+Healing
+Archery
+Sorcery
+Logistics

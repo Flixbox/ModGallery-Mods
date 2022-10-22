@@ -1,0 +1,21 @@
+Name:
+Machines
+
+Hero:
+Eenda Kaal
+
+Add units:
+Dominance
+Supreme Dominance
+Vega 2
+Vega 5
+Turos 1
+Turos 3
+Turos Controller
+Turos Overseer
+Vega Controller
+Vega Overseer
+MCV Vega
+CMCV Vega
+MCV Turos
+CMCV Turos

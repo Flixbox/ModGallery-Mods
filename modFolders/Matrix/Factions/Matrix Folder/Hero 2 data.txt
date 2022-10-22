@@ -1,0 +1,9 @@
+Name
+BSiLon
+
+Unit
+GigaBot
+
+Skills
+Combat
+Champion

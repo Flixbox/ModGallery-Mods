@@ -1,0 +1,45 @@
+Names
+Swordsman
+Crusader
+
+Gold cost for base unit
+300
+
+Weekly Growth
+4
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Knockback
+Critical Strike
+Protected
+Projectile Protection
+
+Abilities for upgrade
+Sturdy
+Knockback
+Critical Strike
+Protected
+Projectile Protection
+
+Use sound effects from X unit
+Knight
+
+Attack type
+0
+
+Living
+2
+
+Link
+Swordsman
+
+Unit groups
+Erathian Warriors
+

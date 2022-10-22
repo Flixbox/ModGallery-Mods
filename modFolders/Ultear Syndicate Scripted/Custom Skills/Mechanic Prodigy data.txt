@@ -1,0 +1,8 @@
+Skill Name
+Mechanic Prodigy
+
+Reference Name
+Mechanic_Prodigy
+
+Skill Description
+Creates mechanical units per day based on skill level. Additionally your Dominance and Supreme Dominance get Regeneration and Immortality, Dominance and Supreme Dominance gain 5 Damage and 24 Health Per level.

@@ -1,0 +1,8 @@
+Skill Name
+Profit Incentive
+
+Reference Name
+Profit_Incentive
+
+Skill Description
+At the beginning of each week this hero takes (200*skillrank) Gold from you, and gains (2*skillrank) Attack, Defense, Knowledge, and Skillpower.

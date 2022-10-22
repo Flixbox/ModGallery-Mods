@@ -1,0 +1,9 @@
+Name
+VLuHy
+
+Unit
+GigaBot
+
+Skills
+Pyromancy
+Legion

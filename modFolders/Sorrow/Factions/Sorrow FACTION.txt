@@ -1,0 +1,61 @@
+FACTION NAME
+Sorrow
+
+FACTION UNITS ALTERNATES
+2
+4
+5
+
+HERO NAMES (fighter first, caster second)
+Plaguebringer
+Webcrawler
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Treacherous Oak
+Spider Lily Garden
+Royal Imbuement
+Anatomancer Tower
+Sorrowful Cradle
+Royal Disorderly
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Deadlands
+
+TOWN NAMES (write as many as required)
+Depth Dwelling
+Flightless Mosquito
+Forgotten Cloth
+Silk Weaver
+Deep Web
+Mariana's Web
+Abandoned Earth
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Lament
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Earth
+
+ARCHMAGE TRIBUNAL SKILL
+Mercurial
+
+LORE NAME:
+Past Sorrows
+
+LORE MAIN RACE:
+Arachnids
+
+LORE HISTORY:
+Once alone, the arachnids have managed to start their own society, unfortunately, due to a lack of leadership, their societies keep falling apart, they're always trying to create someone to fill in the emperor role so that they may not fail again. Their experiments have led to an increase in human-like appearances in newer generations, with older generations having more arachnid-like appearances
+
+LORE CULTURE:
+Most of the arachnids are strictly carnivorous, with the exception of alchemy, their technology is very primitive as they are still beginning their evolution, they are mostly nomadic due to their problems with mantaining a stable society, and only a select few have achieved bipedalism. Spiders are the dominant species, the others are seen as pets, however, with scorpions starting to evolve due to the Webcrawler's alchemy experiments this might change in the near future.
+
+LORE HERO FIGHTER:
+The Plaguebringers are the ones tasked with exploration and domination, seeking new lands for the Webcrawlers to make new experiments.
+
+LORE HERO CASTER: 
+Proficient in alchemy and highly curious, they travel along with the Plaguebringers, acquiring knowledge for their next emperor creation attempt.

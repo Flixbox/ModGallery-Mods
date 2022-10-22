@@ -1,0 +1,52 @@
+Names (first basic, then the upgrade)
+Pus Carrier
+Contagion Pod
+
+Gold cost for base unit (also decides basic strength of unit)
+1200
+
+Weekly Growth
+2
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+2M
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+100
+
+Abilities for base unit
+Slow
+Ranged
+Long Ranged
+BileProjectile
+Venom
+Quick Strikes
+Wide Attacks
+Explosion
+Health 64
+Damage 10
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Hover
+Ranged
+Fortune
+BileProjectile
+Venom
+Blaster
+Explosion
+Health 80
+Damage 10
+Tower
+
+Use sound effects from X unit
+Skeleton
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Undead				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+-1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Putrid Crawler

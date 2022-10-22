@@ -1,0 +1,50 @@
+Names
+Angel
+Archangel
+
+Gold cost for base unit
+3000
+
+Weekly Growth
+1
+
+Rare Resource Cost
+3C
+
+Balance modifier
+100
+100
+
+Abilities
+Flying
+Protected
+Projectile Protection
+Fast
+Shrink
+Caster
+Resurrection
+
+Abilities for upgrade
+Retaliation
+Protected
+Projectile Protection
+Flying
+Charm
+Fast
+Shrink
+
+Use sound effects from X unit
+Crusader
+
+Attack type
+1
+
+Living
+2
+
+Link
+Angel
+
+Unit groups
+Erathian Warriors
+

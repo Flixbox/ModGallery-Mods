@@ -1,0 +1,8 @@
+Skill Name
+Butcher
+
+Reference Name
+Butcher_Of_Demons
+
+Skill Description
+Increases Heroes health by 150, Damage by 3, Range by 8, and increases the heroes chance to do an Arrow Rain attack on his target.

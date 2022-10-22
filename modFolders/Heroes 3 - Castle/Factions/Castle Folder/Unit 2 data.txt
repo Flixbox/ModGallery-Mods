@@ -1,0 +1,45 @@
+Names
+Crossbowman
+Marksman
+
+Gold cost for base unit
+100
+
+Weekly Growth
+9
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Ranged
+Bulletprojectile
+Versatile
+Knockback
+
+Abilities for upgrade
+Ranged
+Bulletprojectile
+Versatile
+Quick Strikes
+Knockback
+
+Use sound effects from X unit
+Arbalist
+
+Attack type
+1
+
+Living
+2
+
+Link
+Archer
+
+Unit groups
+Erathian Warriors
+

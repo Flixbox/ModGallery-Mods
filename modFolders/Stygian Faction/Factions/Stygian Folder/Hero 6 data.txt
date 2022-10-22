@@ -1,0 +1,24 @@
+Name
+Delusinas
+
+Unit
+Dark Acolyte
+
+Skills
+Speaker
+Fortune
+Pyromancy
+Potency
+Scouting
+Summoning
+Combat
+Regeneration
+Archery
+Planning
+Terramancy
+Hex
+Sorcery
+Creation
+Champion
+Dragonking
+Warding

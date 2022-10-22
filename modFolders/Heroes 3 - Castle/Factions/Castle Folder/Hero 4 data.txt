@@ -1,0 +1,9 @@
+Name
+Adela
+
+Unit
+Pikeman
+
+Skills
+Wisdom
+Diplomacy

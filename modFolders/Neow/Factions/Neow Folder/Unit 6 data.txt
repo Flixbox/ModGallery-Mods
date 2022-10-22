@@ -1,0 +1,48 @@
+Names
+Healer
+ExoHealer
+
+Reference Name
+neow_Healer
+neow_ExoHealer
+
+Gold cost for base unit
+350
+
+Weekly Growth
+9
+
+Rare Resource Cost
+0O
+
+Balance modifier
+115
+110
+
+Abilities
+Ranged
+Bulletprojectile
+First Aid
+Feeble
+Small
+
+Abilities for upgrade
+Ranged
+Bulletprojectile
+Healer
+Tank
+Fast
+
+Use sound effects from X unit
+Hand cannoneer
+
+Attack type
+1
+
+Living
+1
+
+Link
+neow_Gunner
+
+Unit groups

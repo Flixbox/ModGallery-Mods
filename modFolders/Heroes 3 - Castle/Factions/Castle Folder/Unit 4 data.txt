@@ -1,0 +1,47 @@
+Names
+Conscript
+Soldier
+
+Gold cost for base unit
+180
+
+Weekly Growth
+12
+
+Rare Resource Cost
+1L
+
+Balance modifier
+100
+100
+
+Abilities
+Savage
+Protected
+Projectile Protection
+Quick Strikes
+Fast
+
+Abilities for upgrade
+Savage
+Retaliation
+Protected
+Projectile Protection
+Quick Strikes
+Fast
+
+Use sound effects from X unit
+SwordMan
+
+Attack type
+1
+
+Living
+2
+
+Link
+Conscript
+
+Unit groups
+Erathian Warriors
+

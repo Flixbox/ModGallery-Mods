@@ -1,0 +1,44 @@
+Names
+Defender
+DreadTank
+
+Reference Name
+neow_Defender
+neow_DreadTank
+
+Gold cost for base unit
+200
+
+Weekly Growth
+7
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Protected
+Tank
+
+Abilities for upgrade
+Protected
+Tank
+Warding
+Inert
+
+Use sound effects from X unit
+Swordman
+
+Attack type
+1
+
+Living
+1
+
+Link
+neow_Gunner
+
+Unit groups

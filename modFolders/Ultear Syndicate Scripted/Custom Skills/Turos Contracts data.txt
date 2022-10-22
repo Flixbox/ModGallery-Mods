@@ -1,0 +1,8 @@
+Skill Name
+Turos Contracts
+
+Reference Name
+Turos_Contracts
+
+Skill Description
+All Turos related units (Including Turos MCV's and CMCV's) gain 5% health and  10% damage per rank, and generates Turos Arms units based on rank.

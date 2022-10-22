@@ -1,0 +1,24 @@
+Name
+Rann Haggats
+
+Unit
+Probe
+
+Skills
+Profit_Incentive
+Healing
+Vega_Contracts
+Devour
+Summoning
+Archery
+Learning
+Wisdom
+Champion
+Estates
+Royalty
+Sorcery
+Legion
+Tactics
+Recalcitrance
+Diplomacy
+Offense

@@ -1,0 +1,8 @@
+Skill Name
+Vega Contracts
+
+Reference Name
+Vega_Contracts
+
+Skill Description
+All Vega related units (Including Vega MCV's and CMCV's) gain 5% damage per rank and 10% health per rank, plus generates groups of Vega Tech Units based on rank.

@@ -1,0 +1,42 @@
+boostpower = checkskillrank("neow_boostpower")
+supportdrop = checkskillrank("neow_supportdrop")
+
+if supportdrop|boostpower
+{
+    global_read(armiesenter)
+    array_read(result,1-left)
+    army = result
+    yourarmycost = armyvalue(1)
+    global_read(armiesenter)
+    array_read(result,left)
+    army = result
+    oppositearmycost = armyvalue(1)
+    neow_diff = ((oppositearmycost - yourarmycost) / yourarmycost)
+    neow_diff += 0.01*(boostpower + supportdrop)
+    if neow_diff > 1
+    {
+        neow_diff = 1
+    }
+    if neow_diff < 0
+    {
+        neow_diff = 0
+    }
+    if boostpower
+    {
+      mhealth *= (1+neow_diff)
+      damage *= (1+neow_diff)
+      size += neow_diff/3
+      neow_diff = (neow_diff + 1) * 100
+//      neow_diff = "+" + neow_diff
+      show_message(neow_diff)
+    }
+}
+if ishero
+{
+
+    neow_supportdrop_nb = 0
+    if supportdrop
+    {
+        neow_supportdrop_nb = floor(neow_diff*(6+supportdrop))
+    }
+}

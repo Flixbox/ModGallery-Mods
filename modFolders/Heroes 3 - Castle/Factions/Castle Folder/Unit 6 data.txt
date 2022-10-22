@@ -1,0 +1,48 @@
+Names
+Monk
+Zealot
+
+Gold cost for base unit
+400
+
+Weekly Growth
+3
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+100
+
+Abilities
+Ranged
+Laserprojectile
+Burning
+Critical Strike
+Healer
+Flimsy
+
+Abilities for upgrade
+Ranged
+Laserprojectile
+Burning
+Critical Strike
+Versatile
+Healer
+
+Use sound effects from X unit
+Monk
+
+Attack type
+1
+
+Living
+2
+
+Link
+Monk
+
+Unit groups
+Erathian Warriors
+

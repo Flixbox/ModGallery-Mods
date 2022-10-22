@@ -1,0 +1,11 @@
+Name
+Frederic
+
+Unit
+Plague Doctor
+
+Skills
+Toxicology
+Destruction
+Pyromancy
+Devour

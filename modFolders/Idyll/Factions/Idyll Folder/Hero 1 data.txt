@@ -1,0 +1,9 @@
+Name
+Emilo
+
+Unit
+Blaze
+
+Skills
+Wild Communion
+Healing

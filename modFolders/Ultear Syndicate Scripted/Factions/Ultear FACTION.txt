@@ -1,0 +1,71 @@
+FACTION NAME
+Ultear
+
+FACTION UNITS ALTERNATES
+3
+5
+6
+
+HERO NAMES (fighter first, caster second)
+Military Director
+Soldier of Fortune
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Vega Light Fabricator
+Turos Arms Dispensors
+DC3 Line
+PA Constructors
+Dominance Assembly
+MCV Factory
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Grass
+
+TOWN NAMES (write as many as required)
+Haven Headquarters
+New Haven HQ
+Victus And Sons
+Tereanis Pharmaceuticals
+Ei Wanna Eats
+Stellani Steelworks
+Nemin Entertainment
+Koad Wishgranters
+Neumhei Starmappers
+Feadt Pictures
+Voim Grocers
+Dimms Lighting
+Tinor Tonics
+Kreptos Hardware
+Deleny Drugs
+Better Buys
+GalaxyBuster Video
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+5
+
+TOWN MUSIC (write name of faction to borrow music from)
+Order
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Air
+
+ARCHMAGE TRIBUNAL SKILL
+Learning
+
+LORE NAME:
+Ultear Syndicate
+
+LORE MAIN RACE:
+Various
+
+LORE HISTORY:
+The Ultear Syndicate are an off world society that aims to harvest resources to supply their ever expanding society. Led by massive mega corporations, nearly every member of Ultearan society is on a contract of some sort. They are always looking to add new species to their empire.
+
+LORE CULTURE:
+Most Ultearan citizens value their comfortable lives greatly and consider any means to gather wealth, with the intention to fund their extravigant lifestyles, some citizens turn to mercenary work but the military also pays well.
+
+LORE HERO FIGHTER:
+Higher ranking individuals within the Ultearan military culture, the Military Directors lead military operations on the frontier.
+
+LORE HERO CASTER:
+Soldiers of Fortune are pricey mercenaries and military leaders on contract with the corporations that run Ultearan Society.

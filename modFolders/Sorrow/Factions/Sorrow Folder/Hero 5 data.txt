@@ -1,0 +1,24 @@
+Name
+Styzos
+
+Unit
+Unhooded Mother
+
+Skills
+Malediction
+Wisdom
+Regeneration
+Mysticism
+Terramancy
+Aeromancy
+Conflux
+Create
+Devour
+Hydromancy
+Pyromancy
+Bodyguards
+Sorcery
+Mastery
+Ardour
+Demonology
+Toxicology

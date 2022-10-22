@@ -1,0 +1,11 @@
+Name
+Wilhelm
+
+Unit
+Vulture
+
+Skills
+Toxicology
+Fortune
+Aeromancy
+Mysticism

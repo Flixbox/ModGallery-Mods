@@ -1,0 +1,61 @@
+FACTION NAME
+Matrix
+
+FACTION UNITS ALTERNATES
+2
+4
+6
+
+HERO NAMES (fighter first, caster second)
+Techmelter
+Robocaster
+
+DWELLING NAMES (in order from tier 1, 6 in total)
+Factory
+Phaze Facility
+AIP Producer
+Nanomachine Builder
+GigaBot Labs
+Magnum Opus
+
+STARTING TERRAIN (options are: "Crag","Dirt","Grass","Ice","Lava","Swamp","Sand","Deadlands","Moss Forest","Deep Forest","Tundra","Obsidian","Teal Marsh","Orange Desert")
+Obsidian
+
+TOWN NAMES (write as many as required)
+Chaos Lambda
+Kin Epsilon
+Choice Alpha
+Wild Zeta
+Form Gamma
+Void Beta
+Data Theta
+
+HUMANOID ELITE TARGET (for bloodwarping, artisan's lodge)
+9
+
+TOWN MUSIC (write name of faction to borrow music from)
+Lament
+
+MAGIC SCHOOL SPECIALTY (Water, Earth, Air, or Fire)
+Fire
+
+ARCHMAGE TRIBUNAL SKILL
+Champion
+
+LORE NAME:
+Matrix Infinum
+
+LORE MAIN RACE:
+Technolian
+
+LORE HISTORY:
+This group of highly advanced machina fell from the stars 400 years ago and was uncovered recently by the Earthen's scientists.
+
+LORE CULTURE:
+The Technolians are completely apathetic, and exist only to conquer the world.
+
+LORE HERO FIGHTER:
+Techmelters are highly advanced Technolians who wield massive Phazesabers and can control other Technolians.
+
+LORE HERO CASTER:
+Robocaster are highly advanced Technolians who have mastered the magical arts and can control other Technolians.

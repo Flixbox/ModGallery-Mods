@@ -1,0 +1,24 @@
+Name
+Mood Guy
+
+Unit
+Palus PA
+
+Skills
+Profit_Incentive
+Relentless_Doom
+Healing
+Legion
+Butcher_Of_Demons
+Wisdom
+Armorer
+Infantry_Focus
+Leadership
+Mysticism
+Sorcery
+Warding
+Archery
+Fortune
+Creation
+Regeneration
+Potency

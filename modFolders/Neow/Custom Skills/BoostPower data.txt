@@ -1,0 +1,8 @@
+Skill Name
+Boost Power
+
+Reference Name
+neow_boostpower
+
+Skill Description
+Damage/Health of your units are up to 0 to 100% depending the difference in power with the enemy army. Each rank reduce the difference needed.

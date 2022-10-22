@@ -1,0 +1,50 @@
+Names
+Leader
+Chieftain
+
+Reference Name
+neow_Leader
+neow_Chieftain
+
+Gold cost for base unit
+850
+
+Weekly Growth
+3
+
+Rare Resource Cost
+0O
+
+Balance modifier
+100
+105
+
+Abilities
+Ranged
+Bulletprojectile
+Bodyguards
+Aura of Power
+Shrink
+
+Abilities for upgrade
+Ranged
+Bulletprojectile
+Bodyguards
+Aura of Power
+Sturdy
+Quick Strikes
+Inert
+
+Use sound effects from X unit
+Hand cannoneer
+
+Attack type
+1
+
+Living
+1
+
+Link
+neow_Marine
+
+Unit groups

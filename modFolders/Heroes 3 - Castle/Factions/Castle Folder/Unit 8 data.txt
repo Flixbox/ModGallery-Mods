@@ -1,0 +1,43 @@
+Names
+Templar
+Paladin
+
+Gold cost for base unit
+1400
+
+Weekly Growth
+2
+
+Rare Resource Cost
+1O
+
+Balance modifier
+100
+100
+
+Abilities
+Sturdy
+Slow
+Caster
+Destroy Undead
+
+Abilities for upgrade
+Healer
+Sturdy
+Slow
+
+Use sound effects from X unit
+Knight
+
+Attack type
+1
+
+Living
+2
+
+Link
+Templar
+
+Unit groups
+Erathian Warriors
+

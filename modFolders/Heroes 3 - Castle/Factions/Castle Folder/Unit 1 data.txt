@@ -1,0 +1,41 @@
+Names
+Pikeman
+Halberdier
+
+Gold cost for base unit
+60
+
+Weekly Growth
+14
+
+Rare Resource Cost
+0M
+
+Balance modifier
+100
+100
+
+Abilities
+Charge
+Protected
+
+Abilities for upgrade
+Charge
+Protected
+Retaliation
+
+Use sound effects from X unit
+Halberdier
+
+Attack type
+1
+
+Living
+2
+
+Link
+Pikeman
+
+Unit groups
+Erathian Warriors
+

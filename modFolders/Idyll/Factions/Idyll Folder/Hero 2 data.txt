@@ -1,0 +1,9 @@
+Name
+Terru
+
+Unit
+Thunderstruck
+
+Skills
+Wild Communion
+Armorer

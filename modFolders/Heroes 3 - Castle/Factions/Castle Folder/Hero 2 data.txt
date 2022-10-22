@@ -1,0 +1,9 @@
+Name
+Lord Haart
+
+Unit
+Crossbowman
+
+Skills
+Leadership
+Fortune

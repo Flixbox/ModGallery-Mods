@@ -1,0 +1,45 @@
+Names (first basic, then the upgrade)
+Stalker
+Bone Collector
+
+Gold cost for base unit (also decides basic strength of unit)
+220
+
+Weekly Growth
+6
+
+Rare Resource Cost (00 for nothing. Write in number + letter, where letters are: O=ore, L=lumber, S=sulphur, C=crystal, M=mercury)
+00
+
+Balance modifier (first basic, then the upgrade. Makes the unit stronger/weaker compared to cost, to make up for strong abilities)
+100
+100
+
+Abilities for base unit
+Fast
+Leap
+Flimsy
+Projectile Protection
+Health 35
+Damage 9
+
+Abilities for upgrade (duplicate  from base unit if you want to keep them)
+Fast
+Leap
+Flimsy
+Leech Life
+Projectile Protection
+Health 45
+Damage 12
+
+Use sound effects from X unit
+Skeleton
+
+Attack type			(0: defensive || 1: aggressive || 2: magical (for potency))
+1
+
+Undead				(-2: blight || -1: undead || 0: elemental || 1: living || 2: humanoid || 3: beast)
+-1
+
+Link				(unit summoned via Summoning, Bodyguards, or similar)
+Toadfrog

@@ -1,0 +1,8 @@
+Skill Name
+Infantry Focus
+
+Reference Name
+Infantry_Focus
+
+Skill Description
+This commander recruits Palus APA relative to Skill Rank. In addition, all Palus infantry gain Retreat and Regeneration in combat as well as a 5% health and damage bonus per skill rank.

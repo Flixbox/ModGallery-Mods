@@ -1,0 +1,13 @@
+Name
+Robin
+
+Unit
+Mercenary
+
+Skills
+Plunder
+Archery
+Leadership
+Royalty
+Fortune
+Warding

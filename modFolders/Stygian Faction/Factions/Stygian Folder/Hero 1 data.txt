@@ -1,0 +1,24 @@
+Name
+Bjaeorn
+
+Unit
+Bombard
+
+Skills
+Union
+Engineering
+Combat
+Plunder
+Archery
+Destruction
+Bodyguards
+Midas Touch
+Mastery
+Champion
+Legion
+Mercurial
+Logistics
+Tactics
+Pyromancy
+Recruitment
+Recalcitrance

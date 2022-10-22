@@ -1,0 +1,12 @@
+if (ishero)
+{
+	checkskillrank("Relentless")
+	if skillrank > 0
+	{
+		damage += damage*skillrank/5
+		mhealth += mhealth*skillrank/5
+		mspe += mspe*skillrank/10
+		matcd -= skillrank/2
+		Leech Life = 1
+		Regeneration = 1
+	}
