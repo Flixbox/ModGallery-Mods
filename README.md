@@ -59,7 +59,7 @@ Finally, restart ModGallery and check if your content appears in the list.
 - Click `URL`
 - Copy & Paste the URL to this repo - `https://github.com/Flixbox/ModGallery-Mods`
 - You can now make changes to the mods and maps. Click `Show in Explorer` to open the folder.
-- Once you've made a big step, put in a summary of your changes in the `Summary` field. Example: `Added the Cataclysm mod`
+- Once you'd like to finalize your progress, put in a summary of your changes in the `Summary` field. Example: `Added the Cataclysm mod`
 - Click `Commit to main`
 - Click `Push origin`
 - Close and reopen the `ModGallery` program. Check if everything is in order and your changes appear.
