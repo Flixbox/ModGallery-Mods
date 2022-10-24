@@ -50,3 +50,16 @@ Guide for contributors:
 - Commit and push your changes.
 
 Finally, restart ModGallery and check if your content appears in the list.
+
+## Detailed guide for non-dev contributors
+
+- Install [GitHub Desktop](https://desktop.github.com)
+- Log in to your GitHub Account in GitHub Desktop
+- Click `Clone a repository from the Internet...`
+- Click `URL`
+- Copy & Paste the URL to this repo - `https://github.com/Flixbox/ModGallery-Mods`
+- You can now make changes to the mods and maps. Click `Show in Explorer` to open the folder.
+- Once you've made a big step, put in a summary of your changes in the `Summary` field. Example: `Added the Cataclysm mod`
+- Click `Commit to main`
+- `Push`
+- Close and reopen the `ModGallery` program. Check if everything is in order and your changes appear.
